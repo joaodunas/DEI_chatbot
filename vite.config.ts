@@ -14,5 +14,6 @@ export default defineConfig({
   server: {
     host: true, // Listen on all addresses, including 0.0.0.0 for a more secure setup change to actual ip address
     port: 80, // Use port 80
+    cors: true, // Allow all origins, for a more secure setup change to actual ip address
   },
 });
