@@ -99,6 +99,9 @@ function App() {
           model: modelName,
           messages: apiMessages,
           stream: true,
+          options: {
+            temperature: 0.5,
+          },
         }),
       });
 
