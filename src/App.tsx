@@ -18,6 +18,11 @@ import { Message, ChatMessage, OllamaChatStreamResponse } from "./types/chat";
 // Import the system prompt content from the new file
 import { systemPrompt } from "./config/systemPrompt";
 
+// Function to generate a simple unique ID
+const generateId = (): string => {
+  return `${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
+};
+
 // Define your system message
 // Type annotation using imported ChatMessage
 const SYSTEM_MESSAGE: ChatMessage = {
@@ -26,7 +31,7 @@ const SYSTEM_MESSAGE: ChatMessage = {
 };
 
 const INFO_MESSAGE: Message = {
-  id: crypto.randomUUID(),
+  id: generateId(), // Use the new function
   text: `
   Olá! Eu sou o ChatBot do DEI!\n
   Fui criado por alunos do DEI para te ajudar a encontrar informação sobre o DEI e a Universidade de Coimbra\n
@@ -50,12 +55,12 @@ function App() {
 
     // Type annotation using imported Message
     const userMessage: Message = {
-      id: crypto.randomUUID(),
+      id: generateId(), // Use the new function
       text: trimmedInput,
       sender: "user",
     };
 
-    const assistantMessageId = crypto.randomUUID();
+    const assistantMessageId = generateId(); // Use the new function
     // Type annotation using imported Message
     const initialAssistantMessage: Message = {
       id: assistantMessageId,
