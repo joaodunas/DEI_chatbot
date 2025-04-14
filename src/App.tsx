@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import "./App.css";
@@ -46,6 +46,7 @@ function App() {
   const [messages, setMessages] = useState<Message[]>([INFO_MESSAGE]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const messagesEndRef = useRef<HTMLDivElement>(null); // Ref to scroll to the bottom
 
   const handleSend = async () => {
     const trimmedInput = input.trim();
@@ -187,6 +188,11 @@ function App() {
     setMessages([INFO_MESSAGE]);
   };
 
+  // Effect to scroll down when messages update
+  useEffect(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]); // Dependency: run when messages change
+
   return (
     <div className="flex flex-col h-screen bg-background">
       <header className="p-4 border-b shrink-0 flex items-center justify-between gap-3">
@@ -248,6 +254,8 @@ function App() {
                   )}
                 </div>
               ))}
+            {/* Empty div at the end of messages to target for scrolling */}
+            <div ref={messagesEndRef} />
           </div>
         </ScrollArea>
       </div>
