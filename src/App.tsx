@@ -17,8 +17,6 @@ import deiLogoAvatar from "./assets/dei_logo.svg"; // Assuming this is the avata
 import { Message, ChatMessage, OllamaChatStreamResponse } from "./types/chat";
 // Import the system prompt content from the new file
 import { systemPrompt } from "./config/systemPrompt";
-// Import API configuration
-import { OLLAMA_API_ENDPOINT, OLLAMA_MODEL_NAME } from "./config/apiConfig";
 
 // Define your system message
 // Type annotation using imported ChatMessage
@@ -87,11 +85,13 @@ function App() {
     ];
 
     try {
-      // Use the /api/chat endpoint
-      const response = await fetch(OLLAMA_API_ENDPOINT, {
+      const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
+      const modelName = import.meta.env.VITE_OLLAMA_MODEL_NAME;
+
+      const response = await fetch(apiEndpoint, {
         method: "POST",
         body: JSON.stringify({
-          model: OLLAMA_MODEL_NAME,
+          model: modelName,
           messages: apiMessages,
           stream: true,
         }),
@@ -224,7 +224,7 @@ function App() {
                         : "bg-muted"
                     }`}
                   >
-                    <CardContent className="p-3 break-words">
+                    <CardContent className="px-5 break-words">
                       <ReactMarkdown remarkPlugins={[remarkGfm]}>
                         {message.text ||
                           (message.sender === "assistant" && isLoading
