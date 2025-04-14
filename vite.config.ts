@@ -11,4 +11,8 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  server: {
+    host: true, // Listen on all addresses, including 0.0.0.0 for a more secure setup change to actual ip address
+    port: 80, // Use port 80
+  },
 });
