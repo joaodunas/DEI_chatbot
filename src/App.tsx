@@ -17,6 +17,8 @@ import deiLogoAvatar from "./assets/dei_logo.svg"; // Assuming this is the avata
 import { Message, ChatMessage, OllamaChatStreamResponse } from "./types/chat";
 // Import the system prompt content from the new file
 import { systemPrompt } from "./config/systemPrompt";
+// Import API configuration
+import { OLLAMA_API_ENDPOINT, OLLAMA_MODEL_NAME } from "./config/apiConfig";
 
 // Define your system message
 // Type annotation using imported ChatMessage
@@ -86,11 +88,11 @@ function App() {
 
     try {
       // Use the /api/chat endpoint
-      const response = await fetch("http://localhost:11434/api/chat", {
+      const response = await fetch(OLLAMA_API_ENDPOINT, {
         method: "POST",
         body: JSON.stringify({
-          model: "gemma3:27b", // Ensure this model supports chat
-          messages: apiMessages, // Send the formatted conversation history
+          model: OLLAMA_MODEL_NAME,
+          messages: apiMessages,
           stream: true,
         }),
       });
