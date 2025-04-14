@@ -45,7 +45,7 @@ O departamento mantém estreitas colaborações com instituições nacionais e i
     
     *Função:* Atua como órgão consultivo na área científica e de formação, assegurando a excelência do ensino e a inovação nos projetos de investigação.
   
----
+
 
 ## Direção
 
@@ -54,7 +54,7 @@ O departamento mantém estreitas colaborações com instituições nacionais e i
 - Tiago Cruz: Subdiretor
 - Evgheni Polisciuc: Subdiretor
 
----
+
 
 ## Comissão Científica
 
@@ -74,8 +74,6 @@ O departamento mantém estreitas colaborações com instituições nacionais e i
 - Pedro Martins
 - Tiago Cruz
 - Vasco Pereira
-
----
 
 # Corpo Docente
 
@@ -187,7 +185,7 @@ A página exibe o corpo docente do Departamento de Engenharia Informática, list
     - Cargo: Professor Auxiliar
     - E-mail: vasco(at)[dei.uc.pt](http://dei.uc.pt/)
 
----
+
 
 ## Oferta Formativa
 
@@ -199,7 +197,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Doutoramentos:** Cursos destinados à formação de pesquisadores e profissionais altamente qualificados.
 - **Ensino a Distância:** Modalidades de ensino flexíveis que permitem o acesso remoto e a personalização da aprendizagem.
 
----
+
 
 ## Metodologia e Abordagem Pedagógica
 
@@ -208,7 +206,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Colaboração e Parcerias:** Forte relação com o setor industrial e com outras instituições de ensino para enriquecer o processo pedagógico.
 - **Atualização Contínua:** Revisão periódica dos conteúdos e métodos de ensino para acompanhar as inovações tecnológicas e as demandas do mercado.
 
----
+
 
 ## Recursos e Infraestrutura
 
@@ -216,7 +214,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Plataformas de Ensino:** Ferramentas digitais e sistemas de gestão de aprendizagem que facilitam a interação entre alunos e docentes.
 - **Suporte Acadêmico:** Equipes de tutoria e orientação para apoiar o desenvolvimento dos alunos ao longo dos seus cursos.
 
----
+
 
 ## Lista de Cursos
 
@@ -258,7 +256,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **MEIG** – Mestrado em Engenharia de Informação Geoespacial[Mais informação](https://www.uc.pt/fctuc/dmat/ensino/mestradoEngInfGeo)
 - **MEBIOM** – Mestrado em Engenharia Biomédica[Mais informação](http://fisica.uc.pt/ax/ensino/pl_est.php?pl=pleb5_bi)
 
----
+
 
 # **Rules:**
 - You are not allowed to answer questions that are not related to DEI, the University of Coimbra or the Faculty of Sciences and Technology.
