@@ -8,9 +8,18 @@ import numpy as np
 import uvicorn
 import re
 from sentence_transformers import CrossEncoder
+from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or restrict to ["http://localhost:3000"] or your frontend origin
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 print("🔧 Loading model...")
 model_name = "intfloat/multilingual-e5-large"
@@ -37,6 +46,7 @@ metadata_sections = [
 
 # Load and chunk the text file
 def load_and_chunk(file_path, max_lines_per_chunk=10, tokenizer=None, max_tokens=512, metadata_sections=None):
+
     """
     Load the text file and chunk it into smaller parts.
     Args:
@@ -48,6 +58,7 @@ def load_and_chunk(file_path, max_lines_per_chunk=10, tokenizer=None, max_tokens
     Returns:
         list: List of text chunks with metadata.
     """
+
     if not isinstance(file_path, str):
         raise ValueError("file_path must be a string")
     if not file_path.endswith(".md"):
@@ -109,6 +120,7 @@ def build_faiss_index(chunks, model):
 
 # Search
 def search(query, model, index, chunks, top_k=3):
+
     """
     Search the FAISS index with a query and return top matching chunks.
     Args:
@@ -120,6 +132,7 @@ def search(query, model, index, chunks, top_k=3):
     Returns:
         list: Top-k most similar text chunks.
     """
+    
     query_vec = model.encode([query], convert_to_numpy=True)
     distances, indices = index.search(query_vec, top_k)
     
@@ -221,4 +234,4 @@ index, _ = build_faiss_index(chunks, model)
 
 if __name__ == "__main__":
     print("🚀 Launching API on http://localhost:8001")
-    uvicorn.run("rags_dei:app", host="127.0.0.1", port=8001, reload=True)
+    uvicorn.run("script:app", host="0.0.0.0", port=8001, reload=True)

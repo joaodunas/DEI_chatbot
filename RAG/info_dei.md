@@ -48,12 +48,6 @@ O departamento mantém estreitas colaborações com instituições nacionais e i
 
 *URL:* [https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/](https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/)
 
-*Idioma:* Português
-
-*Data de acesso:* 2025-04-13
-
----
-
 ## Introdução
 
 Esta página apresenta a estrutura de gestão do Departamento de Engenharia Informática da FCTUC, detalhando os principais mecanismos de governação e administração. Em particular, destaca os **Orgãos Sociais**, que são os responsáveis pela definição de estratégias, execução de políticas e supervisão das atividades académicas, de investigação e administrativas.

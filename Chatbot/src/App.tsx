@@ -92,8 +92,33 @@ function App() {
 
     try {
       const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
+      const ragApiEndpoint = import.meta.env.VITE_RAG_API_ENDPOINT;
       const modelName = import.meta.env.VITE_OLLAMA_MODEL_NAME;
 
+      const contextResponse = await fetch(ragApiEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          query: trimmedInput,
+          top_k: 3, // or whatever number of results you want
+        }),
+      });      
+
+      if (!contextResponse.ok) {
+        throw new Error("Failed to fetch context");
+      }
+
+      const contextData = await contextResponse.json();
+
+      const contextString = contextData.results
+        .map((item: { text: string }) => item.text)
+        .join("\n");
+
+      console.log(contextString);
+        
+      // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",
         body: JSON.stringify({
