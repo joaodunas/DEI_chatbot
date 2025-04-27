@@ -76,8 +76,7 @@ function App() {
 
     // Prepare messages for the API call
     // Type annotation using imported ChatMessage
-    const apiMessages_send: ChatMessage[] = [
-      //it has to have two different arrays, because the context has to be added to the last user message and shouldn't appear displayed in the chat
+    const apiMessages: ChatMessage[] = [
       SYSTEM_MESSAGE,
       ...updatedMessages
         .filter((msg) => msg.id !== assistantMessageId) // Exclude the placeholder
@@ -89,8 +88,6 @@ function App() {
             } as ChatMessage) // Type assertion using imported ChatMessage
         ),
     ];
-
-    const apiMessages = structuredClone(apiMessages_send);
 
     try {
       const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
@@ -121,7 +118,7 @@ function App() {
       console.log(contextString);
 
       //add this contextString to the last user message of the apiMessages
-      apiMessages_send[apiMessages_send.length - 1].content =
+      apiMessages[apiMessages.length - 1].content =
         "\n<context>" + contextString + "</context>";
 
       // Create message with context and user prompt
@@ -129,7 +126,7 @@ function App() {
         method: "POST",
         body: JSON.stringify({
           model: modelName,
-          messages: apiMessages_send,
+          messages: apiMessages,
           stream: true,
           options: {
             temperature: 0.5,
