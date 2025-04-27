@@ -104,7 +104,7 @@ function App() {
           query: trimmedInput,
           top_k: 3, // or whatever number of results you want
         }),
-      });      
+      });
 
       if (!contextResponse.ok) {
         throw new Error("Failed to fetch context");
@@ -117,7 +117,16 @@ function App() {
         .join("\n");
 
       console.log(contextString);
-        
+
+      //add this contextString to the apiMessages as a new message with role "system"
+      apiMessages.push({
+        role: "system",
+        content:
+          "Use the following context to answer the user's question: <context>" +
+          contextString +
+          "</context>",
+      });
+
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",
@@ -130,6 +139,9 @@ function App() {
           },
         }),
       });
+
+      //remove the system message from the apiMessages using pop
+      apiMessages.pop();
 
       if (!response.body) {
         throw new Error("Response body is null");
