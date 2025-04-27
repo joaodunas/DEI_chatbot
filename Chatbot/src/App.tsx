@@ -119,7 +119,10 @@ function App() {
 
       //add this contextString to the last user message of the apiMessages
       apiMessages[apiMessages.length - 1].content =
-        "\n<context>" + contextString + "</context>";
+        apiMessages[apiMessages.length - 1].content +
+        "\n<context>" +
+        contextString +
+        "</context>";
 
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
