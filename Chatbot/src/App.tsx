@@ -76,9 +76,9 @@ function App() {
 
     // Prepare messages for the API call
     // Type annotation using imported ChatMessage
-    const apiMessages: ChatMessage[] = [
+    const apiMessages_send: ChatMessage[] = [
+      //it has to have two different arrays, because the context has to be added to the last user message and shouldn't appear displayed in the chat
       SYSTEM_MESSAGE,
-      // Map existing UI messages (excluding the empty assistant one) to API format
       ...updatedMessages
         .filter((msg) => msg.id !== assistantMessageId) // Exclude the placeholder
         .map(
@@ -89,6 +89,8 @@ function App() {
             } as ChatMessage) // Type assertion using imported ChatMessage
         ),
     ];
+
+    const apiMessages = structuredClone(apiMessages_send);
 
     try {
       const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
@@ -118,30 +120,22 @@ function App() {
 
       console.log(contextString);
 
-      //add this contextString to the apiMessages as a new message with role "system"
-      apiMessages.push({
-        role: "system",
-        content:
-          "Use the following context to answer the user's question: <context>" +
-          contextString +
-          "</context>",
-      });
+      //add this contextString to the last user message of the apiMessages
+      apiMessages_send[apiMessages.length - 1].content =
+        "\n<context>" + contextString + "</context>";
 
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",
         body: JSON.stringify({
           model: modelName,
-          messages: apiMessages,
+          messages: apiMessages_send,
           stream: true,
           options: {
             temperature: 0.5,
           },
         }),
       });
-
-      //remove the system message from the apiMessages using pop
-      apiMessages.pop();
 
       if (!response.body) {
         throw new Error("Response body is null");
