@@ -121,7 +121,7 @@ function App() {
       console.log(contextString);
 
       //add this contextString to the last user message of the apiMessages
-      apiMessages_send[apiMessages.length - 1].content =
+      apiMessages_send[apiMessages_send.length - 1].content =
         "\n<context>" + contextString + "</context>";
 
       // Create message with context and user prompt
