@@ -21,11 +21,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-print("🔧 Loading model...")
+print("🔧 Loading model...", flush=True)
 model_name = "intfloat/multilingual-e5-large"
 model = SentenceTransformer(model_name)
 
-print("🔧 Loading reranker...")
+print("🔧 Loading reranker...", flush=True)
 reranker_model = CrossEncoder("cross-encoder/mmarco-mMiniLMv2-L12-H384-v1")
 
 metadata_sections = [
@@ -225,13 +225,11 @@ def query_docs(request: QueryRequest):
 
 FILE_PATH = "info_dei.md"
 
-print("📄 Chunking file...")
+print("📄 Chunking file...", flush=True)
 chunks = load_and_chunk(FILE_PATH, max_tokens=512, metadata_sections=metadata_sections)
-print(f"🔍 Found {len(chunks)} chunks.")
+print(f"🔍 Found {len(chunks)} chunks.", flush=True)
 
-print("📦 Building FAISS index...")
+print("📦 Building FAISS index...", flush=True)
 index, _ = build_faiss_index(chunks, model)
 
-if __name__ == "__main__":
-    print("🚀 Launching API on http://localhost:8001")
-    uvicorn.run("script:app", host="0.0.0.0", port=8001, reload=True)
+print("All done", flush=True)

@@ -6,7 +6,7 @@ services:
       context: ./RAG
     container_name: rag_dei_chatbot
     ports:
-      - "8001:8001"
+      - "81:81"
     volumes:
       - rag_dei_model_cache:/root/.cache
     networks:
