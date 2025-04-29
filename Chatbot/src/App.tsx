@@ -78,7 +78,6 @@ function App() {
     // Type annotation using imported ChatMessage
     const apiMessages: ChatMessage[] = [
       SYSTEM_MESSAGE,
-      // Map existing UI messages (excluding the empty assistant one) to API format
       ...updatedMessages
         .filter((msg) => msg.id !== assistantMessageId) // Exclude the placeholder
         .map(
@@ -104,7 +103,7 @@ function App() {
           query: trimmedInput,
           top_k: 3, // or whatever number of results you want
         }),
-      });      
+      });
 
       if (!contextResponse.ok) {
         throw new Error("Failed to fetch context");
@@ -117,7 +116,16 @@ function App() {
         .join("\n");
 
       console.log(contextString);
-        
+
+      //add this contextString to the last user message of the apiMessages
+      apiMessages[apiMessages.length - 1].content =
+        "<context>" +
+        contextString +
+        "</context>" +
+        "<user_query>" +
+        trimmedInput +
+        "</user_query>";
+
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",

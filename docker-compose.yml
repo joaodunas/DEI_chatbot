@@ -1,4 +1,4 @@
-version: '3.8'
+version: "3.8"
 
 services:
   rag_dei_chatbot:
@@ -6,7 +6,7 @@ services:
       context: ./RAG
     container_name: rag_dei_chatbot
     ports:
-      - "81:81"
+      - "8080:8080"
     volumes:
       - rag_dei_model_cache:/root/.cache
     networks:
