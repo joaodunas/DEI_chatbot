@@ -18,7 +18,7 @@ O departamento mantém estreitas colaborações com instituições nacionais e i
 
 - **Endereço:** Cidade Universitária, 3004-516 Coimbra, Portugal
 - **Telefone:** +351 239 210000
-- **Email:** [dei@uc.pt](mailto:dei@uc.pt)
+- **Email:** dei@uc.pt
 
 # Orgãos de Gestão do DEI
 
@@ -69,6 +69,19 @@ Os órgãos sociais apresentados na página são os seguintes:
 - **Vasco Pereira**
 
 Para mais informações consulte https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/
+
+# Informação geral acerca do corpo docente do DEI
+
+Total de professores: 54
+Número de categorias distintas: 10
+
+Número de professores por categoria:
+  Professor(a) Associado: 10
+  Professor(a) Catedrático: 8
+  Professor(a) Catedrático Aposentado: 1
+  Professor(a) Catedrático Jubilado: 4
+  Professor(a) Associado c/ Agregação: 11
+  Professor(a) Auxiliar: 20
 
 # Professor Alberto Cardoso:
 
