@@ -14,15 +14,13 @@ Fundado com o intuito de formar profissionais de alta qualidade, o departamento 
 
 O departamento mantém estreitas colaborações com instituições nacionais e internacionais, promovendo intercâmbios e projetos conjuntos com diversos parceiros académicos e industriais.
 
-# Contactos (moranda, telfone, e email) do DEI
+# Contactos do DEI
 
 - **Endereço:** Cidade Universitária, 3004-516 Coimbra, Portugal
 - **Telefone:** +351 239 210000
 - **Email:** [dei@uc.pt](mailto:dei@uc.pt)
 
 # Orgãos de Gestão do DEI
-
-*URL:* [https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/](https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/)
 
 ## Introdução
 
@@ -69,6 +67,8 @@ Os órgãos sociais apresentados na página são os seguintes:
 - **Pedro Martins**
 - **Tiago Cruz**
 - **Vasco Pereira**
+
+Para mais informações consulte https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/
 
 # Corpo Docente do DEI
 
@@ -157,7 +157,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Plataformas de Ensino:** Ferramentas digitais e sistemas de gestão de aprendizagem que facilitam a interação entre alunos e docentes.
 - **Suporte Acadêmico:** Equipes de tutoria e orientação para apoiar o desenvolvimento dos alunos ao longo dos seus cursos.
 
-## Lista de Cursos
+# Lista de Cursos do DEI
 
 ### Licenciaturas (1º ciclo)
 
@@ -197,7 +197,6 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **MEIG** – Mestrado em Engenharia de Informação Geoespacial - https://www.uc.pt/fctuc/dmat/ensino/mestradoEngInfGeo
 - **MEBIOM** – Mestrado em Engenharia Biomédica - http://fisica.uc.pt/ax/ensino/pl_est.php?pl=pleb5_bi
 
----
 
 # Direção do DEI
 
@@ -235,7 +234,7 @@ O Centro de Informática e Sistemas da Universidade de Coimbra (CISUC) é um gra
 - Conta com cerca de 242 investigadores (professores e estudantes de graduação e pós‑graduação).
 - É membro fundador do Laboratório Associado de Sistemas Inteligentes (LASI), referência em Inteligência Artificial e Ciência dos Dados em Portugal.
 
-CISUC – https://www.cisuc.uc.pt/en
+Para mais informação consulte o site do CISUC – https://www.cisuc.uc.pt/en
 
 
 # Informação sobre a Licenciatura em Engenharia Informática (LEI)
@@ -264,7 +263,7 @@ Ver Plano de Estudos 2025‑2026 - https://apps.uc.pt/courses/PT/programme/362/2
     - Maiores de 23 anos
     - Mudança de instituição/curso
     - Titulares de curso médio ou superior
-    (para ver mais detalhes aceda a https://apps.uc.pt/courses/pt/course/362
+    para ver mais detalhes aceda a https://apps.uc.pt/courses/pt/course/362
 
 ### Condições de Acesso
 
@@ -321,10 +320,6 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
-
-## Coordenação do Curso
-
-[Untitled](DEI%20Content%201d46c17a4767809baf2eea22239baa98/Untitled%201d76c17a47678031bb1de932989a7919.csv)
 
 # Plano de Estudos de LEI
 
@@ -399,23 +394,23 @@ O ciclo de estudos é composto por três anos organizados em seis semestres, com
 - **Belas‑Artes (BA):** 24 ECTS
 - **Matemática e Estatística (ME):** 6 ECTS
 
-[Ver Plano de Estudos ↗](https://apps.uc.pt/courses/PT/programme/462/2025-2026?id_branch=22124#branch-22124)
+Para msia informação acerca do plano de estudos consulte https://apps.uc.pt/courses/PT/programme/462/2025-2026?id_branch=22124#branch-22124
 
 ## Destaques
 
-- [Seleção de trabalhos dos estudantes ↗](http://dm.dei.uc.pt/)
+Para ver a seleção de trabalhos dos estudantes aceda a http://dm.dei.uc.pt/
 
 ## Informação de Candidaturas
 
 ### Prazos de Candidatura
 
-Prazos definidos pela [DGES](https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593).
+Prazos definidos pela DGES - https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593
 
 ### Concurso Especial
 
 Concurso Especial para Estudante Internacional | Maiores de 23 Anos | Regime de Mudança de Par Instituição/Curso | Titulares de Curso Médio ou Superior
 
-[Detalhes ↗](https://apps.uc.pt/courses/PT/course/462)
+Para ver mais detalhes consulte https://apps.uc.pt/courses/PT/course/462
 
 ### Condições de Acesso e Ingresso
 
@@ -474,17 +469,14 @@ Os objetivos preconizados para a LDM privilegiam uma formação de base sólida 
 
 ## Coordenação do Curso
 
-| Nome | Função |
-| --- | --- |
-| Nuno Coelho | Coordenador |
-| Jorge Cardoso | Vice‑coordenador |
+O Professor Nuno Coelho é o Coordenador e o Professsor Jorge Cardoso é o Vice‑coordenador
 
-**E‑mail da Coordenação:** [coord‑ldm@dei.uc.pt](mailto:coord-ldm@dei.uc.pt)
+O e‑mail da Coordenação é coord‑ldm@dei.uc.pt.
 
-> O trabalho a desenvolver durante um ano letivo por um estudante, de acordo com o plano indicativo do ciclo de estudos e em regime de tempo integral, corresponde a 60 ECTS.
-> 
+O trabalho a desenvolver durante um ano letivo por um estudante, de acordo com o plano indicativo do ciclo de estudos e em regime de tempo integral, corresponde a 60 ECTS.
+ 
 
-## Plano de Estudos
+# Plano de Estudos da Licenciatura em Design e Multimédia (MDM):
 
 | Nome da unidade curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -513,9 +505,7 @@ Os objetivos preconizados para a LDM privilegiam uma formação de base sólida 
 | Introdução à Inteligência Artificial | 3 | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
 | Projeto 4 – Multimédia Interativo | 3 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
 
----
-
-# Licenciatura em Engenharia e Ciência de Dados
+# Licenciatura em Engenharia e Ciência de Dados (LECD)
 
 ## Apresentação
 
@@ -531,17 +521,21 @@ A **LECD** é um curso superior de 1º ciclo, com duração de 3 anos (6 semestr
 - **Opção aberta** (6 ECTS)
 - **Projeto em Engenharia e Ciência de Dados** (12 ECTS)
 
-[Ver Plano de Estudos ↗](https://apps.uc.pt/courses/PT/programme/8502/2025-2026?id_branch=22530#branch-22530)
+Para ver o plano de Estudos consulte https://apps.uc.pt/courses/PT/programme/8502/2025-2026?id_branch=22530#branch-22530
 
 ## Destaques
 
-- [Roadshow em Engenharia e Ciência de Dados ↗](https://dei.uc.pt/roadshowecd/)
-- **Prazos de candidatura** definidos pela DGES.[Calendário DGES ↗](https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593)
+Para ver infomação sobre oRoadshow em Engenharia e Ciência de Dados aceda a https://dei.uc.pt/roadshowecd/
+
+- **Prazos de candidatura** definidos pela DGES. Pode consultar o Calendário da DGES em https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593
+
 - **Concurso Especial** para:
     - Estudante Internacional
     - Maiores de 23 Anos
     - Mudança de Par Instituição/Curso
-    - Titulares de Curso Médio ou Superior[Detalhes ↗](https://apps.uc.pt/courses/PT/course/8502)
+    - Titulares de Curso Médio ou Superior 
+    
+Para ver Detalhes aceda a https://apps.uc.pt/courses/PT/course/8502
 
 ### Condições de Acesso e Ingresso
 
@@ -563,21 +557,16 @@ A LECD habilita para:
 - Prosseguimento de estudos avançados (Mestrado em Engenharia e Ciência de Dados)
 - Exercício profissional em Engenharia e Ciência de Dados — análise, projeto e implementação de soluções de média complexidade, tanto na componente de engenharia dos dados quanto na de ciência dos dados
 
----
 
 ## Informação Adicional
 
-<details>
-<summary>OBJETIVOS DO CURSO</summary>
+OBJETIVOS DO CURSO
 
 Para alcançar os seus objetivos, além de bases teóricas sólidas, a LECD oferece contextos reais que permitem, desde cedo, colocar os estudantes em contacto com restrições reais de escala e complexidade. Prepara-os tanto para estudos avançados quanto para o exercício profissional em Engenharia e Ciência de Dados.
 
 Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM), Engenharia Electrotécnica e de Computadores (DEEC) e Física (DF).
 
-</details>
-
-<details>
-<summary>ADMISSÃO</summary>
+ADMISSÃO
 
 - **Estrutura Curricular**: 3 anos, 6 semestres (1 sem. = 5 unidades de 6 ECTS, último sem. = 4 unidades totalizando 12 ECTS para projeto)
 - **Tronco comum**: 28 disciplinas obrigatórias + 1 opção aberta (6 ECTS)
@@ -591,21 +580,14 @@ Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM
     - Internacional: 7000 € / ano
 - **Língua**: Português
 
-</details>
-
----
 
 ## Coordenação do Curso
 
-[Untitled](DEI%20Content%201d46c17a4767809baf2eea22239baa98/Untitled%201d76c17a4767802280c7f7b3aff6ab38.csv)
+O e‑mail DA COORDENAÇÃO é coord‑lecd@dei.uc.pt
 
-**E‑MAIL DA COORDENAÇÃO:** [coord‑lecd@dei.uc.pt](mailto:coord-lecd@dei.uc.pt)
+# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD)
 
-## Plano de Estudos
-
-**180 ECTS • 6 semestres**
-
----
+Ao todo são 180 ECTS, divididos por 6 semestres
 
 ## 1.º Ano (60 ECTS)
 
@@ -624,8 +606,6 @@ Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM
 | Programação Orientada aos Objetos | 1 | Obrigatória | INF | 6 |
 | Álgebra Linear Numérica e Cálculo Científico | 1 | Obrigatória | MAT | 6 |
 
----
-
 ## 2.º Ano (60 ECTS)
 
 | Unidade Curricular | Sem. | Tipo | Área | ECTS |
@@ -643,7 +623,6 @@ Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM
 | Sistemas Distribuídos | 2 | Obrigatória | INF | 6 |
 | Sistemas e Redes de Sensorização e Atuação | 2 | Obrigatória | INF | 6 |
 
----
 
 ## 3.º Ano (60 ECTS)
 
@@ -660,19 +639,11 @@ Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM
 | Processamento Audiovisual | 3 | Obrigatória | INF | 6 |
 | Projeto de Engenharia e Ciência de Dados | 3 | Obrigatória | INF | 12 |
 
-> Regra de opção aberta
-> 
-> 
-> No 2.º semestre, o estudante inscreve-se também numa unidade curricular optativa de 6 ECTS à sua escolha entre as oferecidas pela UC (sujeita a aprovação da coordenação).
-> 
-
----
+Regra de opção aberta: No 2.º semestre do 3º ano, o estudante inscreve-se também numa unidade curricular optativa de 6 ECTS à sua escolha entre as oferecidas pela UC (sujeita a aprovação da coordenação).
 
 # Mestrado em Engenharia Informática
 
-**120 ECTS • 4 semestres**
-
----
+Ao todo são 120 ECTS, divididos por 4 semestres
 
 ## Apresentação
 
@@ -684,8 +655,6 @@ O Mestrado em Engenharia Informática (MEI) prepara engenheiros para conceber, l
 - Sistemas de Informação
 
 Fornece competências científicas e profissionais de excelência, reconhecidas pelo mercado e pela academia.
-
----
 
 ## Estrutura Curricular
 
@@ -700,10 +669,7 @@ Fornece competências científicas e profissionais de excelência, reconhecidas 
 | **Optativas** | 24 |
 | *até 12 ECTS em outros cursos UC* |  |
 
-> Total: 120 ECTS em 2 anos (4 semestres)
-> 
-
----
+Total: 120 ECTS em 2 anos (4 semestres)
 
 ## Informação de Candidaturas
 
@@ -720,15 +686,12 @@ Fornece competências científicas e profissionais de excelência, reconhecidas 
 
 **Inscrições**:
 
-- Estudante UC: [login ↗](https://inforestudante.uc.pt/nonio/security/login.do)
-- Outros: [registo ↗](https://inforestudante.uc.pt/nonio/security/novoRegisto.do)
+- Para estudantes UC, aceder ao seguinte link para inscrever: https://inforestudante.uc.pt/nonio/security/login.do
+- Para outros, aceder ao seguinte link: https://inforestudante.uc.pt/nonio/security/novoRegisto.do
 
----
+# Áreas de Especialização do Mestrado em Engenharia Informática (MEI)
 
-## Áreas de Especialização
-
-<details>
-<summary><strong>1. Comunicações, Serviços e Infraestruturas</strong></summary>
+1. Comunicações, Serviços e Infraestruturas
 
 **Objetivos**
 
@@ -746,12 +709,9 @@ Fornece competências científicas e profissionais de excelência, reconhecidas 
 
 Especialista em redes, Cloud, segurança, consultoria TI, investigador.
 
-[Plano Curricular Completo ↗](https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20328)
+Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20328
 
-</details>
-
-<details>
-<summary><strong>2. Engenharia de Software</strong></summary>
+2. Engenharia de Software
 
 **Objetivos**
 
@@ -769,12 +729,9 @@ Especialista em redes, Cloud, segurança, consultoria TI, investigador.
 
 Arquiteto de software, analista, gestor de qualidade, gestor de projetos.
 
-[Plano Curricular Completo ↗](https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20326)
+Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20326
 
-</details>
-
-<details>
-<summary><strong>3. Sistemas Inteligentes</strong></summary>
+3. Sistemas Inteligentes
 
 **Objetivos**
 
@@ -792,12 +749,9 @@ Arquiteto de software, analista, gestor de qualidade, gestor de projetos.
 
 Data scientist, HCI designer, programador de agentes, investigador.
 
-[Plano Curricular Completo ↗](https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20327)
+Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20327
 
-</details>
-
-<details>
-<summary><strong>4. Sistemas de Informação</strong></summary>
+4. Sistemas de Informação
 
 **Objetivos**
 
@@ -815,21 +769,13 @@ Data scientist, HCI designer, programador de agentes, investigador.
 
 Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 
-[Plano Curricular Completo ↗](https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20325)
-
-</details>
-
----
+Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20325
 
 ## Coordenação do Curso
 
-|  |  |
-| --- | --- |
-| **Coordenador** | Pedro Abreu |
-| **Vice‑coordenador** | Tiago Cruz |
-| **Email** | coord‑mei@dei.uc.pt |
-
----
+O Coordenador é o Professor Pedro Abreu
+O Vice‑coordenador é o Professor Tiago Cruz
+O email da coordenação é coord‑mei@dei.uc.pt
 
 ## Informação Adicional
 
@@ -875,8 +821,6 @@ Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 
 - Dissertação/Estágio em Comunicações, Serviços e Infraestruturas — 42 ECTS
 
----
-
 ### 2. Engenharia de Software
 
 ### 1.º Ano
@@ -908,8 +852,6 @@ Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 **Anual**
 
 - Dissertação/Estágio em Engenharia de Software — 42 ECTS
-
----
 
 ### 3. Sistemas Inteligentes
 
@@ -943,8 +885,6 @@ Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 
 - Dissertação/Estágio em Sistemas Inteligentes — 42 ECTS
 
----
-
 ### 4. Sistemas de Informação
 
 ### 1.º Ano
@@ -974,8 +914,6 @@ Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 **1.º Semestre (Optativas — 12 ECTS)**
 *O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministr
 
----
-
 # Mestrado em Design e Multimédia
 
 ## Apresentação
@@ -991,13 +929,11 @@ O Mestrado em Design e Multimédia (MDM) forma profissionais especializados na c
     - Media Computacionais
 3. **42 ECTS** — Estágio curricular com dissertação
 
-[Ver plano curricular](https://apps.uc.pt/courses/PT/course/468) ↗
+Para ver o plano curricular, consulte https://apps.uc.pt/courses/PT/course/468
 
 ## Destaques
 
-- [Seleção de trabalhos dos alunos](http://dm.dei.uc.pt/) ↗
-
----
+Para ver a seleção de trabalhos dos alunos, consulte http://dm.dei.uc.pt/
 
 ## Informação de Candidaturas
 
@@ -1024,10 +960,9 @@ Blended‑Learning (Integral, Diurno, Presencial com continuidade online).
 
 **Submeter candidatura**
 
-- [Estudante UC ↗](https://inforestudante.uc.pt/nonio/security/login.do)
-- [Outros ↗](https://inforestudante.uc.pt/nonio/security/novoRegisto.do)
-
----
+Para submeter a candidatura:
+Se for Estudante da Universidade de Coimbra, aceda a: https://inforestudante.uc.pt/nonio/security/login.do
+Se for Outros, aceda a: https://inforestudante.uc.pt/nonio/security/novoRegisto.do
 
 ## Informação Adicional
 
@@ -1055,18 +990,13 @@ O curso privilegia uma sólida formação interdisciplinar, preparando profissio
 1. Licenciado em Design, Informática, Comunicações e áreas afins.
 2. Outros graus reconhecidos pelo Conselho Científico da FCTUC.
 
----
-
 ## Coordenação do Curso
 
-[Untitled](DEI%20Content%201d46c17a4767809baf2eea22239baa98/Untitled%201d76c17a4767807bae2ee4183be9f058.csv)
+O email da Coordenação é coord‑mdm@dei.uc.pt
 
-**Email da Coordenação**: [coord‑mdm@dei.uc.pt](mailto:coord%E2%80%91mdm@dei.uc.pt)
+# Plano de Estudos do Mestrado em Design e Multimédia (MDM)
 
-### Plano de Estudos
-
-> O trabalho a desenvolver durante um ano letivo por um estudante, em regime integral, corresponde a 60 ECTS.
-> 
+O trabalho a desenvolver durante um ano letivo por um estudante, em regime integral, corresponde a 60 ECTS.
 
 ## Tronco Comum (1.º Ano)
 
@@ -1099,10 +1029,7 @@ O curso privilegia uma sólida formação interdisciplinar, preparando profissio
 | [Práticas Artísticas Contemporâneas](https://apps.uc.pt/courses/PT/unit/85171/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
 | [Práticas de Desenho e Composição](https://apps.uc.pt/courses/PT/unit/90571/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
 
-> * até 18 ECTS de unidades optativas na UC (sujeito a aprovação)
-> 
-
----
+até 18 ECTS de unidades optativas na UC (sujeito a aprovação)
 
 ## 2.º Ano
 
@@ -1125,19 +1052,15 @@ O curso privilegia uma sólida formação interdisciplinar, preparando profissio
 | [Laboratório de Design Computacional](https://apps.uc.pt/courses/PT/unit/90569/21924/2025-2026) | 1.º Semestre | 6 |
 | [Narrativa Visual](https://apps.uc.pt/courses/PT/unit/90570/21924/2025-2026) | 1.º Semestre | 6 |
 
-> Total: 12 ECTS de optativas no 2.º ano
-> 
-> 
-> *A inscrição está sujeita a aprovação pela coordenação do curso.*
-> 
+Total: 12 ECTS de optativas no 2.º ano
 
----
-
+*A inscrição está sujeita a aprovação pela coordenação do curso.*
+ 
 # Mestrado em Engenharia e Ciência de Dados
 
 ## Apresentação
 
-Um Engenheiro em Ciência de Dados é um profissional na área da informática/inteligência artificial/aprendizagem computacional com competências específicas para analisar, projetar e implementar serviços e soluções avançadas baseadas em inteligência artificial para a colheita, modelação, armazenamento, gestão e análise de dados (massivos) como recurso relevante para a tomada de decisões baseadas em dados. É uma necessidade crescente e transversal nas sociedades modernas, abrangendo setores tão diversos como o comércio eletrónico, a saúde, os transportes, a gestão energética e a indústria. Para mais informação sobre vencimentos no espaço europeu, sugere‑se a consulta do relatório “[European data Salary benchmark 2023](https://www.synq.io/blog/europe-data-salary-benchmark-2023)”.
+Um Engenheiro em Ciência de Dados é um profissional na área da informática/inteligência artificial/aprendizagem computacional com competências específicas para analisar, projetar e implementar serviços e soluções avançadas baseadas em inteligência artificial para a colheita, modelação, armazenamento, gestão e análise de dados (massivos) como recurso relevante para a tomada de decisões baseadas em dados. É uma necessidade crescente e transversal nas sociedades modernas, abrangendo setores tão diversos como o comércio eletrónico, a saúde, os transportes, a gestão energética e a indústria. Para mais informação sobre vencimentos no espaço europeu, sugere‑se a consulta do relatório “European data Salary benchmark 2023" acessível em https://www.synq.io/blog/europe-data-salary-benchmark-2023.
 
 O principal objetivo do Mestrado em Ciência e Engenharia de Dados (MECD) é garantir ao futuro engenheiro os conhecimentos teóricos, as técnicas e as competências avançadas que permitam a análise, conceção e o desenvolvimento de aplicações e metodologias computacionais avançadas de análise de dados, assim como o projeto e implementação das infraestruturas de suporte necessárias.
 
@@ -1153,7 +1076,7 @@ O MECD é um curso superior de 2.º ciclo, com a duração de 2 anos e organizad
 
 As disciplinas opcionais permitem ao aluno adquirir conhecimentos em áreas aplicacionais específicas. A disciplina “Tópicos de Ciência de Dados” serve de bridge para quem necessitar dessa formação. A lista de unidades curriculares é revista anualmente.
 
-[Ver plano curricular ↗](https://apps.uc.pt/courses/PT/course/8521)
+Para Ver plano curricular consulte https://apps.uc.pt/courses/PT/course/8521
 
 ## Destaques
 
@@ -1191,8 +1114,9 @@ Tempo Integral, Presencial e Diurno.
 
 ### Submeter Candidatura
 
-- [Estudante UC ↗](https://inforestudante.uc.pt/nonio/security/login.do)
-- [Outros ↗](https://inforestudante.uc.pt/nonio/security/novoRegisto.do)
+Para submeter a candidatura:
+Se for Estudante da Universidade de Coimbra, aceda a https://inforestudante.uc.pt/nonio/security/login.do
+Se for Outros, aceda a https://inforestudante.uc.pt/nonio/security/novoRegisto.do
 
 ## Informação Adicional
 
@@ -1225,8 +1149,7 @@ As saídas abrangem empresas de TIC, comércio eletrónico, saúde, telecomunica
 - Fotocópia simples do documento de identificação (internacionais)
 - Documento oficial com nota certificada (candidatos estrangeiros)
 
-> Nota: Documentos originais autenticados entregues até 31 de dezembro.
-> 
+Nota: Documentos originais autenticados entregues até 31 de dezembro.
 
 ### Condições de Admissão
 
@@ -1243,8 +1166,7 @@ Podem candidatar‑se:
 - Empenho no novo percurso (1/6)
 - Duração da formação na UC (1/6)
 
-> Nota: Qualquer critério abaixo de 9,5 desqualifica a candidatura.
-> 
+Nota: Qualquer critério abaixo de 9,5 desqualifica a candidatura.
 
 ### Outras Informações
 
@@ -1264,14 +1186,12 @@ Artigo 3.º do DL n.º 74/2006, de 24 de março, com redação do DL n.º 
 
 ## Coordenação do Curso
 
-| Nome | Função |
-| --- | --- |
-| **Paulo de Carvalho** | Coordenador |
-| **Paulo Peixoto** | Vice‑coordenador |
+O coordenador do curso é o Professor Paulo de Carvalho
+O Vice-coordenador é o Professor Paulo Peixoto
 
-**Email da Coordenação:** [coord-mecd@dei.uc.pt](mailto:coord-mecd@dei.uc.pt)
+O email da Coordenação é coord-mecd@dei.uc.pt
 
-## Plano de Estudos
+# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD)
 
 | Nome da Unidade Curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -1305,4 +1225,4 @@ Artigo 3.º do DL n.º 74/2006, de 24 de março, com redação do DL n.º 
 | Métodos Heurísticos * | 2 | 1º Semestre | Opcional | OP | 6 |
 | Tecnologias Semânticas e da Linguagem Natural * | 2 | 1º Semestre | Opcional | OP | 6 |
 
-\* Unidades curriculares opcionais (sujeitas à oferta anual da Unidade Orgânica)
+* Unidades curriculares opcionais (sujeitas à oferta anual da Unidade Orgânica)
