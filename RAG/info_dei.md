@@ -1,18 +1,4 @@
-# Apresentação
-
-*URL:* [https://www.uc.pt/fctuc/dei/apresentacao/](https://www.uc.pt/fctuc/dei/apresentacao/)
-
-*Língua:* Português
-
-*Data de acesso:* 2025-04-13
-
----
-
----
-
-## Conteúdo Principal
-
-### 1. Apresentação
+# Informação geral do DEI
 
 Esta é a página de apresentação do Departamento de Engenharia Informática, na Faculdade de Ciências e Tecnologia da Universidade de Coimbra. A página fornece uma visão geral das áreas de investigação, ensino e dos serviços prestados pelo departamento.
 
@@ -28,31 +14,19 @@ Fundado com o intuito de formar profissionais de alta qualidade, o departamento 
 
 O departamento mantém estreitas colaborações com instituições nacionais e internacionais, promovendo intercâmbios e projetos conjuntos com diversos parceiros académicos e industriais.
 
----
-
-## Rodapé
-
-**Universidade de Coimbra – FCTUC - Departamento de Engenharia Informática**
-
-**Informações de Contato:**
+# Contactos (moranda, telfone, e email) do DEI
 
 - **Endereço:** Cidade Universitária, 3004-516 Coimbra, Portugal
 - **Telefone:** +351 239 210000
 - **Email:** [dei@uc.pt](mailto:dei@uc.pt)
 
----
-
-*Nota: Esta representação em Markdown foi elaborada com base na análise visual e estrutural da página e não inclui elementos dinâmicos, scripts ou estilos adicionais.*
-
-# Orgãos de Gestão
+# Orgãos de Gestão do DEI
 
 *URL:* [https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/](https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/)
 
 ## Introdução
 
 Esta página apresenta a estrutura de gestão do Departamento de Engenharia Informática da FCTUC, detalhando os principais mecanismos de governação e administração. Em particular, destaca os **Orgãos Sociais**, que são os responsáveis pela definição de estratégias, execução de políticas e supervisão das atividades académicas, de investigação e administrativas.
-
----
 
 ## Orgãos Sociais
 
@@ -70,9 +44,6 @@ Os órgãos sociais apresentados na página são os seguintes:
     
     *Função:* Atua como órgão consultivo na área científica e de formação, assegurando a excelência do ensino e a inovação nos projetos de investigação.
     
-
----
-
 ## Direção
 
 - **Jorge Henriques** – Diretor
@@ -99,80 +70,69 @@ Os órgãos sociais apresentados na página são os seguintes:
 - **Tiago Cruz**
 - **Vasco Pereira**
 
-# Corpo Docente
+# Corpo Docente do DEI
 
-| Nome | Categoria | Email | Perfil |
-| --- | --- | --- | --- |
-| Alberto Cardoso | Professor Associado | [alberto@dei.uc.pt](mailto:alberto@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc24774) |
-| Amílcar Cardoso | Professor Catedrático | [amilcar@dei.uc.pt](mailto:amilcar@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc24291) |
-| António Dias de Figueiredo | Professor Catedrático Aposentado | [adf@dei.uc.pt](mailto:adf@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc41097/pt) |
-| António Dourado | Professor Catedrático Jubilado | [dourado@dei.uc.pt](mailto:dourado@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/antonio-dourado) |
-| António Mendes | Professor Associado c/ Agregação | [toze@dei.uc.pt](mailto:toze@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc22803) |
-| Bernardete Ribeiro | Professora Catedrática Jubilada | [bribeiro@dei.uc.pt](mailto:bribeiro@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc25930/en) |
-| Bruno Sousa | Professor Auxiliar | [bmsousa@dei.uc.pt](mailto:bmsousa@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc43546) |
-| Carlos Bento | Professor Associado c/ Agregação | [bento@dei.uc.pt](mailto:bento@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/carlos-bento) |
-| Carlos Fonseca | Professor Associado | [cmfonsec@dei.uc.pt](mailto:cmfonsec@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26853) |
-| Catarina Silva | Professora Associada | [catarina@dei.uc.pt](mailto:catarina@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc45296) |
-| César Teixeira | Professor Associado c/ Agregação | [cteixei@dei.uc.pt](mailto:cteixei@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26769) |
-| Edmundo Monteiro | Professor Catedrático | [edmundo@dei.uc.pt](mailto:edmundo@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/edmundo) |
-| Ernesto Costa | Professor Catedrático Jubilado | [ernesto@dei.uc.pt](mailto:ernesto@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/ernestojfc/en) |
-| Evgheni Polisciuc | Professor Auxiliar | [evgheni@dei.uc.pt](mailto:evgheni@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc41408) |
-| Fernando Barros | Professor Auxiliar | [barros@dei.uc.pt](mailto:barros@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc24876/en) |
-| Fernando Boavida | Professor Catedrático | [boavida@dei.uc.pt](mailto:boavida@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc24338) |
-| Filipe Araújo | Professor Associado c/ Agregação | [filipius@dei.uc.pt](mailto:filipius@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc26622) |
-| Henrique Madeira | Professor Catedrático | [henrique@dei.uc.pt](mailto:henrique@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc00007515/en) |
-| Hugo Gonçalo Oliveira | Professor Associado | [hroliv@dei.uc.pt](mailto:hroliv@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc41089) |
-| Jacinto Estima | Professor Auxiliar | [estima@dei.uc.pt](mailto:estima@dei.uc.pt) | [Perfil](https://jestima.github.io/) |
-| João Barata | Professor Auxiliar | [barata@dei.uc.pt](mailto:barata@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc44366) |
-| João Campos | Professor Auxiliar | [jrcampos@dei.uc.pt](mailto:jrcampos@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/joao-campos) |
-| João Gabriel Silva | Professor Catedrático | [jgabriel@dei.uc.pt](mailto:jgabriel@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/jgsilva) |
-| João Nuno Correia | Professor Auxiliar | [jncor@dei.uc.pt](mailto:jncor@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc40050) |
-| Joel Arrais | Professor Associado | [jpa@dei.uc.pt](mailto:jpa@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc41532) |
-| Jorge Cardoso | Professor Auxiliar | [jorgecardoso@dei.uc.pt](mailto:jorgecardoso@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc42867) |
-| Jorge Granjal | Professor Auxiliar | [jgranjal@dei.uc.pt](mailto:jgranjal@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc25612) |
-| Jorge Henriques | Professor Associado c/ Agregação | [jh@dei.uc.pt](mailto:jh@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc22824) |
-| Karima Castro | Professora Auxiliar | [kcastro@dei.uc.pt](mailto:kcastro@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/karima-velasquez) |
-| Licínio Roque | Professor Associado | [lir@dei.uc.pt](mailto:lir@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc26082) |
-| Luís Macedo | Professor Auxiliar | [macedo@dei.uc.pt](mailto:macedo@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26618/en) |
-| Luís Paquete | Professor Associado | [paquete@dei.uc.pt](mailto:paquete@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26679) |
-| Marco Simões | Professor Auxiliar | [msimoes@dei.uc.pt](mailto:msimoes@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc26855) |
-| Marco Vieira | Professor Catedrático | [mvieira@dei.uc.pt](mailto:mvieira@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26592) |
-| Maria Marcelino | Professora Auxiliar | [zemar@dei.uc.pt](mailto:zemar@dei.uc.pt) | [Perfil](http://apps.uc.pt/mypage/faculty/uc22660) |
-| Marília Curado | Professora Catedrática | [marilia@dei.uc.pt](mailto:marilia@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/marilia) |
-| Mário Rela | Professor Auxiliar | [mzrela@dei.uc.pt](mailto:mzrela@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc24500) |
-| Naghmeh Ivaki | Professora Auxiliar | [naghmeh@dei.uc.pt](mailto:naghmeh@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/naghmeh-ivaki) |
-| Nuno Laranjeiro | Professor Associado c/ Agregação | [cnl@dei.uc.pt](mailto:cnl@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc26646) |
-| Nuno Lourenço | Professor Associado | [naml@dei.uc.pt](mailto:naml@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc26856/en) |
-| Paula Alexandra Silva | Professora Auxiliar | [paulasilva@dei.uc.pt](mailto:paulasilva@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc45348) |
-| Paulo Rupino | Professor Associado c/ Agregação | [rupino@dei.uc.pt](mailto:rupino@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc25527) |
-| Paulo Simões | Professor Associado | [psimoes@dei.uc.pt](mailto:psimoes@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc25711/en) |
-| Paulo de Carvalho | Professor Catedrático | [carvalho@dei.uc.pt](mailto:carvalho@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/paulo-carvalho) |
-| Pedro Abreu | Professor Associado c/ Agregação | [pha@dei.uc.pt](mailto:pha@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc40768/pt) |
-| Pedro Furtado | Professor Auxiliar | [pnf@dei.uc.pt](mailto:pnf@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/pedro-furtado) |
-| Pedro Martins | Professor Associado | [pjmm@dei.uc.pt](mailto:pjmm@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/pedro-martins) |
-| Penousal Machado | Professor Associado c/ Agregação | [machado@dei.uc.pt](mailto:machado@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26593) |
-| Raul Barbosa | Professor Auxiliar | [rbarbosa@dei.uc.pt](mailto:rbarbosa@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc26844) |
-| Rui Pedro Paiva | Professor Associado c/ Agregação | [ruipedro@dei.uc.pt](mailto:ruipedro@dei.uc.pt) | [Perfil](https://apps.uc.pt/mypage/faculty/uc26118) |
-| Teresa Mendes | Professora Catedrática Jubilada | [tmendes@dei.uc.pt](mailto:tmendes@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/teresa-mendes) |
-| Tiago Cruz | Professor Associado c/ Agregação | [tjcruz@dei.uc.pt](mailto:tjcruz@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc41531) |
-| Tiago Martins | Professor Auxiliar | [tiagofm@dei.uc.pt](mailto:tiagofm@dei.uc.pt) | [Perfil](https://www.cisuc.uc.pt/en/people/tiago-martins) |
-| Vasco Pereira | Professor Auxiliar | [vasco@dei.uc.pt](mailto:vasco@dei.uc.pt) | [Perfil](http://faculty.uc.pt/uc26416) |
+Nome, Categoria, Email, Perfil
+Alberto Cardoso, Professor Associado, alberto@dei.uc.pt, http://faculty.uc.pt/uc24774
+Amílcar Cardoso, Professor Catedrático, amilcar@dei.uc.pt, http://faculty.uc.pt/uc24291
+António Dias de Figueiredo, Professor Catedrático Aposentado, adf@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc41097/pt
+António Dourado, Professor Catedrático Jubilado, dourado@dei.uc.pt, https://www.cisuc.uc.pt/en/people/antonio-dourado
+António Mendes, Professor Associado c/ Agregação, toze@dei.uc.pt, http://faculty.uc.pt/uc22803
+Bernardete Ribeiro, Professora Catedrática Jubilada, bribeiro@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc25930/en
+Bruno Sousa, Professor Auxiliar, bmsousa@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc43546
+Carlos Bento, Professor Associado c/ Agregação, bento@dei.uc.pt, https://www.cisuc.uc.pt/en/people/carlos-bento
+Carlos Fonseca, Professor Associado, cmfonsec@dei.uc.pt, http://faculty.uc.pt/uc26853
+Catarina Silva, Professora Associada, catarina@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc45296
+César Teixeira, Professor Associado c/ Agregação, cteixei@dei.uc.pt, http://faculty.uc.pt/uc26769
+Edmundo Monteiro, Professor Catedrático, edmundo@dei.uc.pt, https://apps.uc.pt/mypage/faculty/edmundo
+Ernesto Costa, Professor Catedrático Jubilado, ernesto@dei.uc.pt, https://apps.uc.pt/mypage/faculty/ernestojfc/en
+Evgheni Polisciuc, Professor Auxiliar, evgheni@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc41408
+Fernando Barros, Professor Auxiliar, barros@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc24876/en
+Fernando Boavida, Professor Catedrático, boavida@dei.uc.pt, http://faculty.uc.pt/uc24338
+Filipe Araújo, Professor Associado c/ Agregação, filipius@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc26622
+Henrique Madeira, Professor Catedrático, henrique@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc00007515/en
+Hugo Gonçalo Oliveira, Professor Associado, hroliv@dei.uc.pt, http://faculty.uc.pt/uc41089
+Jacinto Estima, Professor Auxiliar, estima@dei.uc.pt, https://jestima.github.io/
+João Barata, Professor Auxiliar, barata@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc44366
+João Campos, Professor Auxiliar, jrcampos@dei.uc.pt, https://www.cisuc.uc.pt/en/people/joao-campos
+João Gabriel Silva, Professor Catedrático, jgabriel@dei.uc.pt, https://apps.uc.pt/mypage/faculty/jgsilva
+João Nuno Correia, Professor Auxiliar, jncor@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc40050
+Joel Arrais, Professor Associado, jpa@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc41532
+Jorge Cardoso, Professor Auxiliar, jorgecardoso@dei.uc.pt, http://faculty.uc.pt/uc42867
+Jorge Granjal, Professor Auxiliar, jgranjal@dei.uc.pt, http://faculty.uc.pt/uc25612
+Jorge Henriques, Professor Associado c/ Agregação, jh@dei.uc.pt, http://faculty.uc.pt/uc22824
+Karima Castro, Professora Auxiliar, kcastro@dei.uc.pt, https://www.cisuc.uc.pt/en/people/karima-velasquez
+Licínio Roque, Professor Associado, lir@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc26082
+Luís Macedo, Professor Auxiliar, macedo@dei.uc.pt, http://faculty.uc.pt/uc26618/en
+Luís Paquete, Professor Associado, paquete@dei.uc.pt, http://faculty.uc.pt/uc26679
+Marco Simões, Professor Auxiliar, msimoes@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc26855
+Marco Vieira, Professor Catedrático, mvieira@dei.uc.pt, http://faculty.uc.pt/uc26592
+Maria Marcelino, Professora Auxiliar, zemar@dei.uc.pt, http://apps.uc.pt/mypage/faculty/uc22660
+Marília Curado, Professora Catedrática, marilia@dei.uc.pt, https://apps.uc.pt/mypage/faculty/marilia
+Mário Rela, Professor Auxiliar, mzrela@dei.uc.pt, http://faculty.uc.pt/uc24500
+Naghmeh Ivaki, Professora Auxiliar, naghmeh@dei.uc.pt, https://www.cisuc.uc.pt/en/people/naghmeh-ivaki
+Nuno Laranjeiro, Professor Associado c/ Agregação, cnl@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc26646
+Nuno Lourenço, Professor Associado, naml@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc26856/en
+Paula Alexandra Silva, Professora Auxiliar, paulasilva@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc45348
+Paulo Rupino, Professor Associado c/ Agregação, rupino@dei.uc.pt, http://faculty.uc.pt/uc25527
+Paulo Simões, Professor Associado, psimoes@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc25711/en
+Paulo de Carvalho, Professor Catedrático, carvalho@dei.uc.pt, https://www.cisuc.uc.pt/en/people/paulo-carvalho
+Pedro Abreu, Professor Associado c/ Agregação, pha@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc40768/pt
+Pedro Furtado, Professor Auxiliar, pnf@dei.uc.pt, https://www.cisuc.uc.pt/en/people/pedro-furtado
+Pedro Martins, Professor Associado, pjmm@dei.uc.pt, https://www.cisuc.uc.pt/en/people/pedro-martins
+Penousal Machado, Professor Associado c/ Agregação, machado@dei.uc.pt, http://faculty.uc.pt/uc26593
+Raul Barbosa, Professor Auxiliar, rbarbosa@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc26844
+Rui Pedro Paiva, Professor Associado c/ Agregação, ruipedro@dei.uc.pt, https://apps.uc.pt/mypage/faculty/uc26118
+Teresa Mendes, Professora Catedrática Jubilada, tmendes@dei.uc.pt, https://www.cisuc.uc.pt/en/people/teresa-mendes
+Tiago Cruz, Professor Associado c/ Agregação, tjcruz@dei.uc.pt, http://faculty.uc.pt/uc41531
+Tiago Martins, Professor Auxiliar, tiagofm@dei.uc.pt, https://www.cisuc.uc.pt/en/people/tiago-martins
+Vasco Pereira, Professor Auxiliar, vasco@dei.uc.pt, http://faculty.uc.pt/uc26416
 
-# Ensino
-
-*URL:* [https://www.uc.pt/fctuc/dei/ensino/](https://www.uc.pt/fctuc/dei/ensino/)
-
-*Idioma:* Português
-
-*Data de acesso:* 2025-04-13
-
----
+# Ensino no DEI
 
 ## Introdução
 
 A página "Ensino" do Departamento de Engenharia Informática apresenta a sua visão e compromisso com a excelência pedagógica. O foco está na integração de teoria e prática para formar profissionais capacitados e preparados para os desafios do mercado e da pesquisa.
-
----
 
 ## Oferta Formativa
 
@@ -184,8 +144,6 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Doutoramentos:** Cursos destinados à formação de pesquisadores e profissionais altamente qualificados.
 - **Ensino a Distância:** Modalidades de ensino flexíveis que permitem o acesso remoto e a personalização da aprendizagem.
 
----
-
 ## Metodologia e Abordagem Pedagógica
 
 - **Integração Teoria-Prática:** Ênfase na aplicação dos conhecimentos teóricos por meio de projetos, estágios e atividades de laboratório.
@@ -193,15 +151,11 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Colaboração e Parcerias:** Forte relação com o setor industrial e com outras instituições de ensino para enriquecer o processo pedagógico.
 - **Atualização Contínua:** Revisão periódica dos conteúdos e métodos de ensino para acompanhar as inovações tecnológicas e as demandas do mercado.
 
----
-
 ## Recursos e Infraestrutura
 
 - **Laboratórios Modernos:** Espaços equipados com as últimas tecnologias, essenciais para a realização de atividades práticas e projetos de investigação.
 - **Plataformas de Ensino:** Ferramentas digitais e sistemas de gestão de aprendizagem que facilitam a interação entre alunos e docentes.
 - **Suporte Acadêmico:** Equipes de tutoria e orientação para apoiar o desenvolvimento dos alunos ao longo dos seus cursos.
-
----
 
 ## Lista de Cursos
 
@@ -213,46 +167,46 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 
 ### Mestrados (2º ciclo)
 
-- **MEI** – Mestrado em Engenharia Informática[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mei/)
-- **MDM** – Mestrado em Design e Multimédia[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mdm/)
-- **MECD** – Mestrado em Engenharia e Ciência de Dados[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mecd/)
-- **MSI** – Mestrado em Segurança Informática*(Especialização Avançada)*[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/msi/)
-- **MSE** – Mestrado em Engenharia de Software*(Formação ao longo da vida)*[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mse/)
+- **MEI** – Mestrado em Engenharia Informática - https://www.uc.pt/fctuc/dei/ensino/mestrados/mei/
+- **MDM** – Mestrado em Design e Multimédia - https://www.uc.pt/fctuc/dei/ensino/mestrados/mdm/
+- **MECD** – Mestrado em Engenharia e Ciência de Dados - https://www.uc.pt/fctuc/dei/ensino/mestrados/mecd/
+- **MSI** – Mestrado em Segurança Informática*(Especialização Avançada)* - https://www.uc.pt/fctuc/dei/ensino/mestrados/msi/
+- **MSE** – Mestrado em Engenharia de Software*(Formação ao longo da vida)* - https://www.uc.pt/fctuc/dei/ensino/mestrados/mse/
 
 ### Mestrados (2º ciclo – Campus da Figueira da Foz)
 
-- **MIA** – Mestrado em Inteligência Artificial[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mia/)
-- **MCMDS** – Mestrado em Computação Musical e Design de Som[Mais informação](https://www.uc.pt/fctuc/dei/ensino/mestrados/mcmds/)
+- **MIA** – Mestrado em Inteligência Artificial - https://www.uc.pt/fctuc/dei/ensino/mestrados/mia/
+- **MCMDS** – Mestrado em Computação Musical e Design de Som - https://www.uc.pt/fctuc/dei/ensino/mestrados/mcmds/
 
 ### Doutoramentos (3º ciclo)
 
-- **PhDEI** – PhD in Informatics Engineering[Mais informação](https://www.uc.pt/fctuc/dei/phddei/)
-- **DDMC** – Doutoramento em Design de Media Computacionais[Mais informação](https://www.uc.pt/iii/ensino/programas-doutorais/design-de-media-computacionais/)
+- **PhDEI** – PhD in Informatics Engineering - https://www.uc.pt/fctuc/dei/phddei/
+- **DDMC** – Doutoramento em Design de Media Computacionais - https://www.uc.pt/iii/ensino/programas-doutorais/design-de-media-computacionais/
 
 ### Outros Cursos (Cursos Não Conferente de Grau)
 
-- **CURSO DE FORMAÇÃO – ACERTAR O RUMO – PROGRAMAÇÃO EM JAVA***Programa Acertar o Rumo*[Mais informação](https://www.uc.pt/fctuc/dei/acertarorumo/)
-- **INTRODUÇÃO À PROGRAMAÇÃO USANDO JAVA***(Ensino à Distância)*[Mais informação](http://www.ed.uc.pt/educ/curso?id=55)
-- **REDES DE COMPUTADORES***(Ensino à Distância)*[Mais informação](http://www.ed.uc.pt/educ/curso?id=27)
-- **PROGRAMAÇÃO COMPETITIVA I**[Mais informação](https://www.uc.pt/fctuc/dei/pc1)
-- **PROGRAMAÇÃO COMPETITIVA II**[Mais informação](https://www.uc.pt/fctuc/dei/pc2)
-- **DESAFIOS EM INFORMÁTICA**[Mais informação](https://www.uc.pt/fctuc/dei/di/)
+- **CURSO DE FORMAÇÃO – ACERTAR O RUMO – PROGRAMAÇÃO EM JAVA***Programa Acertar o Rumo* - https://www.uc.pt/fctuc/dei/acertarorumo/
+- **INTRODUÇÃO À PROGRAMAÇÃO USANDO JAVA***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=55
+- **REDES DE COMPUTADORES***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=27
+- **PROGRAMAÇÃO COMPETITIVA I** - https://www.uc.pt/fctuc/dei/pc1
+- **PROGRAMAÇÃO COMPETITIVA II** - https://www.uc.pt/fctuc/dei/pc2
+- **DESAFIOS EM INFORMÁTICA** - https://www.uc.pt/fctuc/dei/di/
 
 ### Cursos em Colaboração (2º ciclo)
 
-- **MEIG** – Mestrado em Engenharia de Informação Geoespacial[Mais informação](https://www.uc.pt/fctuc/dmat/ensino/mestradoEngInfGeo)
-- **MEBIOM** – Mestrado em Engenharia Biomédica[Mais informação](http://fisica.uc.pt/ax/ensino/pl_est.php?pl=pleb5_bi)
+- **MEIG** – Mestrado em Engenharia de Informação Geoespacial - https://www.uc.pt/fctuc/dmat/ensino/mestradoEngInfGeo
+- **MEBIOM** – Mestrado em Engenharia Biomédica - http://fisica.uc.pt/ax/ensino/pl_est.php?pl=pleb5_bi
 
 ---
 
-## Direção
+# Direção do DEI
 
 - **Jorge Henriques** — Diretor
 - **Filipe Araújo** — Subdiretor
 - **Tiago Cruz** — Subdiretor
 - **Evgheni Polisciuc** — Subdiretor
 
-## Comissão Científica
+# Comissão Científica do DEI
 
 - Alberto Cardoso
 - António Mendes
@@ -271,9 +225,7 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - Tiago Cruz
 - Vasco Pereira
 
----
-
-# Investigação
+# Investigação no DEI
 
 O Centro de Informática e Sistemas da Universidade de Coimbra (CISUC) é um grande centro de investigação português nas áreas de Informática e Comunicações, criado em 1991 sob o Programa Ciência. Atualmente:
 
@@ -283,15 +235,10 @@ O Centro de Informática e Sistemas da Universidade de Coimbra (CISUC) é um gra
 - Conta com cerca de 242 investigadores (professores e estudantes de graduação e pós‑graduação).
 - É membro fundador do Laboratório Associado de Sistemas Inteligentes (LASI), referência em Inteligência Artificial e Ciência dos Dados em Portugal.
 
----
+CISUC – https://www.cisuc.uc.pt/en
 
-### Ligações Úteis
 
-- [CISUC – Centro de Informática e Sistemas da UC](https://www.cisuc.uc.pt/en)
-
----
-
-# Licenciatura em Engenharia Informática (LEI)
+# Informação sobre a Licenciatura em Engenharia Informática (LEI)
 
 ## Apresentação
 
@@ -304,21 +251,20 @@ A Licenciatura em Engenharia Informática da Universidade de Coimbra, com mais d
 
 Além de bases sólidas em Matemática, Física, Economia/Gestão e Comunicação.
 
-O ciclo de três anos (6 semestres) totaliza 180 ECTS (126 Informática | 36 Matemática | 12 Economia/Gestão | 6 Física).
+O ciclo de três anos (6 semestres) e totaliza 180 ECTS (126 de Informática, 36 de Matemática, 12 de Economia/Gestão e 6 de Física).
 
-[Ver Plano de Estudos (2025‑2026) ↗](https://apps.uc.pt/courses/PT/programme/362/2025-2026?id_branch=22529#branch-22529)
+Ver Plano de Estudos 2025‑2026 - https://apps.uc.pt/courses/PT/programme/362/2025-2026?id_branch=22529#branch-22529
 
----
 
 ## Informação de Candidaturas
 
-- **Prazos de Candidatura:** definidos pela [DGES](https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593).
+- **Prazos de Candidatura:** definidos pela DGES - https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593
 - **Concursos Especiais:**
     - Internacional
     - Maiores de 23 anos
     - Mudança de instituição/curso
     - Titulares de curso médio ou superior
-    ([+ detalhes ↗](https://apps.uc.pt/courses/pt/course/362))
+    (para ver mais detalhes aceda a https://apps.uc.pt/courses/pt/course/362
 
 ### Condições de Acesso
 
@@ -330,8 +276,7 @@ Deve ter um dos pares de provas finais do ensino secundário:
 
 ### Nota de Entrada | Vagas (2024/25)
 
-- **Nota de Corte:** 153,0
-- **Vagas Disponíveis:** 178
+A nota de corte no ano 2024/25 for 153,0 e exisitiram 178 vagas disponíveis.
 
 ### Saídas Profissionais
 
@@ -341,15 +286,12 @@ Deve ter um dos pares de provas finais do ensino secundário:
 - Processamento e análise de dados
 - Operação e gestão de sistemas e redes
 
----
 
-## Informação Adicional
-
-### OBJETIVOS DO CURSO
+## OBJETIVOS DO CURSO
 
 Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e competências práticas em Informática, conducentes tanto a estudos avançados (mestrado/doutoramento) como a exercício imediato da profissão, alinhados com recomendações IEEE/ACM/AIS e Ordem dos Engenheiros.
 
-### ADMISSÃO
+## ADMISSÃO
 
 - **Competências a Desenvolver:**
     
@@ -370,6 +312,7 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
 - **Propinas (anual):**
     - Estudante nacional: 697 €
     - Estudante internacional: 7 000 €
+
 - **Língua de Ensino e Avaliação:**
     
     Português
@@ -379,13 +322,11 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
 
----
-
 ## Coordenação do Curso
 
 [Untitled](DEI%20Content%201d46c17a4767809baf2eea22239baa98/Untitled%201d76c17a47678031bb1de932989a7919.csv)
 
-## Plano de Estudos
+# Plano de Estudos de LEI
 
 ### 1.º Ano
 
@@ -439,7 +380,7 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
 
 ---
 
-# Licenciatura em Design e Multimédia
+# Licenciatura em Design e Multimédia (LDM)
 
 ## Apresentação
 
