@@ -70,182 +70,383 @@ Os órgãos sociais apresentados na página são os seguintes:
 
 Para mais informações consulte https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/
 
-# Categoria do Corpo Docente do DEI
+# Professor Alberto Cardoso:
 
-Lista da categoria de todos os Professores do DEI
+nome: Alberto Cardoso
+categoria: Professor Associado
+email: alberto@dei.uc.pt
+perfil: http://faculty.uc.pt/uc24774
 
-O Professor Alberto Cardoso está na categoria Professor Associado
-O Professor Amílcar Cardoso está na categoria Professor Catedrático
-O Professor António Dias de Figueiredo está na categoria Professor Catedrático Aposentado
-O Professor António Dourado está na categoria Professor Catedrático Jubilado
-O Professor António Mendes está na categoria Professor Associado c/ Agregação
-O Professor Bernardete Ribeiro está na categoria Professora Catedrática Jubilada
-O Professor Bruno Sousa está na categoria Professor Auxiliar
-O Professor Carlos Bento está na categoria Professor Associado c/ Agregação
-O Professor Carlos Fonseca está na categoria Professor Associado
-O Professor Catarina Silva está na categoria Professora Associada
-O Professor César Teixeira está na categoria Professor Associado c/ Agregação
-O Professor Edmundo Monteiro está na categoria Professor Catedrático
-O Professor Ernesto Costa está na categoria Professor Catedrático Jubilado
-O Professor Evgheni Polisciuc está na categoria Professor Auxiliar
-O Professor Fernando Barros está na categoria Professor Auxiliar
-O Professor Fernando Boavida está na categoria Professor Catedrático
-O Professor Filipe Araújo está na categoria Professor Associado c/ Agregação
-O Professor Henrique Madeira está na categoria Professor Catedrático
-O Professor Hugo Gonçalo Oliveira está na categoria Professor Associado
-O Professor Jacinto Estima está na categoria Professor Auxiliar
-O Professor João Barata está na categoria Professor Auxiliar
-O Professor João Campos está na categoria Professor Auxiliar
-O Professor João Gabriel Silva está na categoria Professor Catedrático
-O Professor João Nuno Correia está na categoria Professor Auxiliar
-O Professor Joel Arrais está na categoria Professor Associado
-O Professor Jorge Cardoso está na categoria Professor Auxiliar
-O Professor Jorge Granjal está na categoria Professor Auxiliar
-O Professor Jorge Henriques está na categoria Professor Associado c/ Agregação
-O Professor Karima Castro está na categoria Professora Auxiliar
-O Professor Licínio Roque está na categoria Professor Associado
-O Professor Luís Macedo está na categoria Professor Auxiliar
-O Professor Luís Paquete está na categoria Professor Associado
-O Professor Marco Simões está na categoria Professor Auxiliar
-O Professor Marco Vieira está na categoria Professor Catedrático
-O Professor Maria Marcelino está na categoria Professora Auxiliar
-O Professor Marília Curado está na categoria Professora Catedrática
-O Professor Mário Rela está na categoria Professor Auxiliar
-O Professor Naghmeh Ivaki está na categoria Professora Auxiliar
-O Professor Nuno Laranjeiro está na categoria Professor Associado c/ Agregação
-O Professor Nuno Lourenço está na categoria Professor Associado
-O Professor Paula Alexandra Silva está na categoria Professora Auxiliar
-O Professor Paulo Rupino está na categoria Professor Associado c/ Agregação
-O Professor Paulo Simões está na categoria Professor Associado
-O Professor Paulo de Carvalho está na categoria Professor Catedrático
-O Professor Pedro Abreu está na categoria Professor Associado c/ Agregação
-O Professor Pedro Furtado está na categoria Professor Auxiliar
-O Professor Pedro Martins está na categoria Professor Associado
-O Professor Penousal Machado está na categoria Professor Associado c/ Agregação
-O Professor Raul Barbosa está na categoria Professor Auxiliar
-O Professor Rui Pedro Paiva está na categoria Professor Associado c/ Agregação
-O Professor Teresa Mendes está na categoria Professora Catedrática Jubilada
-O Professor Tiago Cruz está na categoria Professor Associado c/ Agregação
-O Professor Tiago Martins está na categoria Professor Auxiliar
-O Professor Vasco Pereira está na categoria Professor Auxiliar
+# Professor Amílcar Cardoso:
 
-# Email do Corpo Docente do DEI
+nome: Amílcar Cardoso
+categoria: Professor Catedrático
+email: amilcar@dei.uc.pt
+perfil: http://faculty.uc.pt/uc24291
 
-Lista do email de todos os Professores do DEI
+# Professor António Dias de Figueiredo:
 
-O Professor Alberto Cardoso pode ser contactado através do email alberto@dei.uc.pt
-O Professor Amílcar Cardoso pode ser contactado através do email amilcar@dei.uc.pt
-O Professor António Dias de Figueiredo pode ser contactado através do email adf@dei.uc.pt
-O Professor António Dourado pode ser contactado através do email dourado@dei.uc.pt
-O Professor António Mendes pode ser contactado através do email toze@dei.uc.pt
-O Professor Bernardete Ribeiro pode ser contactado através do email bribeiro@dei.uc.pt
-O Professor Bruno Sousa pode ser contactado através do email bmsousa@dei.uc.pt
-O Professor Carlos Bento pode ser contactado através do email bento@dei.uc.pt
-O Professor Carlos Fonseca pode ser contactado através do email cmfonsec@dei.uc.pt
-O Professor Catarina Silva pode ser contactado através do email catarina@dei.uc.pt
-O Professor César Teixeira pode ser contactado através do email cteixei@dei.uc.pt
-O Professor Edmundo Monteiro pode ser contactado através do email edmundo@dei.uc.pt
-O Professor Ernesto Costa pode ser contactado através do email ernesto@dei.uc.pt
-O Professor Evgheni Polisciuc pode ser contactado através do email evgheni@dei.uc.pt
-O Professor Fernando Barros pode ser contactado através do email barros@dei.uc.pt
-O Professor Fernando Boavida pode ser contactado através do email boavida@dei.uc.pt
-O Professor Filipe Araújo pode ser contactado através do email filipius@dei.uc.pt
-O Professor Henrique Madeira pode ser contactado através do email henrique@dei.uc.pt
-O Professor Hugo Gonçalo Oliveira pode ser contactado através do email hroliv@dei.uc.pt
-O Professor Jacinto Estima pode ser contactado através do email estima@dei.uc.pt
-O Professor João Barata pode ser contactado através do email barata@dei.uc.pt
-O Professor João Campos pode ser contactado através do email jrcampos@dei.uc.pt
-O Professor João Gabriel Silva pode ser contactado através do email jgabriel@dei.uc.pt
-O Professor João Nuno Correia pode ser contactado através do email jncor@dei.uc.pt
-O Professor Joel Arrais pode ser contactado através do email jpa@dei.uc.pt
-O Professor Jorge Cardoso pode ser contactado através do email jorgecardoso@dei.uc.pt
-O Professor Jorge Granjal pode ser contactado através do email jgranjal@dei.uc.pt
-O Professor Jorge Henriques pode ser contactado através do email jh@dei.uc.pt
-O Professor Karima Castro pode ser contactado através do email kcastro@dei.uc.pt
-O Professor Licínio Roque pode ser contactado através do email lir@dei.uc.pt
-O Professor Luís Macedo pode ser contactado através do email macedo@dei.uc.pt
-O Professor Luís Paquete pode ser contactado através do email paquete@dei.uc.pt
-O Professor Marco Simões pode ser contactado através do email msimoes@dei.uc.pt
-O Professor Marco Vieira pode ser contactado através do email mvieira@dei.uc.pt
-O Professor Maria Marcelino pode ser contactado através do email zemar@dei.uc.pt
-O Professor Marília Curado pode ser contactado através do email marilia@dei.uc.pt
-O Professor Mário Rela pode ser contactado através do email mzrela@dei.uc.pt
-O Professor Naghmeh Ivaki pode ser contactado através do email naghmeh@dei.uc.pt
-O Professor Nuno Laranjeiro pode ser contactado através do email cnl@dei.uc.pt
-O Professor Nuno Lourenço pode ser contactado através do email naml@dei.uc.pt
-O Professor Paula Alexandra Silva pode ser contactado através do email paulasilva@dei.uc.pt
-O Professor Paulo Rupino pode ser contactado através do email rupino@dei.uc.pt
-O Professor Paulo Simões pode ser contactado através do email psimoes@dei.uc.pt
-O Professor Paulo de Carvalho pode ser contactado através do email carvalho@dei.uc.pt
-O Professor Pedro Abreu pode ser contactado através do email pha@dei.uc.pt
-O Professor Pedro Furtado pode ser contactado através do email pnf@dei.uc.pt
-O Professor Pedro Martins pode ser contactado através do email pjmm@dei.uc.pt
-O Professor Penousal Machado pode ser contactado através do email machado@dei.uc.pt
-O Professor Raul Barbosa pode ser contactado através do email rbarbosa@dei.uc.pt
-O Professor Rui Pedro Paiva pode ser contactado através do email ruipedro@dei.uc.pt
-O Professor Teresa Mendes pode ser contactado através do email tmendes@dei.uc.pt
-O Professor Tiago Cruz pode ser contactado através do email tjcruz@dei.uc.pt
-O Professor Tiago Martins pode ser contactado através do email tiagofm@dei.uc.pt
-O Professor Vasco Pereira pode ser contactado através do email vasco@dei.uc.pt
+nome: António Dias de Figueiredo
+categoria: Professor Catedrático Aposentado
+email: adf@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc41097/pt
 
-# Perfil do Corpo Docente do DEI
+# Professor António Dourado:
 
-Lista do perfil de todos os Professores do DEI
+nome: António Dourado
+categoria: Professor Catedrático Jubilado
+email: dourado@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/antonio-dourado
 
-O perfil do Professor Alberto Cardoso pode ser consultado através do link http://faculty.uc.pt/uc24774
-O perfil do Professor Amílcar Cardoso pode ser consultado através do link http://faculty.uc.pt/uc24291
-O perfil do Professor António Dias de Figueiredo pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc41097/pt
-O perfil do Professor António Dourado pode ser consultado através do link https://www.cisuc.uc.pt/en/people/antonio-dourado
-O perfil do Professor António Mendes pode ser consultado através do link http://faculty.uc.pt/uc22803
-O perfil do Professor Bernardete Ribeiro pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc25930/en
-O perfil do Professor Bruno Sousa pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc43546
-O perfil do Professor Carlos Bento pode ser consultado através do link https://www.cisuc.uc.pt/en/people/carlos-bento
-O perfil do Professor Carlos Fonseca pode ser consultado através do link http://faculty.uc.pt/uc26853
-O perfil do Professor Catarina Silva pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc45296
-O perfil do Professor César Teixeira pode ser consultado através do link http://faculty.uc.pt/uc26769
-O perfil do Professor Edmundo Monteiro pode ser consultado através do link https://apps.uc.pt/mypage/faculty/edmundo
-O perfil do Professor Ernesto Costa pode ser consultado através do link https://apps.uc.pt/mypage/faculty/ernestojfc/en
-O perfil do Professor Evgheni Polisciuc pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc41408
-O perfil do Professor Fernando Barros pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc24876/en
-O perfil do Professor Fernando Boavida pode ser consultado através do link http://faculty.uc.pt/uc24338
-O perfil do Professor Filipe Araújo pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc26622
-O perfil do Professor Henrique Madeira pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc00007515/en
-O perfil do Professor Hugo Gonçalo Oliveira pode ser consultado através do link http://faculty.uc.pt/uc41089
-O perfil do Professor Jacinto Estima pode ser consultado através do link https://jestima.github.io/
-O perfil do Professor João Barata pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc44366
-O perfil do Professor João Campos pode ser consultado através do link https://www.cisuc.uc.pt/en/people/joao-campos
-O perfil do Professor João Gabriel Silva pode ser consultado através do link https://apps.uc.pt/mypage/faculty/jgsilva
-O perfil do Professor João Nuno Correia pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc40050
-O perfil do Professor Joel Arrais pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc41532
-O perfil do Professor Jorge Cardoso pode ser consultado através do link http://faculty.uc.pt/uc42867
-O perfil do Professor Jorge Granjal pode ser consultado através do link http://faculty.uc.pt/uc25612
-O perfil do Professor Jorge Henriques pode ser consultado através do link http://faculty.uc.pt/uc22824
-O perfil do Professor Karima Castro pode ser consultado através do link https://www.cisuc.uc.pt/en/people/karima-velasquez
-O perfil do Professor Licínio Roque pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc26082
-O perfil do Professor Luís Macedo pode ser consultado através do link http://faculty.uc.pt/uc26618/en
-O perfil do Professor Luís Paquete pode ser consultado através do link http://faculty.uc.pt/uc26679
-O perfil do Professor Marco Simões pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc26855
-O perfil do Professor Marco Vieira pode ser consultado através do link http://faculty.uc.pt/uc26592
-O perfil do Professor Maria Marcelino pode ser consultado através do link http://apps.uc.pt/mypage/faculty/uc22660
-O perfil do Professor Marília Curado pode ser consultado através do link https://apps.uc.pt/mypage/faculty/marilia
-O perfil do Professor Mário Rela pode ser consultado através do link http://faculty.uc.pt/uc24500
-O perfil do Professor Naghmeh Ivaki pode ser consultado através do link https://www.cisuc.uc.pt/en/people/naghmeh-ivaki
-O perfil do Professor Nuno Laranjeiro pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc26646
-O perfil do Professor Nuno Lourenço pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc26856/en
-O perfil do Professor Paula Alexandra Silva pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc45348
-O perfil do Professor Paulo Rupino pode ser consultado através do link http://faculty.uc.pt/uc25527
-O perfil do Professor Paulo Simões pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc25711/en
-O perfil do Professor Paulo de Carvalho pode ser consultado através do link https://www.cisuc.uc.pt/en/people/paulo-carvalho
-O perfil do Professor Pedro Abreu pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc40768/pt
-O perfil do Professor Pedro Furtado pode ser consultado através do link https://www.cisuc.uc.pt/en/people/pedro-furtado
-O perfil do Professor Pedro Martins pode ser consultado através do link https://www.cisuc.uc.pt/en/people/pedro-martins
-O perfil do Professor Penousal Machado pode ser consultado através do link http://faculty.uc.pt/uc26593
-O perfil do Professor Raul Barbosa pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc26844
-O perfil do Professor Rui Pedro Paiva pode ser consultado através do link https://apps.uc.pt/mypage/faculty/uc26118
-O perfil do Professor Teresa Mendes pode ser consultado através do link https://www.cisuc.uc.pt/en/people/teresa-mendes
-O perfil do Professor Tiago Cruz pode ser consultado através do link http://faculty.uc.pt/uc41531
-O perfil do Professor Tiago Martins pode ser consultado através do link https://www.cisuc.uc.pt/en/people/tiago-martins
-O perfil do Professor Vasco Pereira pode ser consultado através do link http://faculty.uc.pt/uc26416
+# Professor António Mendes:
+
+nome: António Mendes
+categoria: Professor Associado c/ Agregação
+email: toze@dei.uc.pt
+perfil: http://faculty.uc.pt/uc22803
+
+# Professor Bernardete Ribeiro:
+
+nome: Bernardete Ribeiro
+categoria: Professora Catedrática Jubilada
+email: bribeiro@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc25930/en
+
+# Professor Bruno Sousa:
+
+nome: Bruno Sousa
+categoria: Professor Auxiliar
+email: bmsousa@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc43546
+
+# Professor Carlos Bento:
+
+nome: Carlos Bento
+categoria: Professor Associado c/ Agregação
+email: bento@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/carlos-bento
+
+# Professor Carlos Fonseca:
+
+nome: Carlos Fonseca
+categoria: Professor Associado
+email: cmfonsec@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26853
+
+# Professor Catarina Silva:
+
+nome: Catarina Silva
+categoria: Professora Associada
+email: catarina@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc45296
+
+# Professor César Teixeira:
+
+nome: César Teixeira
+categoria: Professor Associado c/ Agregação
+email: cteixei@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26769
+
+# Professor Edmundo Monteiro:
+
+nome: Edmundo Monteiro
+categoria: Professor Catedrático
+email: edmundo@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/edmundo
+
+# Professor Ernesto Costa:
+
+nome: Ernesto Costa
+categoria: Professor Catedrático Jubilado
+email: ernesto@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/ernestojfc/en
+
+# Professor Evgheni Polisciuc:
+
+nome: Evgheni Polisciuc
+categoria: Professor Auxiliar
+email: evgheni@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc41408
+
+# Professor Fernando Barros:
+
+nome: Fernando Barros
+categoria: Professor Auxiliar
+email: barros@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc24876/en
+
+# Professor Fernando Boavida:
+
+nome: Fernando Boavida
+categoria: Professor Catedrático
+email: boavida@dei.uc.pt
+perfil: http://faculty.uc.pt/uc24338
+
+# Professor Filipe Araújo:
+
+nome: Filipe Araújo
+categoria: Professor Associado c/ Agregação
+email: filipius@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc26622
+
+# Professor Henrique Madeira:
+
+nome: Henrique Madeira
+categoria: Professor Catedrático
+email: henrique@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc00007515/en
+
+# Professor Hugo Gonçalo Oliveira:
+
+nome: Hugo Gonçalo Oliveira
+categoria: Professor Associado
+email: hroliv@dei.uc.pt
+perfil: http://faculty.uc.pt/uc41089
+
+# Professor Jacinto Estima:
+
+nome: Jacinto Estima
+categoria: Professor Auxiliar
+email: estima@dei.uc.pt
+perfil: https://jestima.github.io/
+
+# Professor João Barata:
+
+nome: João Barata
+categoria: Professor Auxiliar
+email: barata@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc44366
+
+# Professor João Campos:
+
+nome: João Campos
+categoria: Professor Auxiliar
+email: jrcampos@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/joao-campos
+
+# Professor João Gabriel Silva:
+
+nome: João Gabriel Silva
+categoria: Professor Catedrático
+email: jgabriel@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/jgsilva
+
+# Professor João Nuno Correia:
+
+nome: João Nuno Correia
+categoria: Professor Auxiliar
+email: jncor@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc40050
+
+# Professor Joel Arrais:
+
+nome: Joel Arrais
+categoria: Professor Associado
+email: jpa@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc41532
+
+# Professor Jorge Cardoso:
+
+nome: Jorge Cardoso
+categoria: Professor Auxiliar
+email: jorgecardoso@dei.uc.pt
+perfil: http://faculty.uc.pt/uc42867
+
+# Professor Jorge Granjal:
+
+nome: Jorge Granjal
+categoria: Professor Auxiliar
+email: jgranjal@dei.uc.pt
+perfil: http://faculty.uc.pt/uc25612
+
+# Professor Jorge Henriques:
+
+nome: Jorge Henriques
+categoria: Professor Associado c/ Agregação
+email: jh@dei.uc.pt
+perfil: http://faculty.uc.pt/uc22824
+
+# Professor Karima Castro:
+
+nome: Karima Castro
+categoria: Professora Auxiliar
+email: kcastro@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/karima-velasquez
+
+# Professor Licínio Roque:
+
+nome: Licínio Roque
+categoria: Professor Associado
+email: lir@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc26082
+
+# Professor Luís Macedo:
+
+nome: Luís Macedo
+categoria: Professor Auxiliar
+email: macedo@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26618/en
+
+# Professor Luís Paquete:
+
+nome: Luís Paquete
+categoria: Professor Associado
+email: paquete@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26679
+
+# Professor Marco Simões:
+
+nome: Marco Simões
+categoria: Professor Auxiliar
+email: msimoes@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc26855
+
+# Professor Marco Vieira:
+
+nome: Marco Vieira
+categoria: Professor Catedrático
+email: mvieira@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26592
+
+# Professor Maria Marcelino:
+
+nome: Maria Marcelino
+categoria: Professora Auxiliar
+email: zemar@dei.uc.pt
+perfil: http://apps.uc.pt/mypage/faculty/uc22660
+
+# Professor Marília Curado:
+
+nome: Marília Curado
+categoria: Professora Catedrática
+email: marilia@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/marilia
+
+# Professor Mário Rela:
+
+nome: Mário Rela
+categoria: Professor Auxiliar
+email: mzrela@dei.uc.pt
+perfil: http://faculty.uc.pt/uc24500
+
+# Professor Naghmeh Ivaki:
+
+nome: Naghmeh Ivaki
+categoria: Professora Auxiliar
+email: naghmeh@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/naghmeh-ivaki
+
+# Professor Nuno Laranjeiro:
+
+nome: Nuno Laranjeiro
+categoria: Professor Associado c/ Agregação
+email: cnl@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc26646
+
+# Professor Nuno Lourenço:
+
+nome: Nuno Lourenço
+categoria: Professor Associado
+email: naml@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc26856/en
+
+# Professor Paula Alexandra Silva:
+
+nome: Paula Alexandra Silva
+categoria: Professora Auxiliar
+email: paulasilva@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc45348
+
+# Professor Paulo Rupino:
+
+nome: Paulo Rupino
+categoria: Professor Associado c/ Agregação
+email: rupino@dei.uc.pt
+perfil: http://faculty.uc.pt/uc25527
+
+# Professor Paulo Simões:
+
+nome: Paulo Simões
+categoria: Professor Associado
+email: psimoes@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc25711/en
+
+# Professor Paulo de Carvalho:
+
+nome: Paulo de Carvalho
+categoria: Professor Catedrático
+email: carvalho@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/paulo-carvalho
+
+# Professor Pedro Abreu:
+
+nome: Pedro Abreu
+categoria: Professor Associado c/ Agregação
+email: pha@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc40768/pt
+
+# Professor Pedro Furtado:
+
+nome: Pedro Furtado
+categoria: Professor Auxiliar
+email: pnf@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/pedro-furtado
+
+# Professor Pedro Martins:
+
+nome: Pedro Martins
+categoria: Professor Associado
+email: pjmm@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/pedro-martins
+
+# Professor Penousal Machado:
+
+nome: Penousal Machado
+categoria: Professor Associado c/ Agregação
+email: machado@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26593
+
+# Professor Raul Barbosa:
+
+nome: Raul Barbosa
+categoria: Professor Auxiliar
+email: rbarbosa@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc26844
+
+# Professor Rui Pedro Paiva:
+
+nome: Rui Pedro Paiva
+categoria: Professor Associado c/ Agregação
+email: ruipedro@dei.uc.pt
+perfil: https://apps.uc.pt/mypage/faculty/uc26118
+
+# Professor Teresa Mendes:
+
+nome: Teresa Mendes
+categoria: Professora Catedrática Jubilada
+email: tmendes@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/teresa-mendes
+
+# Professor Tiago Cruz:
+
+nome: Tiago Cruz
+categoria: Professor Associado c/ Agregação
+email: tjcruz@dei.uc.pt
+perfil: http://faculty.uc.pt/uc41531
+
+# Professor Tiago Martins:
+
+nome: Tiago Martins
+categoria: Professor Auxiliar
+email: tiagofm@dei.uc.pt
+perfil: https://www.cisuc.uc.pt/en/people/tiago-martins
+
+# Professor Vasco Pereira:
+
+nome: Vasco Pereira
+categoria: Professor Auxiliar
+email: vasco@dei.uc.pt
+perfil: http://faculty.uc.pt/uc26416
 
 # Ensino no DEI
 
