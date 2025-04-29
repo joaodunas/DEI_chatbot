@@ -72,6 +72,8 @@ Para mais informações consulte https://www.uc.pt/fctuc/dei/apresentacao/orgaos
 
 # Corpo Docente do DEI
 
+Nesta lista está contido o nome, categoria, email e link para o perfil de todos os Professores do DEI.
+
 O Professor Alberto Cardoso está na categoria Professor Associado, tem o email alberto@dei.uc.pt e o seu perfil pode ser consultado em http://faculty.uc.pt/uc24774.
 O Professor Amílcar Cardoso está na categoria Professor Catedrático, tem o email amilcar@dei.uc.pt e o seu perfil pode ser consultado em http://faculty.uc.pt/uc24291.
 O Professor António Dias de Figueiredo está na categoria Professor Catedrático Aposentado, tem o email adf@dei.uc.pt e o seu perfil pode ser consultado em https://apps.uc.pt/mypage/faculty/uc41097/pt.
