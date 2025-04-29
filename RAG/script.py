@@ -134,7 +134,30 @@ def search(query, model, index, chunks, top_k=3):
     Returns:
         list: Top-k most similar text chunks.
     """
-    
+
+    replacements = {
+        "DEI": "Departamento de Engenharia Informática",
+        "lei": "Licenciatura em Engenharia Informática",
+        "mei": "Mestrado em Engenharia Informática",
+        "lecd": "Licenciatura em Engenharia e Ciência de Dados",
+        "mecd": "Mestrado em Engenharia e Ciência de Dados",
+        "ldm": "Licenciatura em Design e Multimédia",
+        "mdm": "Mestrado em Design e Multimédia",
+        "fctuc": "Faculdade de Ciências e Tecnologia da Universidade de Coimbra",
+        "fct": "Faculdade de Ciências e Tecnologia",
+        "uc": "Universidade de Coimbra",
+        "uc.pt": "Universidade de Coimbra",
+    }
+
+    query = query.lower()
+
+    # replace
+    for key, value in replacements.items():
+        pattern = re.compile(rf"\b{key}\b", re.IGNORECASE)
+        query = pattern.sub(value, query)
+        
+    print(query, flush=True)
+
     query_vec = model.encode([query], convert_to_numpy=True)
     distances, indices = index.search(query_vec, top_k)
     
