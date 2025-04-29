@@ -28,7 +28,7 @@ model = SentenceTransformer(model_name)
 print("🔧 Loading reranker...", flush=True)
 reranker_model = CrossEncoder("cross-encoder/mmarco-mMiniLMv2-L12-H384-v1")
 
-metadata_sections = [
+metadata_sections_old = [
     "Apresentação do Departamento de Engenharia Informática (DEI) da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, incluindo uma apresentação Geral, a missão e valores, o histórico e estrutura, parcerias e intercâmbio, e informações de contato completas do departamento, incluindo morada, número de telefone e endereço de email",
     "Órgãos de gestão do Departamento de Engenharia Informática (DEI): direção, comissão científica.",
     "Corpo docente do Departamento de Engenharia Informática (DEI): nomes, categorias, emails e perfis.",
@@ -42,6 +42,8 @@ metadata_sections = [
     "Mestrado em Engenharia e Ciência de Dados (MECD): plano de estudos, coordenação, saídas profissionais.",
     ""
 ]
+
+metadata_sections = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
 
 
 # Load and chunk the text file
