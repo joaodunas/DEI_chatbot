@@ -538,7 +538,9 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **Tiago Cruz** — Subdiretor
 - **Evgheni Polisciuc** — Subdiretor
 
-# Comissão Científica do DEI
+# Comissão Científica do Departamente do Engenharia Informática
+
+Tem um total de 16 professores:
 
 - Alberto Cardoso
 - António Mendes
@@ -584,6 +586,11 @@ A Licenciatura em Engenharia Informática da Universidade de Coimbra, com mais d
 Além de bases sólidas em Matemática, Física, Economia/Gestão e Comunicação.
 
 O ciclo de três anos (6 semestres) e totaliza 180 ECTS (126 de Informática, 36 de Matemática, 12 de Economia/Gestão e 6 de Física).
+
+- **Total de Unidades Curriculares**: 30  
+- **Total de Créditos ECTS**: 180  
+- **Duração**: 3 anos (6 semestres)  
+- Todas as cadeiras são obrigatórias
 
 Ver Plano de Estudos 2025‑2026 - https://apps.uc.pt/courses/PT/programme/362/2025-2026?id_branch=22529#branch-22529
 
@@ -654,59 +661,67 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
 
-# Plano de Estudos de LEI
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano, 1.º Semestre
 
-### 1.º Ano
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Análise Matemática I | MAT | 6.0 |
+| Estruturas Discretas | MAT | 6.0 |
+| Introdução à Programação e Resolução de Problemas | INF | 6.0 |
+| Tecnologias da Informática e Computadores | INF | 6.0 |
+| Álgebra Linear e Geometria Analítica | MAT | 6.0 |
 
-| Unidade Curricular | Semestre | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| Análise Matemática I | 1.º | Obrigatória | MAT | 6.0 |
-| Estruturas Discretas | 1.º | Obrigatória | MAT | 6.0 |
-| Introdução à Programação e Resolução de Problemas | 1.º | Obrigatória | INF | 6.0 |
-| Tecnologias da Informática e Computadores | 1.º | Obrigatória | INF | 6.0 |
-| Álgebra Linear e Geometria Analítica | 1.º | Obrigatória | MAT | 6.0 |
-| Análise Matemática II | 2.º | Obrigatória | MAT | 6.0 |
-| Arquitetura de Computadores | 2.º | Obrigatória | INF | 6.0 |
-| Estatística | 2.º | Obrigatória | MAT | 6.0 |
-| Princípios de Programação Procedimental | 2.º | Obrigatória | INF | 6.0 |
-| Tópicos de Física Moderna | 2.º | Obrigatória | FIS | 6.0 |
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano, 2.º Semestre
 
----
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Análise Matemática II | MAT | 6.0 |
+| Arquitetura de Computadores | INF | 6.0 |
+| Estatística | MAT | 6.0 |
+| Princípios de Programação Procedimental | INF | 6.0 |
+| Tópicos de Física Moderna | FIS | 6.0 |
 
-### 2.º Ano
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano, 1.º Semestre
 
-| Unidade Curricular | Semestre | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| Análise Matemática III | 1.º | Obrigatória | MAT | 6.0 |
-| Programação Orientada aos Objetos | 1.º | Obrigatória | INF | 6.0 |
-| Sistemas Operativos | 1.º | Obrigatória | INF | 6.0 |
-| Teoria da Computação | 1.º | Obrigatória | INF | 6.0 |
-| Teoria da Informação | 1.º | Obrigatória | INF | 6.0 |
-| Algoritmos e Estruturas de Dados | 2.º | Obrigatória | INF | 6.0 |
-| Análise e Transformação de Dados | 2.º | Obrigatória | INF | 6.0 |
-| Bases de Dados | 2.º | Obrigatória | INF | 6.0 |
-| Comunicação Técnica | 2.º | Obrigatória | EGCS | 3.0 |
-| Processos de Gestão e de Inovação | 2.º | Obrigatória | EGCS | 3.0 |
-| Redes de Comunicação | 2.º | Obrigatória | INF | 6.0 |
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Análise Matemática III | MAT | 6.0 |
+| Programação Orientada aos Objetos | INF | 6.0 |
+| Sistemas Operativos | INF | 6.0 |
+| Teoria da Computação | INF | 6.0 |
+| Teoria da Informação | INF | 6.0 |
 
----
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano, 2.º Semestre
 
-### 3.º Ano
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Algoritmos e Estruturas de Dados | INF | 6.0 |
+| Análise e Transformação de Dados | INF | 6.0 |
+| Bases de Dados | INF | 6.0 |
+| Comunicação Técnica | EGCS | 3.0 |
+| Processos de Gestão e de Inovação | EGCS | 3.0 |
+| Redes de Comunicação | INF | 6.0 |
 
-| Unidade Curricular | Semestre | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| Engenharia de Características para Aprendizagem Computacional | 1.º | Obrigatória | INF | 6.0 |
-| Engenharia de Software | 1.º | Obrigatória | INF | 6.0 |
-| Protocolos de Comunicação | 1.º | Obrigatória | INF | 6.0 |
-| Sistemas Distribuídos | 1.º | Obrigatória | INF | 6.0 |
-| Sistemas de Informação | 1.º | Obrigatória | INF | 6.0 |
-| Compiladores | 2.º | Obrigatória | INF | 6.0 |
-| Computação Gráfica Interativa | 2.º | Obrigatória | INF | 6.0 |
-| Estratégias Algorítmicas | 2.º | Obrigatória | INF | 6.0 |
-| Fundamentos de Inteligência Artificial | 2.º | Obrigatória | INF | 6.0 |
-| Fundamentos de Segurança Informática | 2.º | Obrigatória | INF | 6.0 |
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano, 1.º Semestre
 
----
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Engenharia de Características para Aprendizagem Computacional | INF | 6.0 |
+| Engenharia de Software | INF | 6.0 |
+| Protocolos de Comunicação | INF | 6.0 |
+| Sistemas Distribuídos | INF | 6.0 |
+| Sistemas de Informação | INF | 6.0 |
+
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano, 2.º Semestre
+
+| Unidade Curricular | Área | ECTS |
+|--------------------|------|------|
+| Compiladores | INF | 6.0 |
+| Computação Gráfica Interativa | INF | 6.0 |
+| Estratégias Algorítmicas | INF | 6.0 |
+| Fundamentos de Inteligência Artificial | INF | 6.0 |
+| Fundamentos de Segurança Informática | INF | 6.0 |
+
 
 # Licenciatura em Design e Multimédia (LDM)
 
