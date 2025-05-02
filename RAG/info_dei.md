@@ -591,6 +591,7 @@ O ciclo de três anos (6 semestres) e totaliza 180 ECTS (126 de Informática, 
 - **Total de Créditos ECTS**: 180  
 - **Duração**: 3 anos (6 semestres)  
 - Todas as cadeiras são obrigatórias
+- Não há cadeiras opcionais
 
 Ver Plano de Estudos 2025‑2026 - https://apps.uc.pt/courses/PT/programme/362/2025-2026?id_branch=22529#branch-22529
 

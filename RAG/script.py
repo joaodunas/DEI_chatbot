@@ -9,7 +9,10 @@ import uvicorn
 import re
 from sentence_transformers import CrossEncoder
 from fastapi.middleware.cors import CORSMiddleware
+import requests
+import json
 
+ollama_endpoint = "http://10.3.2.181:8080/api/generate"
 
 app = FastAPI()
 
@@ -209,6 +212,34 @@ def rerank(query, top_k_results, reranker_model):
     return top_3_results
 
 
+def generate_request(model_name : str, prompt : str, vm_url : str) -> str:
+
+    """
+    Make a request to the model (hosted at the VM) and return the response.
+    Args:
+        model_name (str): The name of the model to use.
+        prompt (str): The input prompt for the model.
+        vm_url (str): The URL of the VM hosting the model.
+    Returns:
+        str: The response from the model.
+    """
+
+    payload = {
+        "model": model_name,
+        "prompt": prompt,
+        "stream": False
+    }
+    headers = {"Content-Type": "application/json"}
+
+    try:
+        print("Sending request")
+        response = requests.post(vm_url, data=json.dumps(payload), headers=headers)
+        response.raise_for_status()  # Raise an error for bad responses (4xx, 5xx)
+        return response.json()  # Return JSON response
+    except requests.exceptions.RequestException as e:
+        return {"error": str(e)}
+
+
 # API setup
 class QueryRequest(BaseModel):
 
@@ -220,6 +251,7 @@ class QueryRequest(BaseModel):
     """
 
     query: str
+    context: str
     top_k: int = 3
 
 
@@ -233,6 +265,21 @@ def query_docs(request: QueryRequest):
     Returns:
         dict: A dictionary containing the results or an error message.
     """
+
+    entire_context = f"Chat History: {request.context}\New question: {request.query}"
+    query_refactor_question = "Generate a standalone question which is based on the new question plus the chat history. Just create the standalone question without commentary. New question: "
+
+    print(entire_context, flush=True)
+
+    try:
+        response = generate_request(model_name = "qwen2.5:72b", 
+                                    prompt = f"{entire_context}\n{query_refactor_question}", 
+                                    vm_url=ollama_endpoint)
+        
+        request.query = response["response"]
+
+    except Exception as e:
+        return {"error": str(e)}
 
     try:
         results = search(

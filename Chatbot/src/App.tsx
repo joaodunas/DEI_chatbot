@@ -101,7 +101,8 @@ function App() {
         },
         body: JSON.stringify({
           query: trimmedInput,
-          top_k: 3, // or whatever number of results you want
+          context: apiMessages,
+          top_k: 3, // number of results you want
         }),
       });
 
@@ -134,7 +135,7 @@ function App() {
           messages: apiMessages,
           stream: true,
           options: {
-            temperature: 0.5,
+            temperature: 0.2,
           },
         }),
       });
