@@ -662,9 +662,9 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano 1º Semestre
 
-Este é o plano curricular do 1º ano da da Licenciatura em Engenharia Informática (LEI):
+Este é o plano curricular do 1º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
 
 | Unidade Curricular | Área | ECTS | Semestre |
 |--------------------|------|------|----------|
@@ -673,15 +673,20 @@ Este é o plano curricular do 1º ano da da Licenciatura em Engenharia Informát
 | Introdução à Programação e Resolução de Problemas | INF | 6.0 | 1 |
 | Tecnologias da Informática e Computadores | INF | 6.0 | 1 |
 | Álgebra Linear e Geometria Analítica | MAT | 6.0 | 1 |
+
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano 2º Semestre
+
+Este é o plano curricular do 1º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
 | Análise Matemática II | MAT | 6.0 | 2 |
 | Arquitetura de Computadores | INF | 6.0 | 2 |
 | Estatística | MAT | 6.0 | 2 |
 | Princípios de Programação Procedimental | INF | 6.0 | 2 |
 | Tópicos de Física Moderna | FIS | 6.0 | 2 |
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano 1º Semestre
 
-Este é o plano curricular do 2º ano da da Licenciatura em Engenharia Informática (LEI):
+Este é o plano curricular do 2º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
 
 | Unidade Curricular | Área | ECTS | Semestre |
 |--------------------|------|------|----------|
@@ -690,6 +695,11 @@ Este é o plano curricular do 2º ano da da Licenciatura em Engenharia Informát
 | Sistemas Operativos | INF | 6.0 | 1 |
 | Teoria da Computação | INF | 6.0 | 1 |
 | Teoria da Informação | INF | 6.0 | 1 |
+
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano 2º Semestre
+
+Este é o plano curricular do 2º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
 | Algoritmos e Estruturas de Dados | INF | 6.0 | 2 |
 | Análise e Transformação de Dados | INF | 6.0 | 2 |
 | Bases de Dados | INF | 6.0 | 2 |
@@ -697,9 +707,9 @@ Este é o plano curricular do 2º ano da da Licenciatura em Engenharia Informát
 | Processos de Gestão e de Inovação | EGCS | 3.0 | 2 |
 | Redes de Comunicação | INF | 6.0 | 2 |
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano 1º Semestre
 
-Este é o plano curricular do 3º ano da da Licenciatura em Engenharia Informática (LEI):
+Este é o plano curricular do 3º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
 
 | Unidade Curricular | Área | ECTS | Semestre |
 |--------------------|------|------|----------|
@@ -708,6 +718,11 @@ Este é o plano curricular do 3º ano da da Licenciatura em Engenharia Informát
 | Protocolos de Comunicação | INF | 6.0 | 1 |
 | Sistemas Distribuídos | INF | 6.0 | 1 |
 | Sistemas de Informação | INF | 6.0 | 1 |
+
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano 2º Semestre
+
+Este é o plano curricular do 3º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
 | Compiladores | INF | 6.0 | 2 |
 | Computação Gráfica Interativa | INF | 6.0 | 2 |
 | Estratégias Algorítmicas | INF | 6.0 | 2 |
