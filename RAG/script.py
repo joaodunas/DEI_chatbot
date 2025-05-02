@@ -97,7 +97,7 @@ def load_and_chunk(file_path, max_lines_per_chunk=10, tokenizer=None, max_tokens
         
         metadata = metadata_sections[metadata_sec_id] if i < len(metadata_sections) else ""
         metadata_sec_id += 1
-        full_text_with_metadata = f"Resumo: {metadata}\nConteúdo: {full_text}"
+        full_text_with_metadata = f"{full_text}"
         
         # Store as tuple of (text, metadata) for better organization
         chunks.append((full_text_with_metadata, metadata))
