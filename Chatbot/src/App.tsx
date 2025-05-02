@@ -118,8 +118,6 @@ function App() {
         .map((item: { text: string }) => item.text)
         .join("\n");
 
-      console.log(contextString);
-
       //add this contextString to the last user message of the apiMessages
       apiMessages[apiMessages.length - 1].content =
         "<context>" +
@@ -129,6 +127,7 @@ function App() {
         trimmedInput +
         "</user_query>";
 
+      console.log(apiMessages[apiMessages.length - 1].content);
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",
