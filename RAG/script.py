@@ -270,7 +270,14 @@ def query_docs(request: QueryRequest):
         dict: A dictionary containing the results or an error message.
     """
 
-    entire_context = f"Chat History: {request.context}\nNew question: {request.query}"
+    context = request.context[1:]
+    context = [message.content for message in context]
+    context = [message for message in context if message.strip()]
+    context = "\n".join(context)
+    context = re.sub(r'\n+', ' ', context).strip()
+    context = re.sub(r'\s+', ' ', context).strip()
+
+    entire_context = f"Chat History: {context}\nNew question: {request.query}"
     query_refactor_question = "Generate a standalone question which is based on the new question plus the chat history. Just create the standalone question without commentary. New question: "
 
     print(entire_context, flush=True)
