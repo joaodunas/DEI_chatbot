@@ -94,6 +94,8 @@ function App() {
       const ragApiEndpoint = import.meta.env.VITE_RAG_API_ENDPOINT;
       const modelName = import.meta.env.VITE_OLLAMA_MODEL_NAME;
 
+      console.log(apiMessages)
+
       const contextResponse = await fetch(ragApiEndpoint, {
         method: "POST",
         headers: {

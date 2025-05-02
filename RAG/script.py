@@ -240,7 +240,11 @@ def generate_request(model_name : str, prompt : str, vm_url : str) -> str:
         return {"error": str(e)}
 
 
-# API setup
+class ChatMessage(BaseModel):
+
+    role: str
+    content: str
+
 class QueryRequest(BaseModel):
 
     """
@@ -251,7 +255,7 @@ class QueryRequest(BaseModel):
     """
 
     query: str
-    context: str
+    context: List[ChatMessage]
     top_k: int = 3
 
 
