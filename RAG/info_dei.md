@@ -662,66 +662,57 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano, 1.º Semestre
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano
 
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Análise Matemática I | MAT | 6.0 |
-| Estruturas Discretas | MAT | 6.0 |
-| Introdução à Programação e Resolução de Problemas | INF | 6.0 |
-| Tecnologias da Informática e Computadores | INF | 6.0 |
-| Álgebra Linear e Geometria Analítica | MAT | 6.0 |
+Este é o plano curricular do 1º ano da da Licenciatura em Engenharia Informática (LEI):
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano, 2.º Semestre
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Análise Matemática I | MAT | 6.0 | 1 |
+| Estruturas Discretas | MAT | 6.0 | 1 |
+| Introdução à Programação e Resolução de Problemas | INF | 6.0 | 1 |
+| Tecnologias da Informática e Computadores | INF | 6.0 | 1 |
+| Álgebra Linear e Geometria Analítica | MAT | 6.0 | 1 |
+| Análise Matemática II | MAT | 6.0 | 2 |
+| Arquitetura de Computadores | INF | 6.0 | 2 |
+| Estatística | MAT | 6.0 | 2 |
+| Princípios de Programação Procedimental | INF | 6.0 | 2 |
+| Tópicos de Física Moderna | FIS | 6.0 | 2 |
 
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Análise Matemática II | MAT | 6.0 |
-| Arquitetura de Computadores | INF | 6.0 |
-| Estatística | MAT | 6.0 |
-| Princípios de Programação Procedimental | INF | 6.0 |
-| Tópicos de Física Moderna | FIS | 6.0 |
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano, 1.º Semestre
+Este é o plano curricular do 2º ano da da Licenciatura em Engenharia Informática (LEI):
 
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Análise Matemática III | MAT | 6.0 |
-| Programação Orientada aos Objetos | INF | 6.0 |
-| Sistemas Operativos | INF | 6.0 |
-| Teoria da Computação | INF | 6.0 |
-| Teoria da Informação | INF | 6.0 |
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Análise Matemática III | MAT | 6.0 | 1 |
+| Programação Orientada aos Objetos | INF | 6.0 | 1 |
+| Sistemas Operativos | INF | 6.0 | 1 |
+| Teoria da Computação | INF | 6.0 | 1 |
+| Teoria da Informação | INF | 6.0 | 1 |
+| Algoritmos e Estruturas de Dados | INF | 6.0 | 2 |
+| Análise e Transformação de Dados | INF | 6.0 | 2 |
+| Bases de Dados | INF | 6.0 | 2 |
+| Comunicação Técnica | EGCS | 3.0 | 2 |
+| Processos de Gestão e de Inovação | EGCS | 3.0 | 2 |
+| Redes de Comunicação | INF | 6.0 | 2 |
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano, 2.º Semestre
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano
 
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Algoritmos e Estruturas de Dados | INF | 6.0 |
-| Análise e Transformação de Dados | INF | 6.0 |
-| Bases de Dados | INF | 6.0 |
-| Comunicação Técnica | EGCS | 3.0 |
-| Processos de Gestão e de Inovação | EGCS | 3.0 |
-| Redes de Comunicação | INF | 6.0 |
+Este é o plano curricular do 3º ano da da Licenciatura em Engenharia Informática (LEI):
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano, 1.º Semestre
-
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Engenharia de Características para Aprendizagem Computacional | INF | 6.0 |
-| Engenharia de Software | INF | 6.0 |
-| Protocolos de Comunicação | INF | 6.0 |
-| Sistemas Distribuídos | INF | 6.0 |
-| Sistemas de Informação | INF | 6.0 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano, 2.º Semestre
-
-| Unidade Curricular | Área | ECTS |
-|--------------------|------|------|
-| Compiladores | INF | 6.0 |
-| Computação Gráfica Interativa | INF | 6.0 |
-| Estratégias Algorítmicas | INF | 6.0 |
-| Fundamentos de Inteligência Artificial | INF | 6.0 |
-| Fundamentos de Segurança Informática | INF | 6.0 |
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Engenharia de Características para Aprendizagem Computacional | INF | 6.0 | 1 |
+| Engenharia de Software | INF | 6.0 | 1 |
+| Protocolos de Comunicação | INF | 6.0 | 1 |
+| Sistemas Distribuídos | INF | 6.0 | 1 |
+| Sistemas de Informação | INF | 6.0 | 1 |
+| Compiladores | INF | 6.0 | 2 |
+| Computação Gráfica Interativa | INF | 6.0 | 2 |
+| Estratégias Algorítmicas | INF | 6.0 | 2 |
+| Fundamentos de Inteligência Artificial | INF | 6.0 | 2 |
+| Fundamentos de Segurança Informática | INF | 6.0 | 2 |
 
 
 # Licenciatura em Design e Multimédia (LDM)
@@ -743,7 +734,7 @@ O ciclo de estudos é composto por três anos organizados em seis semestres, com
 - **Belas‑Artes (BA):** 24 ECTS
 - **Matemática e Estatística (ME):** 6 ECTS
 
-Para msia informação acerca do plano de estudos consulte https://apps.uc.pt/courses/PT/programme/462/2025-2026?id_branch=22124#branch-22124
+Para mais informação acerca do plano de estudos consulte https://apps.uc.pt/courses/PT/programme/462/2025-2026?id_branch=22124#branch-22124
 
 ## Destaques
 
@@ -825,34 +816,50 @@ O e‑mail da Coordenação é coord‑ldm@dei.uc.pt.
 O trabalho a desenvolver durante um ano letivo por um estudante, de acordo com o plano indicativo do ciclo de estudos e em regime de tempo integral, corresponde a 60 ECTS.
  
 
-# Plano de Estudos da Licenciatura em Design e Multimédia (MDM):
+# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 1º ano:
 
-| Nome da unidade curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
+Este é o plano curricular do 1º ano da da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
 | --- | --- | --- | --- | --- | --- |
-| Desenho e Representação | 1 | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Fundamentos Matemáticos | 1 | 1º Semestre | Obrigatória | Matemática (MAT) | 6.0 |
-| Introdução à Programação e Resolução de Problemas | 1 | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
-| Tipografia | 1 | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Desenho e Composição | 1 | 2º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| História do Design | 1 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Programação Multimédia | 1 | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
-| Teoria do Design e Comunicação | 1 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Arte e Cultura Moderna | 2 | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Projeto 1 – Identidade na Web | 2 | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-| Tecnologias da Internet | 2 | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Tipografia em Meios Digitais | 2 | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Computação Gráfica | 2 | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Fotografia e Composição | 2 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Produção Audiovisual | 2 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Projeto 2 – Audiovisual | 2 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-| Arte e Cultura Contemporânea | 3 | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Engenharia de Software | 3 | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Projeto 3 – Aplicações Multimédia | 3 | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-| Sistemas Informáticos | 3 | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Comunicação Multimédia | 3 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Design de Meios Interativos | 3 | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Introdução à Inteligência Artificial | 3 | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Projeto 4 – Multimédia Interativo | 3 | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+| Desenho e Representação | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Fundamentos Matemáticos | 1º Semestre | Obrigatória | Matemática (MAT) | 6.0 |
+| Introdução à Programação e Resolução de Problemas | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
+| Tipografia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Desenho e Composição | 2º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| História do Design | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Programação Multimédia | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
+| Teoria do Design e Comunicação | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+
+# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 2º ano:
+
+Este é o plano curricular do 2º ano da da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Arte e Cultura Moderna | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Projeto 1 – Identidade na Web | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+| Tecnologias da Internet | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Tipografia em Meios Digitais | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Computação Gráfica | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Fotografia e Composição | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Produção Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Projeto 2 – Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+
+# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 3º ano:
+
+Este é o plano curricular do 3º ano da da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Arte e Cultura Contemporânea | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Engenharia de Software | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Projeto 3 – Aplicações Multimédia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+| Sistemas Informáticos | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Comunicação Multimédia | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Design de Meios Interativos | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Introdução à Inteligência Artificial | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Projeto 4 – Multimédia Interativo | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
 
 # Licenciatura em Engenharia e Ciência de Dados (LECD)
 
@@ -917,7 +924,7 @@ Conta com docentes dos departamentos de Engenharia Informática, Matemática (DM
 
 ADMISSÃO
 
-- **Estrutura Curricular**: 3 anos, 6 semestres (1 sem. = 5 unidades de 6 ECTS, último sem. = 4 unidades totalizando 12 ECTS para projeto)
+- **Estrutura Curricular**: 3 anos, 6 semestres (1 sem. = 5 unidades de 6 ECTS, último sem. = 4 unidades totalizando 12 ECTS para projeto)- Ao todo são 180 ECTS, divididos por 6 semestres
 - **Tronco comum**: 28 disciplinas obrigatórias + 1 opção aberta (6 ECTS)
 - **Ciclos seguintes**:
     - 2º ciclo: Mestrado em Engenharia e Ciência de Dados (MECD)
@@ -932,13 +939,12 @@ ADMISSÃO
 
 ## Coordenação do Curso
 
+O coordenador da LECD é o Professor Marco Simões e o Vice-Coordenador é o Professor João Gouveia
 O e‑mail DA COORDENAÇÃO é coord‑lecd@dei.uc.pt
 
-# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD)
+# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 1.º Ano (60 ECTS)
 
-Ao todo são 180 ECTS, divididos por 6 semestres
-
-## 1.º Ano (60 ECTS)
+Este é o plano curricular do 1º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
 
 | Unidade Curricular | Sem. | Tipo | Área | ECTS |
 | --- | --- | --- | --- | --- |
@@ -955,7 +961,9 @@ Ao todo são 180 ECTS, divididos por 6 semestres
 | Programação Orientada aos Objetos | 1 | Obrigatória | INF | 6 |
 | Álgebra Linear Numérica e Cálculo Científico | 1 | Obrigatória | MAT | 6 |
 
-## 2.º Ano (60 ECTS)
+# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 2.º Ano (60 ECTS)
+
+Este é o plano curricular do 2º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
 
 | Unidade Curricular | Sem. | Tipo | Área | ECTS |
 | --- | --- | --- | --- | --- |
@@ -973,7 +981,9 @@ Ao todo são 180 ECTS, divididos por 6 semestres
 | Sistemas e Redes de Sensorização e Atuação | 2 | Obrigatória | INF | 6 |
 
 
-## 3.º Ano (60 ECTS)
+# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 3.º Ano (60 ECTS)
+
+Este é o plano curricular do 3º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
 
 | Unidade Curricular | Sem. | Tipo | Área | ECTS |
 | --- | --- | --- | --- | --- |
@@ -1136,9 +1146,9 @@ O email da coordenação é coord‑mei@dei.uc.pt
 - Línguas: Português ou Inglês
 - Enquadramento legal: Decreto-Lei n.º 157/2014, de 18 agosto.
 
-## Percursos
+# Percursos do Mestrado em Engenharia Informática (MEI)
 
-### 1. Comunicações, Serviços e Infraestruturas
+## 1. Comunicações, Serviços e Infraestruturas
 
 ### 1.º Ano
 
@@ -1170,7 +1180,7 @@ O email da coordenação é coord‑mei@dei.uc.pt
 
 - Dissertação/Estágio em Comunicações, Serviços e Infraestruturas — 42 ECTS
 
-### 2. Engenharia de Software
+## 2. Engenharia de Software
 
 ### 1.º Ano
 
@@ -1202,7 +1212,7 @@ O email da coordenação é coord‑mei@dei.uc.pt
 
 - Dissertação/Estágio em Engenharia de Software — 42 ECTS
 
-### 3. Sistemas Inteligentes
+## 3. Sistemas Inteligentes
 
 ### 1.º Ano
 
@@ -1234,7 +1244,7 @@ O email da coordenação é coord‑mei@dei.uc.pt
 
 - Dissertação/Estágio em Sistemas Inteligentes — 42 ECTS
 
-### 4. Sistemas de Informação
+## 4. Sistemas de Informação
 
 ### 1.º Ano
 
@@ -1343,11 +1353,11 @@ O curso privilegia uma sólida formação interdisciplinar, preparando profissio
 
 O email da Coordenação é coord‑mdm@dei.uc.pt
 
-# Plano de Estudos do Mestrado em Design e Multimédia (MDM)
+# Plano de Estudos do Mestrado em Design e Multimédia (MDM) - 1º ano
 
-O trabalho a desenvolver durante um ano letivo por um estudante, em regime integral, corresponde a 60 ECTS.
+Este é o plano curricular do 1º ano do Mestrado em Design e Multimédia (MDM)
 
-## Tronco Comum (1.º Ano)
+## Tronco Comum do 1º ano do Mestrado em Design e Multimédia (MDM) - 1º ano
 
 | Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -1357,9 +1367,7 @@ O trabalho a desenvolver durante um ano letivo por um estudante, em regime integ
 | [Oficina de Design Multimeios](https://apps.uc.pt/courses/PT/unit/85177/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | AVPM | 6 |
 | [Tecnologias de Interface](https://apps.uc.pt/courses/PT/unit/85170/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | CI | 6 |
 
----
-
-## Opcionais do 1.º Ano
+## Opcionais do 1.º Ano do Mestrado em Design e Multimédia (MDM) - 1º ano
 
 | Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -1380,14 +1388,18 @@ O trabalho a desenvolver durante um ano letivo por um estudante, em regime integ
 
 até 18 ECTS de unidades optativas na UC (sujeito a aprovação)
 
-## 2.º Ano
+# Plano de Estudos do Mestrado em Design e Multimédia (MDM) - 2º ano
+
+Este é o plano curricular do 2º ano do Mestrado em Design e Multimédia (MDM)
+
+## Tronco Comum do 2º ano do Mestrado em Design e Multimédia (MDM) - 1º ano
 
 | Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
 | --- | --- | --- | --- | --- | --- |
 | [Design de Transição](https://apps.uc.pt/courses/PT/unit/85169/21924/2025-2026) | 2 | 1.º Semestre | Obrigatória | SE | 6 |
 | [Estágio / Dissertação](https://apps.uc.pt/courses/PT/unit/11067/21924/2025-2026) | 2 | Anual | Obrigatória | AVPM | 42 |
 
-### Optativas do 2.º Ano
+## Opcionais do 2.º Ano do Mestrado em Design e Multimédia (MDM) - 1º ano
 
 | Unidade Curricular | Regime | ECTS |
 | --- | --- | --- |
@@ -1540,7 +1552,9 @@ O Vice-coordenador é o Professor Paulo Peixoto
 
 O email da Coordenação é coord-mecd@dei.uc.pt
 
-# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD)
+# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD) - 1º Ano
+
+Este é o plano curricular do 1º ano do Mestrado em Engenharia e Ciência de Dados (MECD)
 
 | Nome da Unidade Curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -1565,6 +1579,11 @@ O email da Coordenação é coord-mecd@dei.uc.pt
 | Representação de Conhecimento * | 1 | 2º Semestre | Opcional | OP | 6 |
 | Simulação * | 1 | 2º Semestre | Opcional | OP | 6 |
 | Sistemas Complexos * | 1 | 2º Semestre | Opcional | OP | 6 |
+
+# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD) - 2º Ano
+
+Este é o plano curricular do 2º ano do Mestrado em Engenharia e Ciência de Dados (MECD)
+
 | **Análise de Séries Temporais e Predição** | 2 | 1º Semestre | Obrigatória | INF | 6 |
 | **Tecnologias para Análise de Dados** | 2 | 1º Semestre | Obrigatória | INF | 6 |
 | **Estágio / Dissertação** | 2 | Anual | Obrigatória | INF | 42 |

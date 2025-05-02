@@ -270,13 +270,14 @@ def query_docs(request: QueryRequest):
         dict: A dictionary containing the results or an error message.
     """
 
-    print(len(request.context), flush=True)
-    print(request.context[0], flush=True)
-    print(request.context[1:], flush=True)
+    if len(request.context) > 3:
 
-    if len(request.context) > 2:
+        context = request.context[2:-1]
 
-        context = request.context[1:]
+        # lets just look at the last 6 messages
+        if len(context) > 6:
+            context = context[-6:]
+
         context = [message.content for message in context]
         context = [message for message in context if message.strip()]
         context = "\n".join(context)
