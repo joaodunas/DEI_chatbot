@@ -8,6 +8,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Card, CardContent } from "@/components/ui/card";
 import { Trash2 } from "lucide-react";
+import { encode } from 'gpt-tokenizer';
 
 // Import the logos from the assets folder
 import deiLogoFull from "./assets/dei_logo_full.svg";
@@ -34,9 +35,9 @@ const INFO_MESSAGE: Message = {
   id: generateId(), // Use the new function
   text: `
   Olá! Eu sou o ChatBot do DEI!\n
-  Fui criado por alunos do DEI para te ajudar a encontrar informação sobre o DEI e a Universidade de Coimbra\n
-  Podes falar comigo em português ou qualquer outra língua que conheças.\n
-  Se precisares de ajuda, estou aqui para te ajudar!
+  Fui criado por alunos do DEI para te ajudar!\n
+  Podes fazer perguntas sobre o DEI, a sua sobre a oferta pedagógica, bem como detalhes sobre os cursos, saídas profissionais, entre outros!\n
+  Sou uma versão **beta**, pelo que é importante confirmar informação importante no site do DEI https://www.uc.pt/fctuc/dei/.\n\n
   `,
   sender: "assistant",
 };
@@ -74,6 +75,7 @@ function App() {
     setMessages(updatedMessages);
     setInput("");
 
+    /* JRC 20250506 comment to avoid sending history
     // Prepare messages for the API call
     // Type annotation using imported ChatMessage
     const apiMessages: ChatMessage[] = [
@@ -88,6 +90,38 @@ function App() {
             } as ChatMessage) // Type assertion using imported ChatMessage
         ),
     ];
+    */
+    
+    // JRC 20250506 include just the current message
+    /*
+    const apiMessages: ChatMessage[] = [
+      SYSTEM_MESSAGE,
+      {
+        role: "user",
+        content: trimmedInput,
+      },
+    ];
+    */
+    
+    const MAX_CONTEXT_MESSAGES = 1; // total messages to include (user+assistant pairs)
+
+    const relevantMessages = messages
+      .filter((msg) => msg.sender === "user" || msg.sender === "assistant")
+      .slice(-MAX_CONTEXT_MESSAGES)
+      .map((msg) => ({
+        role: msg.sender,
+        content: msg.text,
+      }));
+
+    const apiMessages: ChatMessage[] = [
+      SYSTEM_MESSAGE,
+      ...relevantMessages,
+      {
+        role: "user",
+        content: trimmedInput,
+      },
+    ];
+
 
     try {
       const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
@@ -127,7 +161,15 @@ function App() {
         trimmedInput +
         "</user_query>";
 
-      console.log(apiMessages[apiMessages.length - 1].content);
+      // const messageContent = apiMessages[apiMessages.length - 1].content;
+
+      let totalTokens = 0;
+      apiMessages.forEach(message => {
+        totalTokens += encode(message.content).length;
+      });
+
+      console.log("Total token count for all messages (using gpt-tokenizer, specific model might be diff):", totalTokens);
+
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
         method: "POST",
@@ -136,7 +178,7 @@ function App() {
           messages: apiMessages,
           stream: true,
           options: {
-            temperature: 0.2,
+            temperature: 0.5, // 0.2; 0.5 works well for gemma3; 
           },
         }),
       });

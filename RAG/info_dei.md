@@ -2,23 +2,59 @@
 
 Esta é a página de apresentação do Departamento de Engenharia Informática, na Faculdade de Ciências e Tecnologia da Universidade de Coimbra. A página fornece uma visão geral das áreas de investigação, ensino e dos serviços prestados pelo departamento.
 
-### 2. Missão e Valores
+## 2. Missão e Valores
 
 O departamento dedica-se à excelência no ensino e na investigação, promovendo uma integração efetiva entre a investigação e a formação de qualidade, contribuindo para a inovação tecnológica e social.
 
-### 3. Histórico e Estrutura
+## 3. Histórico e Estrutura
 
 Fundado com o intuito de formar profissionais de alta qualidade, o departamento desenvolve projetos de investigação em várias áreas da informática. A estrutura organizacional inclui grupos de investigação e laboratórios equipados com tecnologia de ponta.
 
-### 4. Colaboração e Internacionalização
+## 4. Colaboração e Internacionalização
 
 O departamento mantém estreitas colaborações com instituições nacionais e internacionais, promovendo intercâmbios e projetos conjuntos com diversos parceiros académicos e industriais.
 
-# Contactos do DEI
+## Contactos do DEI
 
-- **Endereço:** Cidade Universitária, 3004-516 Coimbra, Portugal
-- **Telefone:** +351 239 210000
-- **Email:** dei@uc.pt
+- **Endereço:** Departamento de Engenharia Informática, Faculdade de Ciências e Tecnologia, Universidade de Coimbra, Pólo II - Pinhal de Marrocos, 3030-290 Coimbra
+- **Telefone:** +351 239 790 000
+- **Email:** info@dei.uc.pt
+
+## Como chegar
+
+O Departamento de Engenharia Informática (DEI) da Universidade de Coimbra está localizado no Pólo II da Faculdade de Ciências e Tecnologia, na zona do Pinhal de Marrocos, com o seguinte endereço:([uc.pt][1])
+
+**Departamento de Engenharia Informática**
+Faculdade de Ciências e Tecnologia, Universidade de Coimbra
+Pólo II - Pinhal de Marrocos
+3030-290 Coimbra
+Telefone: +351 239 790 000
+Email: info@dei.uc.pt
+
+### Como chegar ao DEI a partir do centro de Coimbra:
+
+#### 🚍 De autocarro:
+
+A rede de transportes públicos SMTUC oferece várias linhas que ligam o centro da cidade ao Pólo II. As linhas mais comuns incluem:
+
+* **Linha 34** – liga o centro da cidade ao Pólo II.
+* **Linha 38** – passa pelo Pólo II, com paragens próximas ao DEI.
+
+Os horários e rotas podem variar, por isso é recomendável consultar o site oficial dos SMTUC para informações atualizadas.
+
+#### 🚕 De táxi ou TVDE:
+
+A viagem de táxi ou através de serviços como Uber ou Bolt do centro de Coimbra até ao DEI demora cerca de 10 a 15 minutos, dependendo do trânsito.
+
+#### 🚶‍♂️ A pé:
+
+Embora seja possível caminhar até ao Pólo II, a distância e o desnível tornam a caminhada desafiante, especialmente em dias quentes ou chuvosos. A caminhada pode levar entre 30 a 45 minutos.
+
+#### 🚗 De carro:
+
+Se estiver a conduzir, pode seguir pela Avenida Dias da Silva em direção ao Pólo II. Existem indicações para a Faculdade de Ciências e Tecnologia ao longo do percurso. Há estacionamento disponível nas imediações do DEI, embora possa ser limitado durante os períodos letivos.([uc.pt][4])
+
+Para uma navegação mais precisa, pode utilizar aplicações como o Google Maps ou o Waze, inserindo o endereço do DEI como destino.
 
 # Orgãos de Gestão do DEI
 
@@ -70,7 +106,7 @@ Os órgãos sociais apresentados na página são os seguintes:
 
 Para mais informações consulte https://www.uc.pt/fctuc/dei/apresentacao/orgaos-gestao/
 
-# Informação geral acerca do corpo docente do DEI
+# Informação geral acerca do corpo docente do DEI; professores do DEI;
 
 Total de professores: 54
 Número de categorias distintas: 10
@@ -83,383 +119,7 @@ Número de professores por categoria:
   Professor(a) Associado c/ Agregação: 11
   Professor(a) Auxiliar: 20
 
-# Professor Alberto Cardoso:
-
-nome: Alberto Cardoso
-categoria: Professor Associado
-email: alberto@dei.uc.pt
-perfil: http://faculty.uc.pt/uc24774
-
-# Professor Amílcar Cardoso:
-
-nome: Amílcar Cardoso
-categoria: Professor Catedrático
-email: amilcar@dei.uc.pt
-perfil: http://faculty.uc.pt/uc24291
-
-# Professor António Dias de Figueiredo:
-
-nome: António Dias de Figueiredo
-categoria: Professor Catedrático Aposentado
-email: adf@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc41097/pt
-
-# Professor António Dourado:
-
-nome: António Dourado
-categoria: Professor Catedrático Jubilado
-email: dourado@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/antonio-dourado
-
-# Professor António Mendes:
-
-nome: António Mendes
-categoria: Professor Associado c/ Agregação
-email: toze@dei.uc.pt
-perfil: http://faculty.uc.pt/uc22803
-
-# Professor Bernardete Ribeiro:
-
-nome: Bernardete Ribeiro
-categoria: Professora Catedrática Jubilada
-email: bribeiro@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc25930/en
-
-# Professor Bruno Sousa:
-
-nome: Bruno Sousa
-categoria: Professor Auxiliar
-email: bmsousa@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc43546
-
-# Professor Carlos Bento:
-
-nome: Carlos Bento
-categoria: Professor Associado c/ Agregação
-email: bento@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/carlos-bento
-
-# Professor Carlos Fonseca:
-
-nome: Carlos Fonseca
-categoria: Professor Associado
-email: cmfonsec@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26853
-
-# Professor Catarina Silva:
-
-nome: Catarina Silva
-categoria: Professora Associada
-email: catarina@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc45296
-
-# Professor César Teixeira:
-
-nome: César Teixeira
-categoria: Professor Associado c/ Agregação
-email: cteixei@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26769
-
-# Professor Edmundo Monteiro:
-
-nome: Edmundo Monteiro
-categoria: Professor Catedrático
-email: edmundo@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/edmundo
-
-# Professor Ernesto Costa:
-
-nome: Ernesto Costa
-categoria: Professor Catedrático Jubilado
-email: ernesto@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/ernestojfc/en
-
-# Professor Evgheni Polisciuc:
-
-nome: Evgheni Polisciuc
-categoria: Professor Auxiliar
-email: evgheni@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc41408
-
-# Professor Fernando Barros:
-
-nome: Fernando Barros
-categoria: Professor Auxiliar
-email: barros@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc24876/en
-
-# Professor Fernando Boavida:
-
-nome: Fernando Boavida
-categoria: Professor Catedrático
-email: boavida@dei.uc.pt
-perfil: http://faculty.uc.pt/uc24338
-
-# Professor Filipe Araújo:
-
-nome: Filipe Araújo
-categoria: Professor Associado c/ Agregação
-email: filipius@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc26622
-
-# Professor Henrique Madeira:
-
-nome: Henrique Madeira
-categoria: Professor Catedrático
-email: henrique@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc00007515/en
-
-# Professor Hugo Gonçalo Oliveira:
-
-nome: Hugo Gonçalo Oliveira
-categoria: Professor Associado
-email: hroliv@dei.uc.pt
-perfil: http://faculty.uc.pt/uc41089
-
-# Professor Jacinto Estima:
-
-nome: Jacinto Estima
-categoria: Professor Auxiliar
-email: estima@dei.uc.pt
-perfil: https://jestima.github.io/
-
-# Professor João Barata:
-
-nome: João Barata
-categoria: Professor Auxiliar
-email: barata@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc44366
-
-# Professor João Campos:
-
-nome: João Campos
-categoria: Professor Auxiliar
-email: jrcampos@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/joao-campos
-
-# Professor João Gabriel Silva:
-
-nome: João Gabriel Silva
-categoria: Professor Catedrático
-email: jgabriel@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/jgsilva
-
-# Professor João Nuno Correia:
-
-nome: João Nuno Correia
-categoria: Professor Auxiliar
-email: jncor@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc40050
-
-# Professor Joel Arrais:
-
-nome: Joel Arrais
-categoria: Professor Associado
-email: jpa@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc41532
-
-# Professor Jorge Cardoso:
-
-nome: Jorge Cardoso
-categoria: Professor Auxiliar
-email: jorgecardoso@dei.uc.pt
-perfil: http://faculty.uc.pt/uc42867
-
-# Professor Jorge Granjal:
-
-nome: Jorge Granjal
-categoria: Professor Auxiliar
-email: jgranjal@dei.uc.pt
-perfil: http://faculty.uc.pt/uc25612
-
-# Professor Jorge Henriques:
-
-nome: Jorge Henriques
-categoria: Professor Associado c/ Agregação
-email: jh@dei.uc.pt
-perfil: http://faculty.uc.pt/uc22824
-
-# Professor Karima Castro:
-
-nome: Karima Castro
-categoria: Professora Auxiliar
-email: kcastro@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/karima-velasquez
-
-# Professor Licínio Roque:
-
-nome: Licínio Roque
-categoria: Professor Associado
-email: lir@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc26082
-
-# Professor Luís Macedo:
-
-nome: Luís Macedo
-categoria: Professor Auxiliar
-email: macedo@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26618/en
-
-# Professor Luís Paquete:
-
-nome: Luís Paquete
-categoria: Professor Associado
-email: paquete@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26679
-
-# Professor Marco Simões:
-
-nome: Marco Simões
-categoria: Professor Auxiliar
-email: msimoes@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc26855
-
-# Professor Marco Vieira:
-
-nome: Marco Vieira
-categoria: Professor Catedrático
-email: mvieira@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26592
-
-# Professor Maria Marcelino:
-
-nome: Maria Marcelino
-categoria: Professora Auxiliar
-email: zemar@dei.uc.pt
-perfil: http://apps.uc.pt/mypage/faculty/uc22660
-
-# Professor Marília Curado:
-
-nome: Marília Curado
-categoria: Professora Catedrática
-email: marilia@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/marilia
-
-# Professor Mário Rela:
-
-nome: Mário Rela
-categoria: Professor Auxiliar
-email: mzrela@dei.uc.pt
-perfil: http://faculty.uc.pt/uc24500
-
-# Professor Naghmeh Ivaki:
-
-nome: Naghmeh Ivaki
-categoria: Professora Auxiliar
-email: naghmeh@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/naghmeh-ivaki
-
-# Professor Nuno Laranjeiro:
-
-nome: Nuno Laranjeiro
-categoria: Professor Associado c/ Agregação
-email: cnl@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc26646
-
-# Professor Nuno Lourenço:
-
-nome: Nuno Lourenço
-categoria: Professor Associado
-email: naml@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc26856/en
-
-# Professor Paula Alexandra Silva:
-
-nome: Paula Alexandra Silva
-categoria: Professora Auxiliar
-email: paulasilva@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc45348
-
-# Professor Paulo Rupino:
-
-nome: Paulo Rupino
-categoria: Professor Associado c/ Agregação
-email: rupino@dei.uc.pt
-perfil: http://faculty.uc.pt/uc25527
-
-# Professor Paulo Simões:
-
-nome: Paulo Simões
-categoria: Professor Associado
-email: psimoes@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc25711/en
-
-# Professor Paulo de Carvalho:
-
-nome: Paulo de Carvalho
-categoria: Professor Catedrático
-email: carvalho@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/paulo-carvalho
-
-# Professor Pedro Abreu:
-
-nome: Pedro Abreu
-categoria: Professor Associado c/ Agregação
-email: pha@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc40768/pt
-
-# Professor Pedro Furtado:
-
-nome: Pedro Furtado
-categoria: Professor Auxiliar
-email: pnf@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/pedro-furtado
-
-# Professor Pedro Martins:
-
-nome: Pedro Martins
-categoria: Professor Associado
-email: pjmm@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/pedro-martins
-
-# Professor Penousal Machado:
-
-nome: Penousal Machado
-categoria: Professor Associado c/ Agregação
-email: machado@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26593
-
-# Professor Raul Barbosa:
-
-nome: Raul Barbosa
-categoria: Professor Auxiliar
-email: rbarbosa@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc26844
-
-# Professor Rui Pedro Paiva:
-
-nome: Rui Pedro Paiva
-categoria: Professor Associado c/ Agregação
-email: ruipedro@dei.uc.pt
-perfil: https://apps.uc.pt/mypage/faculty/uc26118
-
-# Professor Teresa Mendes:
-
-nome: Teresa Mendes
-categoria: Professora Catedrática Jubilada
-email: tmendes@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/teresa-mendes
-
-# Professor Tiago Cruz:
-
-nome: Tiago Cruz
-categoria: Professor Associado c/ Agregação
-email: tjcruz@dei.uc.pt
-perfil: http://faculty.uc.pt/uc41531
-
-# Professor Tiago Martins:
-
-nome: Tiago Martins
-categoria: Professor Auxiliar
-email: tiagofm@dei.uc.pt
-perfil: https://www.cisuc.uc.pt/en/people/tiago-martins
-
-# Professor Vasco Pereira:
-
-nome: Vasco Pereira
-categoria: Professor Auxiliar
-email: vasco@dei.uc.pt
-perfil: http://faculty.uc.pt/uc26416
+Para mais informação consultar https://www.uc.pt/fctuc/dei/apresentacao/corpo-docente/
 
 # Ensino no DEI
 
@@ -492,13 +152,13 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 
 # Lista de Cursos do DEI
 
-### Licenciaturas (1º ciclo)
+## Licenciaturas (1º ciclo)
 
 - **LEI** – Licenciatura em Engenharia Informática[Mais informação](https://www.uc.pt/fctuc/dei/ensino/licenciaturas/lei/)
 - **LDM** – Licenciatura em Design e Multimédia[Mais informação](https://www.uc.pt/fctuc/dei/ensino/licenciaturas/ldm/)
 - **LECD** – Licenciatura em Engenharia e Ciência de Dados[Mais informação](https://www.uc.pt/fctuc/dei/ensino/licenciaturas/lecd/)
 
-### Mestrados (2º ciclo)
+## Mestrados (2º ciclo)
 
 - **MEI** – Mestrado em Engenharia Informática - https://www.uc.pt/fctuc/dei/ensino/mestrados/mei/
 - **MDM** – Mestrado em Design e Multimédia - https://www.uc.pt/fctuc/dei/ensino/mestrados/mdm/
@@ -506,71 +166,29 @@ O departamento oferece uma ampla gama de programas acadêmicos, incluindo:
 - **MSI** – Mestrado em Segurança Informática*(Especialização Avançada)* - https://www.uc.pt/fctuc/dei/ensino/mestrados/msi/
 - **MSE** – Mestrado em Engenharia de Software*(Formação ao longo da vida)* - https://www.uc.pt/fctuc/dei/ensino/mestrados/mse/
 
-### Mestrados (2º ciclo – Campus da Figueira da Foz)
+## Mestrados (2º ciclo – Campus da Figueira da Foz)
 
 - **MIA** – Mestrado em Inteligência Artificial - https://www.uc.pt/fctuc/dei/ensino/mestrados/mia/
 - **MCMDS** – Mestrado em Computação Musical e Design de Som - https://www.uc.pt/fctuc/dei/ensino/mestrados/mcmds/
 
-### Doutoramentos (3º ciclo)
+## Doutoramentos (3º ciclo)
 
 - **PhDEI** – PhD in Informatics Engineering - https://www.uc.pt/fctuc/dei/phddei/
 - **DDMC** – Doutoramento em Design de Media Computacionais - https://www.uc.pt/iii/ensino/programas-doutorais/design-de-media-computacionais/
 
-### Outros Cursos (Cursos Não Conferente de Grau)
+## Outros Cursos (Cursos Não Conferente de Grau)
 
-- **CURSO DE FORMAÇÃO – ACERTAR O RUMO – PROGRAMAÇÃO EM JAVA***Programa Acertar o Rumo* - https://www.uc.pt/fctuc/dei/acertarorumo/
-- **INTRODUÇÃO À PROGRAMAÇÃO USANDO JAVA***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=55
-- **REDES DE COMPUTADORES***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=27
-- **PROGRAMAÇÃO COMPETITIVA I** - https://www.uc.pt/fctuc/dei/pc1
-- **PROGRAMAÇÃO COMPETITIVA II** - https://www.uc.pt/fctuc/dei/pc2
-- **DESAFIOS EM INFORMÁTICA** - https://www.uc.pt/fctuc/dei/di/
+- **Curso de formação – Acertar o Rumo – Programação em Java***Programa Acertar o Rumo* - https://www.uc.pt/fctuc/dei/acertarorumo/
+- **Introdução à programação usando Java***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=55
+- **Redes de computadores***(Ensino à Distância)* - http://www.ed.uc.pt/educ/curso?id=27
+- **Programação competitiva I** - https://www.uc.pt/fctuc/dei/pc1
+- **Programação competitiva II** - https://www.uc.pt/fctuc/dei/pc2
+- **Desafios em Informática** - https://www.uc.pt/fctuc/dei/di/
 
-### Cursos em Colaboração (2º ciclo)
+## Cursos em Colaboração (2º ciclo)
 
 - **MEIG** – Mestrado em Engenharia de Informação Geoespacial - https://www.uc.pt/fctuc/dmat/ensino/mestradoEngInfGeo
 - **MEBIOM** – Mestrado em Engenharia Biomédica - http://fisica.uc.pt/ax/ensino/pl_est.php?pl=pleb5_bi
-
-
-# Direção do DEI
-
-- **Jorge Henriques** — Diretor
-- **Filipe Araújo** — Subdiretor
-- **Tiago Cruz** — Subdiretor
-- **Evgheni Polisciuc** — Subdiretor
-
-# Comissão Científica do Departamente do Engenharia Informática
-
-Tem um total de 16 professores:
-
-- Alberto Cardoso
-- António Mendes
-- Edmundo Monteiro
-- Amílcar Cardoso
-- Penousal Machado
-- Filipe Araújo
-- Henrique Madeira
-- João Correia
-- Jorge Henriques
-- Licínio Roque
-- Marília Curado
-- Nuno Lourenço
-- Paulo de Carvalho
-- Pedro Martins
-- Tiago Cruz
-- Vasco Pereira
-
-# Investigação no DEI
-
-O Centro de Informática e Sistemas da Universidade de Coimbra (CISUC) é um grande centro de investigação português nas áreas de Informática e Comunicações, criado em 1991 sob o Programa Ciência. Atualmente:
-
-- Cobre um segmento substancial de tópicos de investigação em Ciência da Computação e Tecnologias de Informação.
-- Obteve o grau máximo (“Excelente”) na última avaliação da Fundação para a Ciência e a Tecnologia (FCT).
-- Tem como objetivos realizar R&D original em nível pré‑competitivo, capacitar jovens investigadores altamente qualificados, cooperar em projetos e programas nacionais e internacionais, e divulgar resultados através de contratos com empresas.
-- Conta com cerca de 242 investigadores (professores e estudantes de graduação e pós‑graduação).
-- É membro fundador do Laboratório Associado de Sistemas Inteligentes (LASI), referência em Inteligência Artificial e Ciência dos Dados em Portugal.
-
-Para mais informação consulte o site do CISUC – https://www.cisuc.uc.pt/en
-
 
 # Informação sobre a Licenciatura em Engenharia Informática (LEI)
 
@@ -598,7 +216,7 @@ Ver Plano de Estudos 2025‑2026 - https://apps.uc.pt/courses/PT/programme/362/2
 
 ## Informação de Candidaturas
 
-- **Prazos de Candidatura:** definidos pela DGES - https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593
+### Prazos de Candidatura: definidos pela DGES - https://www.dges.gov.pt/pt/pagina/calendario-concurso-nacional-de-acesso-0?plid=593
 - **Concursos Especiais:**
     - Internacional
     - Maiores de 23 anos
@@ -618,7 +236,7 @@ Deve ter um dos pares de provas finais do ensino secundário:
 
 A nota de corte no ano 2024/25 for 153,0 e exisitiram 178 vagas disponíveis.
 
-### Saídas Profissionais
+## Saídas Profissionais
 
 - Programação de software
 - Levantamento de requisitos
@@ -626,12 +244,11 @@ A nota de corte no ano 2024/25 for 153,0 e exisitiram 178 vagas disponíveis.
 - Processamento e análise de dados
 - Operação e gestão de sistemas e redes
 
-
-## OBJETIVOS DO CURSO
+## Objectivos do Curso
 
 Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e competências práticas em Informática, conducentes tanto a estudos avançados (mestrado/doutoramento) como a exercício imediato da profissão, alinhados com recomendações IEEE/ACM/AIS e Ordem dos Engenheiros.
 
-## ADMISSÃO
+## Admissão
 
 - **Competências a Desenvolver:**
     
@@ -649,7 +266,7 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     
     Não aplicável.
     
-- **Propinas (anual):**
+- **Propinas da Licenciatura em Engenharia Informática (LEI):**
     - Estudante nacional: 697 €
     - Estudante internacional: 7 000 €
 
@@ -661,76 +278,13 @@ Proporcionar aos alunos um amplo espectro de conhecimentos teóricos, métodos e
     
     Diário da República, 2.ª série, n.º 194 (8 outubro 2013) – Despacho n.º 12841/2013
     
+## Coordenação do Curso; Coordenadores
 
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano 1º Semestre
+O Professor Vasco Pereira é o Coordenador e o Professsor João Barata é o Vice‑coordenador
 
-Este é o plano curricular do 1º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+O e‑mail da Coordenação é coord-lei@dei.uc.pt.
 
-| Unidade Curricular | Área | ECTS | Semestre |
-|--------------------|------|------|----------|
-| Análise Matemática I | MAT | 6.0 | 1 |
-| Estruturas Discretas | MAT | 6.0 | 1 |
-| Introdução à Programação e Resolução de Problemas | INF | 6.0 | 1 |
-| Tecnologias da Informática e Computadores | INF | 6.0 | 1 |
-| Álgebra Linear e Geometria Analítica | MAT | 6.0 | 1 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 1º ano 2º Semestre
-
-Este é o plano curricular do 1º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
-
-| Análise Matemática II | MAT | 6.0 | 2 |
-| Arquitetura de Computadores | INF | 6.0 | 2 |
-| Estatística | MAT | 6.0 | 2 |
-| Princípios de Programação Procedimental | INF | 6.0 | 2 |
-| Tópicos de Física Moderna | FIS | 6.0 | 2 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano 1º Semestre
-
-Este é o plano curricular do 2º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
-
-| Unidade Curricular | Área | ECTS | Semestre |
-|--------------------|------|------|----------|
-| Análise Matemática III | MAT | 6.0 | 1 |
-| Programação Orientada aos Objetos | INF | 6.0 | 1 |
-| Sistemas Operativos | INF | 6.0 | 1 |
-| Teoria da Computação | INF | 6.0 | 1 |
-| Teoria da Informação | INF | 6.0 | 1 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 2º ano 2º Semestre
-
-Este é o plano curricular do 2º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
-
-| Algoritmos e Estruturas de Dados | INF | 6.0 | 2 |
-| Análise e Transformação de Dados | INF | 6.0 | 2 |
-| Bases de Dados | INF | 6.0 | 2 |
-| Comunicação Técnica | EGCS | 3.0 | 2 |
-| Processos de Gestão e de Inovação | EGCS | 3.0 | 2 |
-| Redes de Comunicação | INF | 6.0 | 2 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano 1º Semestre
-
-Este é o plano curricular do 3º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
-
-| Unidade Curricular | Área | ECTS | Semestre |
-|--------------------|------|------|----------|
-| Engenharia de Características para Aprendizagem Computacional | INF | 6.0 | 1 |
-| Engenharia de Software | INF | 6.0 | 1 |
-| Protocolos de Comunicação | INF | 6.0 | 1 |
-| Sistemas Distribuídos | INF | 6.0 | 1 |
-| Sistemas de Informação | INF | 6.0 | 1 |
-
-# Plano de Estudos da Licenciatura em Engenharia Informática (LEI) - 3º ano 2º Semestre
-
-Este é o plano curricular do 3º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
-
-| Compiladores | INF | 6.0 | 2 |
-| Computação Gráfica Interativa | INF | 6.0 | 2 |
-| Estratégias Algorítmicas | INF | 6.0 | 2 |
-| Fundamentos de Inteligência Artificial | INF | 6.0 | 2 |
-| Fundamentos de Segurança Informática | INF | 6.0 | 2 |
-
-
-# Licenciatura em Design e Multimédia (LDM)
+# Informação sobre Licenciatura em Design e Multimédia (LDM)
 
 ## Apresentação
 
@@ -807,9 +361,9 @@ Os objetivos preconizados para a LDM privilegiam uma formação de base sólida 
 
 - Conforme regulamento da Universidade de Coimbra.
 
-### Montante de Propina / Preço
+### Propinas Licenciatura em Design e Multimédia (LDM)
 
-- **Nacional (ou equiparado):** 697 € / ano
+- **Nacional:** 697 € / ano
 - **Internacional:** 7 000 € / ano
 
 ### Línguas de Aprendizagem / Avaliação
@@ -822,7 +376,7 @@ Os objetivos preconizados para a LDM privilegiam uma formação de base sólida 
 - Portaria n.º 782/2009, de 23 de julho
 - Despacho n.º 7553/2008
 
-## Coordenação do Curso
+## Coordenação do Curso; Coordenadores
 
 O Professor Nuno Coelho é o Coordenador e o Professsor Jorge Cardoso é o Vice‑coordenador
 
@@ -830,53 +384,7 @@ O e‑mail da Coordenação é coord‑ldm@dei.uc.pt.
 
 O trabalho a desenvolver durante um ano letivo por um estudante, de acordo com o plano indicativo do ciclo de estudos e em regime de tempo integral, corresponde a 60 ECTS.
  
-
-# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 1º ano:
-
-Este é o plano curricular do 1º ano da da Licenciatura em Design e Multimédia (LDM):
-
-| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
-| --- | --- | --- | --- | --- | --- |
-| Desenho e Representação | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Fundamentos Matemáticos | 1º Semestre | Obrigatória | Matemática (MAT) | 6.0 |
-| Introdução à Programação e Resolução de Problemas | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
-| Tipografia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Desenho e Composição | 2º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| História do Design | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Programação Multimédia | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
-| Teoria do Design e Comunicação | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-
-# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 2º ano:
-
-Este é o plano curricular do 2º ano da da Licenciatura em Design e Multimédia (LDM):
-
-| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
-| --- | --- | --- | --- | --- | --- |
-| Arte e Cultura Moderna | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Projeto 1 – Identidade na Web | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-| Tecnologias da Internet | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Tipografia em Meios Digitais | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Computação Gráfica | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Fotografia e Composição | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Produção Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Projeto 2 – Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-
-# Plano de Estudos da Licenciatura em Design e Multimédia (LDM) - 3º ano:
-
-Este é o plano curricular do 3º ano da da Licenciatura em Design e Multimédia (LDM):
-
-| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
-| --- | --- | --- | --- | --- | --- |
-| Arte e Cultura Contemporânea | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
-| Engenharia de Software | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Projeto 3 – Aplicações Multimédia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-| Sistemas Informáticos | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Comunicação Multimédia | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
-| Design de Meios Interativos | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Introdução à Inteligência Artificial | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
-| Projeto 4 – Multimédia Interativo | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
-
-# Licenciatura em Engenharia e Ciência de Dados (LECD)
+# Informação sobre Licenciatura em Engenharia e Ciência de Dados (LECD)
 
 ## Apresentação
 
@@ -946,76 +454,18 @@ ADMISSÃO
     - 3º ciclo: Doutoramento em Ciências e Tecnologias da Informação (PDCTI)
 - **Corpo docente**: Investigadores de escolas e centros com projetos nacionais e internacionais
 - **Parcerias**: Portugal‑CMU, MIT, Texas/Austin, programas Erasmus, MAUI, Leonardo, GPU Research Center (NVIDIA), redes ECMI, ENBIS, PRACE
-- **Propinas**:
+- **Propinas Licenciatura em Engenharia e Ciência de Dados (LECD)**:
     - Nacional ou equiparado: 697 € / ano
     - Internacional: 7000 € / ano
 - **Língua**: Português
 
 
-## Coordenação do Curso
+## Coordenação do Curso; Coodernadores
 
 O coordenador da LECD é o Professor Marco Simões e o Vice-Coordenador é o Professor João Gouveia
 O e‑mail DA COORDENAÇÃO é coord‑lecd@dei.uc.pt
 
-# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 1.º Ano (60 ECTS)
-
-Este é o plano curricular do 1º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
-
-| Unidade Curricular | Sem. | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| **1.º Semestre** |  |  |  |  |
-| Análise Matemática I | 1 | Obrigatória | MAT | 6 |
-| Física | 1 | Obrigatória | FIS | 6 |
-| Introdução à Programação | 1 | Obrigatória | INF | 6 |
-| Otimização e Análise em Grafos | 1 | Obrigatória | MAT | 6 |
-| Álgebra Linear e Geometria Analítica | 1 | Obrigatória | MAT | 6 |
-| **2.º Semestre** |  |  |  |  |
-| Análise Matemática II | 1 | Obrigatória | MAT | 6 |
-| Estatística | 1 | Obrigatória | MAT | 6 |
-| Introdução à Engenharia e Ciência de Dados | 1 | Obrigatória | INF | 6 |
-| Programação Orientada aos Objetos | 1 | Obrigatória | INF | 6 |
-| Álgebra Linear Numérica e Cálculo Científico | 1 | Obrigatória | MAT | 6 |
-
-# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 2.º Ano (60 ECTS)
-
-Este é o plano curricular do 2º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
-
-| Unidade Curricular | Sem. | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| **1.º Semestre** |  |  |  |  |
-| Algoritmos e Estruturas de Dados | 2 | Obrigatória | INF | 6 |
-| Estatística para Ciência de Dados | 2 | Obrigatória | MAT | 6 |
-| Otimização Contínua | 2 | Obrigatória | MAT | 6 |
-| Sistema de Gestão de Dados | 2 | Obrigatória | INF | 6 |
-| Tópicos de Inteligência Artificial | 2 | Obrigatória | INF | 6 |
-| **2.º Semestre** |  |  |  |  |
-| Análise e Transformação de Dados | 2 | Obrigatória | INF | 6 |
-| Aprendizagem Computacional | 2 | Obrigatória | INF | 6 |
-| Processos de Gestão e de Inovação | 2 | Obrigatória | CSDG | 6 |
-| Sistemas Distribuídos | 2 | Obrigatória | INF | 6 |
-| Sistemas e Redes de Sensorização e Atuação | 2 | Obrigatória | INF | 6 |
-
-
-# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD) - 3.º Ano (60 ECTS)
-
-Este é o plano curricular do 3º ano da Licenciatura em Engenharia e Ciência de Dados (LECD):
-
-| Unidade Curricular | Sem. | Tipo | Área | ECTS |
-| --- | --- | --- | --- | --- |
-| **1.º Semestre** |  |  |  |  |
-| Dados, Sociedade e Direito | 3 | Obrigatória | CSDG | 6 |
-| Engenharia de Atributos | 3 | Obrigatória | INF | 6 |
-| Processamento de Linguagem Natural | 3 | Obrigatória | INF | 6 |
-| Sistemas e Infraestruturas de Computação | 3 | Obrigatória | INF | 6 |
-| Visualização de Dados | 3 | Obrigatória | INF | 6 |
-| **2.º Semestre** |  |  |  |  |
-| Aprendizagem Probabilística e Reconhecimento de Padrões | 3 | Obrigatória | INF | 6 |
-| Processamento Audiovisual | 3 | Obrigatória | INF | 6 |
-| Projeto de Engenharia e Ciência de Dados | 3 | Obrigatória | INF | 12 |
-
-Regra de opção aberta: No 2.º semestre do 3º ano, o estudante inscreve-se também numa unidade curricular optativa de 6 ECTS à sua escolha entre as oferecidas pela UC (sujeita a aprovação da coordenação).
-
-# Mestrado em Engenharia Informática
+# Informação sobre Mestrado em Engenharia Informática (MEI)
 
 Ao todo são 120 ECTS, divididos por 4 semestres
 
@@ -1047,39 +497,41 @@ Total: 120 ECTS em 2 anos (4 semestres)
 
 ## Informação de Candidaturas
 
+### Prazos de Candidatura
+
 - **1.ª fase**: 03–31 março | Vagas: 5
 - **2.ª fase**: 02 jun–15 jul | Vagas: 110
 - **3.ª fase**: 01–12 set | Vagas: 5 + sobrantes
 
-**Regime**: Tempo integral, presencial, diurno
+### Regime: Tempo integral, presencial, diurno
 
-**Propina anual**
+### Propinas anual Mestrado em Engenharia Informática (MEI)
 
 - Nacionais: € 1 063,47
 - Internacionais: € 7 000
 
-**Inscrições**:
+### Inscrições:
 
 - Para estudantes UC, aceder ao seguinte link para inscrever: https://inforestudante.uc.pt/nonio/security/login.do
 - Para outros, aceder ao seguinte link: https://inforestudante.uc.pt/nonio/security/novoRegisto.do
 
-# Áreas de Especialização do Mestrado em Engenharia Informática (MEI)
+## Áreas de Especialização do Mestrado em Engenharia Informática (MEI)
 
 1. Comunicações, Serviços e Infraestruturas
 
-**Objetivos**
+### Objetivos
 
 - Planeamento, conceção e gestão de redes, data centers, Cloud, IoT, 5G
 - Qualidade de serviço e segurança
 - Monitorização e avaliação de desempenho
 
-**Competências**
+### Competências
 
 - Arquiteturas e virtualização de alto desempenho
 - Segurança e qualidade em serviços telemáticos
 - Gestão de infraestruturas em Cloud
 
-**Carreiras**
+### Carreiras
 
 Especialista em redes, Cloud, segurança, consultoria TI, investigador.
 
@@ -1087,19 +539,19 @@ Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/P
 
 2. Engenharia de Software
 
-**Objetivos**
+### Objetivos*
 
 - Requisitos, modelagem e arquitetura de software
 - Integração e composição de serviços
 - Verificação, validação e garantia de qualidade
 
-**Competências**
+### Competências
 
 - Análise de requisitos
 - Arquitetura e padrões de design
 - Processos e gestão de projetos de software
 
-**Carreiras**
+### Carreiras
 
 Arquiteto de software, analista, gestor de qualidade, gestor de projetos.
 
@@ -1107,19 +559,19 @@ Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/P
 
 3. Sistemas Inteligentes
 
-**Objetivos**
+### Objetivos
 
 - IA simbólica e estatística, agentes, NLP, aprendizagem automática
 - Sistemas multi‑agente e planeamento incerto
 - Algoritmos bio‑inspirados e visualização de dados
 
-**Competências**
+### Competências
 
 - Modelagem e implementação de sistemas inteligentes
 - Análise de big data e visualização
 - Agentes autónomos e aplicações adaptativas
 
-**Carreiras**
+### Carreiras
 
 Data scientist, HCI designer, programador de agentes, investigador.
 
@@ -1127,25 +579,25 @@ Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/P
 
 4. Sistemas de Informação
 
-**Objetivos**
+### Objetivos
 
 - Modelação e análise de processos e arquiteturas empresariais
 - Design e implementação de serviços em Cloud
 - Governança e alinhamento estratégico de TI
 
-**Competências**
+### Competências
 
 - Engenharia de processos de negócio
 - Arquitetura empresarial
 - Gestão de SI e projetos de melhoria
 
-**Carreiras**
+### Carreiras
 
 Consultor de SI, analista de processos, arquiteto empresarial, gestor de Cloud.
 
 Para consultar o plano curricular completo, aceda a https://apps.uc.pt/courses/PT/programme/5041/2020-2021?id_branch=20325
 
-## Coordenação do Curso
+## Coordenação do Curso/Coordenadores
 
 O Coordenador é o Professor Pedro Abreu
 O Vice‑coordenador é o Professor Tiago Cruz
@@ -1161,134 +613,8 @@ O email da coordenação é coord‑mei@dei.uc.pt
 - Línguas: Português ou Inglês
 - Enquadramento legal: Decreto-Lei n.º 157/2014, de 18 agosto.
 
-# Percursos do Mestrado em Engenharia Informática (MEI)
 
-## 1. Comunicações, Serviços e Infraestruturas
-
-### 1.º Ano
-
-**1.º Semestre (Obrigatórias)**
-
-- Empreendedorismo e Gestão de Empresas — 6 ECTS
-- Fundamentos de Sistemas de Comunicação — 6 ECTS
-- Interação Humano-Computador — 6 ECTS
-- Metodologias Experimentais em Informática — 6 ECTS
-- Sistemas de Comunicação Móvel — 6 ECTS
-
-**2.º Semestre (Obrigatórias)**
-
-- Gestão de Infraestruturas e Serviços na Internet — 6 ECTS
-- Modelação e Desempenho de Redes — 6 ECTS
-- Segurança em Tecnologias da Informação — 6 ECTS
-
-**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-### 2.º Ano
-
-**1.º Semestre (Obrigatória)**
-
-- Gestão de Projetos — 6 ECTS
-
-**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-**Anual**
-
-- Dissertação/Estágio em Comunicações, Serviços e Infraestruturas — 42 ECTS
-
-## 2. Engenharia de Software
-
-### 1.º Ano
-
-**1.º Semestre (Obrigatórias)**
-
-- Empreendedorismo e Gestão de Empresas — 6 ECTS
-- Engenharia de Requisitos — 6 ECTS
-- Integração de Sistemas — 6 ECTS
-- Interação Humano-Computador — 6 ECTS
-- Metodologias Experimentais em Informática — 6 ECTS
-
-**2.º Semestre (Obrigatórias)**
-
-- Arquitetura de Software — 6 ECTS
-- Qualidade e Confiabilidade de Software — 6 ECTS
-- Segurança em Tecnologias da Informação — 6 ECTS
-
-**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-### 2.º Ano
-
-**1.º Semestre (Obrigatória)**
-
-- Gestão de Projetos — 6 ECTS
-
-**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-**Anual**
-
-- Dissertação/Estágio em Engenharia de Software — 42 ECTS
-
-## 3. Sistemas Inteligentes
-
-### 1.º Ano
-
-**1.º Semestre (Obrigatórias)**
-
-- Aprendizagem Computacional — 6 ECTS
-- Empreendedorismo e Gestão de Empresas — 6 ECTS
-- Inteligência Artificial — 6 ECTS
-- Interação Humano-Computador — 6 ECTS
-- Metodologias Experimentais em Informática — 6 ECTS
-
-**2.º Semestre (Obrigatórias)**
-
-- Computação Evolucionária — 6 ECTS
-- Reconhecimento de Padrões — 6 ECTS
-- Segurança em Tecnologias da Informação — 6 ECTS
-
-**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-### 2.º Ano
-
-**1.º Semestre (Obrigatória)**
-
-- Gestão de Projetos — 6 ECTS
-
-**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-**Anual**
-
-- Dissertação/Estágio em Sistemas Inteligentes — 42 ECTS
-
-## 4. Sistemas de Informação
-
-### 1.º Ano
-
-**1.º Semestre (Obrigatórias)**
-
-- Arquitetura de Empresas — 6 ECTS
-- Empreendedorismo e Gestão de Empresas — 6 ECTS
-- Gestão de Sistemas de Informação — 6 ECTS
-- Interação Humano-Computador — 6 ECTS
-- Metodologias Experimentais em Informática — 6 ECTS
-
-**2.º Semestre (Obrigatórias)**
-
-- Engenharia de Serviços — 6 ECTS
-- Gestão de Processos de Negócio — 6 ECTS
-- Segurança em Tecnologias da Informação — 6 ECTS
-
-**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
-
-### 2.º Ano
-
-**1.º Semestre (Obrigatória)**
-
-- Gestão de Projetos — 6 ECTS
-
-**1.º Semestre (Optativas — 12 ECTS)**
-*O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministr
-
-# Mestrado em Design e Multimédia
+# Informação sobre Mestrado em Design e Multimédia (MDM)
 
 ## Apresentação
 
@@ -1311,28 +637,28 @@ Para ver a seleção de trabalhos dos alunos, consulte http://dm.dei.uc.pt/
 
 ## Informação de Candidaturas
 
-**Prazos de candidatura**
+### Prazos de candidatura
 
 - 1ª fase: *03 a 31 de março*
 - 2ª fase: *02 de junho a 15 de julho*
 - 3ª fase: *01 a 12 de setembro*
 
-**Vagas disponíveis**
+### Vagas disponíveis
 
 - 1ª fase: 5
 - 2ª fase: 40
 - 3ª fase: 10 + vagas sobrantes
 
-**Regime de estudo**
+### Regime de estudo
 
 Blended‑Learning (Integral, Diurno, Presencial com continuidade online).
 
-**Propinas anuais**
+### Propinas Mestrado em Design e Multimédia (MDM)
 
 - Estudante Nacional ou equiparado: € 1 063,47
 - Estudante Internacional: € 7 000
 
-**Submeter candidatura**
+### Submeter candidatura
 
 Para submeter a candidatura:
 Se for Estudante da Universidade de Coimbra, aceda a: https://inforestudante.uc.pt/nonio/security/login.do
@@ -1364,75 +690,12 @@ O curso privilegia uma sólida formação interdisciplinar, preparando profissio
 1. Licenciado em Design, Informática, Comunicações e áreas afins.
 2. Outros graus reconhecidos pelo Conselho Científico da FCTUC.
 
-## Coordenação do Curso
+## Coordenação do Curso/Coordenadores
 
 O email da Coordenação é coord‑mdm@dei.uc.pt
 
-# Plano de Estudos do Mestrado em Design e Multimédia (MDM) - 1º ano
 
-Este é o plano curricular do 1º ano do Mestrado em Design e Multimédia (MDM)
-
-## Tronco Comum do 1º ano do Mestrado em Design e Multimédia (MDM) - 1º ano
-
-| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
-| --- | --- | --- | --- | --- | --- |
-| [Design de Interação](https://apps.uc.pt/courses/PT/unit/85166/21924/2025-2026) | 1 | 1.º Semestre | Obrigatória | CI | 6 |
-| [Laboratório Editorial](https://apps.uc.pt/courses/PT/unit/91709/21924/2025-2026) | 1 | 1.º Semestre | Obrigatória | AVPM | 6 |
-| [Design Generativo](https://apps.uc.pt/courses/PT/unit/85172/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | CI | 6 |
-| [Oficina de Design Multimeios](https://apps.uc.pt/courses/PT/unit/85177/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | AVPM | 6 |
-| [Tecnologias de Interface](https://apps.uc.pt/courses/PT/unit/85170/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | CI | 6 |
-
-## Opcionais do 1.º Ano do Mestrado em Design e Multimédia (MDM) - 1º ano
-
-| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
-| --- | --- | --- | --- | --- | --- |
-| [Computação Móvel](https://apps.uc.pt/courses/PT/unit/82023/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
-| [Design de Serviços](https://apps.uc.pt/courses/PT/unit/85173/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
-| [Design de Som](https://apps.uc.pt/courses/PT/unit/85175/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
-| [Introdução à Tipografia](https://apps.uc.pt/courses/PT/unit/95804/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
-| [Modelação e Materialização](https://apps.uc.pt/courses/PT/unit/85174/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | BA | 6 |
-| [Programação](https://apps.uc.pt/courses/PT/unit/11137/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
-| [Tipografia Avançada](https://apps.uc.pt/courses/PT/unit/74349/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
-| [Visualização de Informação](https://apps.uc.pt/courses/PT/unit/85176/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
-| [Computação Social e Colaborativa](https://apps.uc.pt/courses/PT/unit/90565/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
-| [Criatividade Computacional para Design](https://apps.uc.pt/courses/PT/unit/90567/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
-| [Desenvolvimento Web](https://apps.uc.pt/courses/PT/unit/90568/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
-| [Design de Jogos](https://apps.uc.pt/courses/PT/unit/85179/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
-| [Práticas Artísticas Contemporâneas](https://apps.uc.pt/courses/PT/unit/85171/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
-| [Práticas de Desenho e Composição](https://apps.uc.pt/courses/PT/unit/90571/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
-
-até 18 ECTS de unidades optativas na UC (sujeito a aprovação)
-
-# Plano de Estudos do Mestrado em Design e Multimédia (MDM) - 2º ano
-
-Este é o plano curricular do 2º ano do Mestrado em Design e Multimédia (MDM)
-
-## Tronco Comum do 2º ano do Mestrado em Design e Multimédia (MDM) - 1º ano
-
-| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
-| --- | --- | --- | --- | --- | --- |
-| [Design de Transição](https://apps.uc.pt/courses/PT/unit/85169/21924/2025-2026) | 2 | 1.º Semestre | Obrigatória | SE | 6 |
-| [Estágio / Dissertação](https://apps.uc.pt/courses/PT/unit/11067/21924/2025-2026) | 2 | Anual | Obrigatória | AVPM | 42 |
-
-## Opcionais do 2.º Ano do Mestrado em Design e Multimédia (MDM) - 1º ano
-
-| Unidade Curricular | Regime | ECTS |
-| --- | --- | --- |
-| [Acessibilidade e Design Universal](https://apps.uc.pt/courses/PT/unit/90562/21924/2025-2026) | 1.º Semestre | 6 |
-| [Ambientes de Realidade Virtual Interativos](https://apps.uc.pt/courses/PT/unit/90563/21924/2025-2026) | 1.º Semestre | 6 |
-| [Animação e Imagem em Média Computacionais](https://apps.uc.pt/courses/PT/unit/90564/21924/2025-2026) | 1.º Semestre | 6 |
-| [Aprendizagem Mediada pela Tecnologia](https://apps.uc.pt/courses/PT/unit/85182/21924/2025-2026) | 1.º Semestre | 6 |
-| [Arquitetura de Interfaces](https://apps.uc.pt/courses/PT/unit/85180/21924/2025-2026) | 1.º Semestre | 6 |
-| [Arquiteturas e Universos Virtuais](https://apps.uc.pt/courses/PT/unit/85183/21924/2025-2026) | 1.º Semestre | 6 |
-| [Comunicação e Marketing Digital](https://apps.uc.pt/courses/PT/unit/90566/21924/2025-2026) | 1.º Semestre | 6 |
-| [Laboratório de Design Computacional](https://apps.uc.pt/courses/PT/unit/90569/21924/2025-2026) | 1.º Semestre | 6 |
-| [Narrativa Visual](https://apps.uc.pt/courses/PT/unit/90570/21924/2025-2026) | 1.º Semestre | 6 |
-
-Total: 12 ECTS de optativas no 2.º ano
-
-*A inscrição está sujeita a aprovação pela coordenação do curso.*
- 
-# Mestrado em Engenharia e Ciência de Dados
+# Informação sobre Mestrado em Engenharia e Ciência de Dados (MECD)
 
 ## Apresentação
 
@@ -1483,7 +746,7 @@ Para Ver plano curricular consulte https://apps.uc.pt/courses/PT/course/8521
 
 Tempo Integral, Presencial e Diurno.
 
-### Montante de Propina/Preço
+### Propinas Mestrado em Engenharia e Ciência de Dados (MECD)
 
 - Estudante Nacional ou equiparado: 1 063,47 € (anual)
 - Estudante Internacional: 7 000 € (anual)*(sujeito a alteração pelo Conselho Geral)*
@@ -1560,16 +823,421 @@ Português ou Inglês.
 
 Artigo 3.º do DL n.º 74/2006, de 24 de março, com redação do DL n.º 65/2018, de 16 de agosto.
 
-## Coordenação do Curso
+## Coordenação do Curso/Coordenadores
 
 O coordenador do curso é o Professor Paulo de Carvalho
 O Vice-coordenador é o Professor Paulo Peixoto
 
 O email da Coordenação é coord-mecd@dei.uc.pt
 
-# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD) - 1º Ano
 
-Este é o plano curricular do 1º ano do Mestrado em Engenharia e Ciência de Dados (MECD)
+# Investigação no DEI
+
+O Centro de Informática e Sistemas da Universidade de Coimbra (CISUC) é um grande centro de investigação português nas áreas de Informática e Comunicações, criado em 1991 sob o Programa Ciência. Atualmente:
+
+- Cobre um segmento substancial de tópicos de investigação em Ciência da Computação e Tecnologias de Informação.
+- Obteve o grau máximo (“Excelente”) na última avaliação da Fundação para a Ciência e a Tecnologia (FCT).
+- Tem como objetivos realizar R&D original em nível pré‑competitivo, capacitar jovens investigadores altamente qualificados, cooperar em projetos e programas nacionais e internacionais, e divulgar resultados através de contratos com empresas.
+- Conta com cerca de 242 investigadores (professores e estudantes de graduação e pós‑graduação).
+- É membro fundador do Laboratório Associado de Sistemas Inteligentes (LASI), referência em Inteligência Artificial e Ciência dos Dados em Portugal.
+
+Para mais informação consulte o site do CISUC – https://www.cisuc.uc.pt/en
+ 
+
+# Plano de Estudos da Licenciatura em Engenharia Informática (LEI); Disciplinas da Licenciatura em Engenharia Informática (LEI); Cadeiras da Licenciatura em Engenharia Informática (LEI)
+## 1º ano 1º Semestre; primeiro ano primeiro semestre
+
+Este é o plano curricular do 1º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Análise Matemática I | MAT | 6.0 | 1 |
+| Estruturas Discretas | MAT | 6.0 | 1 |
+| Introdução à Programação e Resolução de Problemas | INF | 6.0 | 1 |
+| Tecnologias da Informática e Computadores | INF | 6.0 | 1 |
+| Álgebra Linear e Geometria Analítica | MAT | 6.0 | 1 |
+
+## 1º ano 2º Semestre; primeiro ano segundo semestre
+
+Este é o plano curricular do 1º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Análise Matemática II | MAT | 6.0 | 2 |
+| Arquitetura de Computadores | INF | 6.0 | 2 |
+| Estatística | MAT | 6.0 | 2 |
+| Princípios de Programação Procedimental | INF | 6.0 | 2 |
+| Tópicos de Física Moderna | FIS | 6.0 | 2 |
+
+## 2º ano 1º Semestre; segundo ano primeiro semestre
+
+Este é o plano curricular do 2º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Análise Matemática III | MAT | 6.0 | 1 |
+| Programação Orientada aos Objetos | INF | 6.0 | 1 |
+| Sistemas Operativos | INF | 6.0 | 1 |
+| Teoria da Computação | INF | 6.0 | 1 |
+| Teoria da Informação | INF | 6.0 | 1 |
+
+## 2º ano 2º Semestre; segundo ano segundo semestre
+
+Este é o plano curricular do 2º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Algoritmos e Estruturas de Dados | INF | 6.0 | 2 |
+| Análise e Transformação de Dados | INF | 6.0 | 2 |
+| Bases de Dados | INF | 6.0 | 2 |
+| Comunicação Técnica | EGCS | 3.0 | 2 |
+| Processos de Gestão e de Inovação | EGCS | 3.0 | 2 |
+| Redes de Comunicação | INF | 6.0 | 2 |
+
+## 3º ano 1º Semestre; terceiro ano primeiro semestre
+
+Este é o plano curricular do 3º ano (1º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Unidade Curricular | Área | ECTS | Semestre |
+|--------------------|------|------|----------|
+| Engenharia de Características para Aprendizagem Computacional | INF | 6.0 | 1 |
+| Engenharia de Software | INF | 6.0 | 1 |
+| Protocolos de Comunicação | INF | 6.0 | 1 |
+| Sistemas Distribuídos | INF | 6.0 | 1 |
+| Sistemas de Informação | INF | 6.0 | 1 |
+
+## 3º ano 2º Semestre; terceiro ano segundo semestre
+
+Este é o plano curricular do 3º ano (2º Semestre) da da Licenciatura em Engenharia Informática (LEI):
+
+| Compiladores | INF | 6.0 | 2 |
+| Computação Gráfica Interativa | INF | 6.0 | 2 |
+| Estratégias Algorítmicas | INF | 6.0 | 2 |
+| Fundamentos de Inteligência Artificial | INF | 6.0 | 2 |
+| Fundamentos de Segurança Informática | INF | 6.0 | 2 |
+
+
+
+
+# Plano de Estudos da Licenciatura em Design e Multimédia (LDM); Disciplinas da Licenciatura em Design e Multimédia (LDM); Cadeiras da Licenciatura em Design e Multimédia (LDM)
+## 1º ano 1º Semestre; primeiro ano primeiro semestre
+Este é o plano curricular do 1º ano 1º semestre da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Desenho e Representação | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Fundamentos Matemáticos | 1º Semestre | Obrigatória | Matemática (MAT) | 6.0 |
+| Introdução à Programação e Resolução de Problemas | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
+| Tipografia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+
+## 1º ano 2º Semestre; primeiro ano segundo semestre
+Este é o plano curricular do 1º ano 2º semestre da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Desenho e Composição | 2º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| História do Design | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Programação Multimédia | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 12.0 |
+| Teoria do Design e Comunicação | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+
+## 2º ano 1º Semestre; segundo ano primeiro semestre
+Este é o plano curricular do 2º ano 1º semestre da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Arte e Cultura Moderna | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Projeto 1 – Identidade na Web | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+| Tecnologias da Internet | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Tipografia em Meios Digitais | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+
+## 2º ano 2º Semestre; segundo ano segundo semestre
+Este é o plano curricular do 2º ano 2º semestre da da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Computação Gráfica | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Fotografia e Composição | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Produção Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Projeto 2 – Audiovisual | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+
+## 3º ano 1º Semestre; terceiro ano primeiro semestre
+Este é o plano curricular do 3º ano 1º semestre da Licenciatura em Design e Multimédia (LDM):
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Arte e Cultura Contemporânea | 1º Semestre | Obrigatória | Belas Artes (BA) | 6.0 |
+| Engenharia de Software | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Projeto 3 – Aplicações Multimédia | 1º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+| Sistemas Informáticos | 1º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+
+## 3º ano 2º Semestre; terceiro ano segundo semestre
+Este é o plano curricular do 3º ano 1º semestre da Licencia
+
+| Nome da unidade curricular | Semestre | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
+| Comunicação Multimédia | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 6.0 |
+| Design de Meios Interativos | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Introdução à Inteligência Artificial | 2º Semestre | Obrigatória | Ciências Informáticas (CI) | 6.0 |
+| Projeto 4 – Multimédia Interativo | 2º Semestre | Obrigatória | Audiovisuais e Produção dos Media (AVPM) | 12.0 |
+
+# Plano de Estudos da Licenciatura em Engenharia e Ciência de Dados (LECD); Disciplinas da Licenciatura em Engenharia e Ciência de Dados (LECD); Cadeiras da Licenciatura em Engenharia e Ciência de Dados (LECD)
+## 1º ano 1º Semestre; primeiro ano primeiro semestre
+Este é o plano curricular do 1º ano 1º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **1.º Semestre** |  |  |  |  |
+| Análise Matemática I | 1 | Obrigatória | MAT | 6 |
+| Física | 1 | Obrigatória | FIS | 6 |
+| Introdução à Programação | 1 | Obrigatória | INF | 6 |
+| Otimização e Análise em Grafos | 1 | Obrigatória | MAT | 6 |
+| Álgebra Linear e Geometria Analítica | 1 | Obrigatória | MAT | 6 |
+
+## 1º ano 2º Semestre; primeiro ano segundo semestre
+Este é o plano curricular do 1º ano 2º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **2.º Semestre** |  |  |  |  |
+| Análise Matemática II | 1 | Obrigatória | MAT | 6 |
+| Estatística | 1 | Obrigatória | MAT | 6 |
+| Introdução à Engenharia e Ciência de Dados | 1 | Obrigatória | INF | 6 |
+| Programação Orientada aos Objetos | 1 | Obrigatória | INF | 6 |
+| Álgebra Linear Numérica e Cálculo Científico | 1 | Obrigatória | MAT | 6 |
+
+## 2º ano 1º Semestre; segundo ano primeiro semestre
+Este é o plano curricular do 2º ano 1º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **1.º Semestre** |  |  |  |  |
+| Algoritmos e Estruturas de Dados | 2 | Obrigatória | INF | 6 |
+| Estatística para Ciência de Dados | 2 | Obrigatória | MAT | 6 |
+| Otimização Contínua | 2 | Obrigatória | MAT | 6 |
+| Sistema de Gestão de Dados | 2 | Obrigatória | INF | 6 |
+| Tópicos de Inteligência Artificial | 2 | Obrigatória | INF | 6 |
+
+## 2º ano 2º Semestre; segundo ano segundo semestre
+Este é o plano curricular do 2º ano 2º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **2.º Semestre** |  |  |  |  |
+| Análise e Transformação de Dados | 2 | Obrigatória | INF | 6 |
+| Aprendizagem Computacional | 2 | Obrigatória | INF | 6 |
+| Processos de Gestão e de Inovação | 2 | Obrigatória | CSDG | 6 |
+| Sistemas Distribuídos | 2 | Obrigatória | INF | 6 |
+| Sistemas e Redes de Sensorização e Atuação | 2 | Obrigatória | INF | 6 |
+
+
+## 3º ano 1º Semestre; terceiro ano primeiro semestre
+Este é o plano curricular do 3º ano 1º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **1.º Semestre** |  |  |  |  |
+| Dados, Sociedade e Direito | 3 | Obrigatória | CSDG | 6 |
+| Engenharia de Atributos | 3 | Obrigatória | INF | 6 |
+| Processamento de Linguagem Natural | 3 | Obrigatória | INF | 6 |
+| Sistemas e Infraestruturas de Computação | 3 | Obrigatória | INF | 6 |
+| Visualização de Dados | 3 | Obrigatória | INF | 6 |
+
+## 3º ano 2º Semestre; terceiro ano segundo semestre
+Este é o plano curricular do 3º ano 2º semestre da Licenciatura em Engenharia e Ciência de Dados (LECD):
+
+| Unidade Curricular | Sem. | Tipo | Área | ECTS |
+| --- | --- | --- | --- | --- |
+| **2.º Semestre** |  |  |  |  |
+| Aprendizagem Probabilística e Reconhecimento de Padrões | 3 | Obrigatória | INF | 6 |
+| Processamento Audiovisual | 3 | Obrigatória | INF | 6 |
+| Projeto de Engenharia e Ciência de Dados | 3 | Obrigatória | INF | 12 |
+
+Regra de opção aberta: No 2.º semestre do 3º ano, o estudante inscreve-se também numa unidade curricular optativa de 6 ECTS à sua escolha entre as oferecidas pela UC (sujeita a aprovação da coordenação).
+
+
+# Plano de Estudos do Mestrado em Engenharia Informática (MEI); Disciplinas do Mestrado em Engenharia Informática (MEI); Cadeiras do Mestrado em Engenharia Informática (MEI)
+
+## Ramo/especialização Comunicações, Serviços e Infraestruturas
+
+### 1.º Ano; primeiro ano
+
+**1.º Semestre (Obrigatórias); primeiro semestre**
+
+- Empreendedorismo e Gestão de Empresas — 6 ECTS
+- Fundamentos de Sistemas de Comunicação — 6 ECTS
+- Interação Humano-Computador — 6 ECTS
+- Metodologias Experimentais em Informática — 6 ECTS
+- Sistemas de Comunicação Móvel — 6 ECTS
+
+**2.º Semestre (Obrigatórias); segundo semestre**
+
+- Gestão de Infraestruturas e Serviços na Internet — 6 ECTS
+- Modelação e Desempenho de Redes — 6 ECTS
+- Segurança em Tecnologias da Informação — 6 ECTS
+
+**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+### 2.º Ano; segundo ano
+
+**1.º Semestre (Obrigatória)**
+
+- Gestão de Projetos — 6 ECTS
+
+**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+**Anual**
+
+- Dissertação/Estágio em Comunicações, Serviços e Infraestruturas — 42 ECTS
+
+## Ramo/especialização Engenharia de Software
+
+### 1.º Ano; primeiro ano
+
+**1.º Semestre (Obrigatórias); primeiro semestre**
+
+- Empreendedorismo e Gestão de Empresas — 6 ECTS
+- Engenharia de Requisitos — 6 ECTS
+- Integração de Sistemas — 6 ECTS
+- Interação Humano-Computador — 6 ECTS
+- Metodologias Experimentais em Informática — 6 ECTS
+
+**2.º Semestre (Obrigatórias); segundo semestre**
+
+- Arquitetura de Software — 6 ECTS
+- Qualidade e Confiabilidade de Software — 6 ECTS
+- Segurança em Tecnologias da Informação — 6 ECTS
+
+**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+### 2.º Ano; segundo ano
+
+**1.º Semestre (Obrigatória)**
+
+- Gestão de Projetos — 6 ECTS
+
+**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+**Anual**
+
+- Dissertação/Estágio em Engenharia de Software — 42 ECTS
+
+## Ramo/especialização Sistemas Inteligentes
+
+### 1.º Ano; primeiro ano
+
+**1.º Semestre (Obrigatórias); primeiro semestre**
+
+- Aprendizagem Computacional — 6 ECTS
+- Empreendedorismo e Gestão de Empresas — 6 ECTS
+- Inteligência Artificial — 6 ECTS
+- Interação Humano-Computador — 6 ECTS
+- Metodologias Experimentais em Informática — 6 ECTS
+
+**2.º Semestre (Obrigatórias); segundo semestre**
+
+- Computação Evolucionária — 6 ECTS
+- Reconhecimento de Padrões — 6 ECTS
+- Segurança em Tecnologias da Informação — 6 ECTS
+
+**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+### 2.º Ano; segundo ano
+
+**1.º Semestre (Obrigatória)**
+
+- Gestão de Projetos — 6 ECTS
+
+**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+**Anual**
+
+- Dissertação/Estágio em Sistemas Inteligentes — 42 ECTS
+
+## Ramo/especialização Sistemas de Informação
+
+### 1.º Ano; primeiro ano
+
+**1.º Semestre (Obrigatórias); primeiro semestre**
+
+- Arquitetura de Empresas — 6 ECTS
+- Empreendedorismo e Gestão de Empresas — 6 ECTS
+- Gestão de Sistemas de Informação — 6 ECTS
+- Interação Humano-Computador — 6 ECTS
+- Metodologias Experimentais em Informática — 6 ECTS
+
+**2.º Semestre (Obrigatórias); segundo semestre**
+
+- Engenharia de Serviços — 6 ECTS
+- Gestão de Processos de Negócio — 6 ECTS
+- Segurança em Tecnologias da Informação — 6 ECTS
+
+**2.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 2.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+### 2.º Ano; segundo ano
+
+**1.º Semestre (Obrigatória)**
+
+- Gestão de Projetos — 6 ECTS
+
+**1.º Semestre (Optativas — 12 ECTS)***O estudante deverá inscrever-se, no 1.º semestre, em unidades curriculares optativas que perfaçam um total de 12 ECTS, de entre as oferecidas para o mestrado ou de entre as ministradas na UC, através da regra de lista aberta, tendo em consideração os limites de ECTS optativos definidos por área científica.*
+
+# Plano de Estudos do Mestrado em Design e Multimédia (MDM); Disciplinas do Mestrado em Design e Multimédia (MDM); Cadeiras do Mestrado em Design e Multimédia (MDM)
+
+## Tronco Comum do 1º ano do Mestrado em Design e Multimédia (MDM); primeiro ano
+
+| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
+| --- | --- | --- | --- | --- | --- |
+| [Design de Interação](https://apps.uc.pt/courses/PT/unit/85166/21924/2025-2026) | 1 | 1.º Semestre | Obrigatória | CI | 6 |
+| [Laboratório Editorial](https://apps.uc.pt/courses/PT/unit/91709/21924/2025-2026) | 1 | 1.º Semestre | Obrigatória | AVPM | 6 |
+| [Design Generativo](https://apps.uc.pt/courses/PT/unit/85172/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | CI | 6 |
+| [Oficina de Design Multimeios](https://apps.uc.pt/courses/PT/unit/85177/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | AVPM | 6 |
+| [Tecnologias de Interface](https://apps.uc.pt/courses/PT/unit/85170/21924/2025-2026) | 1 | 2.º Semestre | Obrigatória | CI | 6 |
+
+## Opcionais do 1.º Ano do Mestrado em Design e Multimédia (MDM); primeiro ano
+
+| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
+| --- | --- | --- | --- | --- | --- |
+| [Computação Móvel](https://apps.uc.pt/courses/PT/unit/82023/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
+| [Design de Serviços](https://apps.uc.pt/courses/PT/unit/85173/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
+| [Design de Som](https://apps.uc.pt/courses/PT/unit/85175/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
+| [Introdução à Tipografia](https://apps.uc.pt/courses/PT/unit/95804/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
+| [Modelação e Materialização](https://apps.uc.pt/courses/PT/unit/85174/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | BA | 6 |
+| [Programação](https://apps.uc.pt/courses/PT/unit/11137/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
+| [Tipografia Avançada](https://apps.uc.pt/courses/PT/unit/74349/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | AVPM | 6 |
+| [Visualização de Informação](https://apps.uc.pt/courses/PT/unit/85176/21924/2025-2026) | 1 | 1.º Semestre | Opcional* | CI | 6 |
+| [Computação Social e Colaborativa](https://apps.uc.pt/courses/PT/unit/90565/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
+| [Criatividade Computacional para Design](https://apps.uc.pt/courses/PT/unit/90567/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
+| [Desenvolvimento Web](https://apps.uc.pt/courses/PT/unit/90568/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
+| [Design de Jogos](https://apps.uc.pt/courses/PT/unit/85179/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | CI | 6 |
+| [Práticas Artísticas Contemporâneas](https://apps.uc.pt/courses/PT/unit/85171/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
+| [Práticas de Desenho e Composição](https://apps.uc.pt/courses/PT/unit/90571/21924/2025-2026) | 1 | 2.º Semestre | Opcional* | BA | 6 |
+
+até 18 ECTS de unidades optativas na UC (sujeito a aprovação)
+
+## Tronco Comum do 2º ano do Mestrado em Design e Multimédia (MDM) - primeiro ano
+
+| Unidade Curricular | Ano | Regime | Tipo | Área Científica | ECTS |
+| --- | --- | --- | --- | --- | --- |
+| [Design de Transição](https://apps.uc.pt/courses/PT/unit/85169/21924/2025-2026) | 2 | 1.º Semestre | Obrigatória | SE | 6 |
+| [Estágio / Dissertação](https://apps.uc.pt/courses/PT/unit/11067/21924/2025-2026) | 2 | Anual | Obrigatória | AVPM | 42 |
+
+## Opcionais do 2.º Ano do Mestrado em Design e Multimédia (MDM) - segundo ano
+
+| Unidade Curricular | Regime | ECTS |
+| --- | --- | --- |
+| [Acessibilidade e Design Universal](https://apps.uc.pt/courses/PT/unit/90562/21924/2025-2026) | 1.º Semestre | 6 |
+| [Ambientes de Realidade Virtual Interativos](https://apps.uc.pt/courses/PT/unit/90563/21924/2025-2026) | 1.º Semestre | 6 |
+| [Animação e Imagem em Média Computacionais](https://apps.uc.pt/courses/PT/unit/90564/21924/2025-2026) | 1.º Semestre | 6 |
+| [Aprendizagem Mediada pela Tecnologia](https://apps.uc.pt/courses/PT/unit/85182/21924/2025-2026) | 1.º Semestre | 6 |
+| [Arquitetura de Interfaces](https://apps.uc.pt/courses/PT/unit/85180/21924/2025-2026) | 1.º Semestre | 6 |
+| [Arquiteturas e Universos Virtuais](https://apps.uc.pt/courses/PT/unit/85183/21924/2025-2026) | 1.º Semestre | 6 |
+| [Comunicação e Marketing Digital](https://apps.uc.pt/courses/PT/unit/90566/21924/2025-2026) | 1.º Semestre | 6 |
+| [Laboratório de Design Computacional](https://apps.uc.pt/courses/PT/unit/90569/21924/2025-2026) | 1.º Semestre | 6 |
+| [Narrativa Visual](https://apps.uc.pt/courses/PT/unit/90570/21924/2025-2026) | 1.º Semestre | 6 |
+
+Total: 12 ECTS de optativas no 2.º ano
+
+*A inscrição está sujeita a aprovação pela coordenação do curso.*
+ 
+# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD) - Disciplinas do Mestrado em Engenharia e Ciência de Dados (MECD); Cadeiras do Mestrado em Engenharia e Ciência de Dados (MECD)
+## 1º ano 1º Semestre; primeiro ano primeiro semestre
+Este é o plano curricular do 1º ano 1º semestre do Mestrado em Engenharia e Ciência de Dados (MECD)
 
 | Nome da Unidade Curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
 | --- | --- | --- | --- | --- | --- |
@@ -1586,6 +1254,12 @@ Este é o plano curricular do 1º ano do Mestrado em Engenharia e Ciência de Da
 | Comunicação com Dados * | 1 | 1º Semestre | Opcional | OP | 6 |
 | Estatística Industrial * | 1 | 1º Semestre | Opcional | OP | 6 |
 | Tópicos de Ciência dos Dados * | 1 | 1º Semestre | Opcional | OP | 6 |
+
+## 1º ano 2º Semestre; primeiro ano segundo semestre
+Este é o plano curricular do 1º ano 2º semestre do Mestrado em Engenharia e Ciência de Dados (MECD)
+
+| Nome da Unidade Curricular | Ano | Regime | Tipo | Área Científica | Créditos ECTS |
+| --- | --- | --- | --- | --- | --- |
 | Análise Geométrica de Dados * | 1 | 2º Semestre | Opcional | OP | 6 |
 | Análise de Dados Espaciais * | 1 | 2º Semestre | Opcional | OP | 6 |
 | Análise de Dados para Mercados Financeiros * | 1 | 2º Semestre | Opcional | OP | 6 |
@@ -1595,17 +1269,17 @@ Este é o plano curricular do 1º ano do Mestrado em Engenharia e Ciência de Da
 | Simulação * | 1 | 2º Semestre | Opcional | OP | 6 |
 | Sistemas Complexos * | 1 | 2º Semestre | Opcional | OP | 6 |
 
-# Plano de Estudos do Mestrado em Engenharia e Ciência de Dados (MECD) - 2º Ano
-
-Este é o plano curricular do 2º ano do Mestrado em Engenharia e Ciência de Dados (MECD)
-
+## 2º ano 1º Semestre; segundo ano primeiro semestre
+Este é o plano curricular do 2º ano 1º semestre do Mestrado em Engenharia e Ciência de Dados (MECD)
 | **Análise de Séries Temporais e Predição** | 2 | 1º Semestre | Obrigatória | INF | 6 |
 | **Tecnologias para Análise de Dados** | 2 | 1º Semestre | Obrigatória | INF | 6 |
-| **Estágio / Dissertação** | 2 | Anual | Obrigatória | INF | 42 |
 | Bioinformática * | 2 | 1º Semestre | Opcional | OP | 6 |
 | Complementos de Visão por Computador * | 2 | 1º Semestre | Opcional | OP | 6 |
 | Infraestruturas Avançadas para Ciência de Dados * | 2 | 1º Semestre | Opcional | OP | 6 |
 | Métodos Heurísticos * | 2 | 1º Semestre | Opcional | OP | 6 |
 | Tecnologias Semânticas e da Linguagem Natural * | 2 | 1º Semestre | Opcional | OP | 6 |
+
+## 2º ano anual; segundo ano anual
+| **Estágio / Dissertação** | 2 | Anual | Obrigatória | INF | 42 |
 
 * Unidades curriculares opcionais (sujeitas à oferta anual da Unidade Orgânica)

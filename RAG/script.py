@@ -101,7 +101,9 @@ def load_and_chunk(file_path, max_lines_per_chunk=10, tokenizer=None, max_tokens
         
         # Store as tuple of (text, metadata) for better organization
         chunks.append((full_text_with_metadata, metadata))
-    
+
+    print(chunks)
+    print(f'Defined {len(chunks)} chunks')
     return chunks
 
 # Build FAISS index
@@ -290,8 +292,9 @@ def query_docs(request: QueryRequest):
         print(entire_context, flush=True)
 
         try:
-            response = generate_request(model_name = "qwen2.5:72b", 
-                                        prompt = f"{entire_context}\n{query_refactor_question}", 
+            # response = generate_request(model_name = "qwen2.5:72b_custom",
+            response = generate_request(model_name = "gemma3:27b_custom",
+                                        prompt = f"{entire_context}\n{query_refactor_question}",
                                         vm_url=ollama_endpoint)
             
             request.query = response["response"]
