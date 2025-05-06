@@ -8,7 +8,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Card, CardContent } from "@/components/ui/card";
 import { Trash2 } from "lucide-react";
-import { encode } from 'gpt-tokenizer';
+import { encode } from "gpt-tokenizer";
 
 // Import the logos from the assets folder
 import deiLogoFull from "./assets/dei_logo_full.svg";
@@ -91,7 +91,7 @@ function App() {
         ),
     ];
     */
-    
+
     // JRC 20250506 include just the current message
     /*
     const apiMessages: ChatMessage[] = [
@@ -102,7 +102,7 @@ function App() {
       },
     ];
     */
-    
+
     const MAX_CONTEXT_MESSAGES = 1; // total messages to include (user+assistant pairs)
 
     const relevantMessages = messages
@@ -122,13 +122,12 @@ function App() {
       },
     ];
 
-
     try {
       const apiEndpoint = import.meta.env.VITE_OLLAMA_API_ENDPOINT;
       const ragApiEndpoint = import.meta.env.VITE_RAG_API_ENDPOINT;
       const modelName = import.meta.env.VITE_OLLAMA_MODEL_NAME;
 
-      console.log(apiMessages)
+      //console.log(apiMessages); removed, only for debugging
 
       const contextResponse = await fetch(ragApiEndpoint, {
         method: "POST",
@@ -164,11 +163,14 @@ function App() {
       // const messageContent = apiMessages[apiMessages.length - 1].content;
 
       let totalTokens = 0;
-      apiMessages.forEach(message => {
+      apiMessages.forEach((message) => {
         totalTokens += encode(message.content).length;
       });
 
-      console.log("Total token count for all messages (using gpt-tokenizer, specific model might be diff):", totalTokens);
+      //console.log(
+      //  "Total token count for all messages (using gpt-tokenizer, specific model might be diff):",
+      //  totalTokens
+      //); removed, only for debugging
 
       // Create message with context and user prompt
       const response = await fetch(apiEndpoint, {
@@ -178,7 +180,7 @@ function App() {
           messages: apiMessages,
           stream: true,
           options: {
-            temperature: 0.5, // 0.2; 0.5 works well for gemma3; 
+            temperature: 0.5, // 0.2; 0.5 works well for gemma3;
           },
         }),
       });
@@ -272,89 +274,106 @@ function App() {
 
   return (
     <div className="flex flex-col h-screen bg-background">
-      <header className="p-4 border-b shrink-0 flex items-center justify-between gap-3">
-        <div className="flex items-center gap-3">
-          <img src={deiLogoFull} alt="DEI Logo" className="h-8 w-auto" />
-          <h1 className="text-xl font-semibold">DEI ChatBot</h1>
-        </div>
+      <header className="p-4 shrink-0 border-b flex items-center justify-between gap-3">
+        {/*img src={deiLogoFull} alt="DEI Logo" className="h-10 w-auto" />*/}
+        <div className="w-10" />{" "}
+        {/* Spacer to balance the button on the right */}
+        <h1 className="text-xl font-semibold">DEI ChatBot</h1>
         <Button
           variant="ghost"
           size="icon"
           onClick={handleReset}
           aria-label="Reset Chat"
         >
-          <Trash2 className="h-5 w-5" />
+          <Trash2 className="h-10" />
         </Button>
       </header>
-      <div className="flex-1 overflow-hidden">
-        <ScrollArea className="h-full p-4">
-          <div className="space-y-4">
-            {messages
-              .filter((msg) => msg.sender !== "system")
-              .map((message) => (
-                <div
-                  key={message.id}
-                  className={`flex items-end gap-2 ${
-                    message.sender === "user" ? "justify-end" : "justify-start"
-                  }`}
-                >
-                  {message.sender === "assistant" && (
-                    <Avatar className="h-10 w-10 border">
-                      <AvatarImage
-                        src={deiLogoAvatar}
-                        alt="Assistant"
-                        className="scale-80"
-                      />
-                      <AvatarFallback>DEI</AvatarFallback>
-                    </Avatar>
-                  )}
-                  <Card
-                    className={`max-w-xs md:max-w-md lg:max-w-lg ${
+      <div className="flex-1 flex flex-col max-w-3xl w-full mx-auto my-8 overflow-hidden rounded-lg border bg-card shadow-lg">
+        <div className="flex-1 overflow-hidden">
+          <ScrollArea className="h-full p-4">
+            <div className="space-y-4">
+              {messages
+                .filter((msg) => msg.sender !== "system")
+                .map((message) => (
+                  <div
+                    key={message.id}
+                    className={`flex items-end gap-2 ${
                       message.sender === "user"
-                        ? "bg-primary text-primary-foreground"
-                        : "bg-muted"
+                        ? "justify-end"
+                        : "justify-start"
                     }`}
                   >
-                    <CardContent className="px-5 break-words">
-                      <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                        {message.text ||
-                          (message.sender === "assistant" && isLoading
-                            ? "..."
-                            : "")}
-                      </ReactMarkdown>
-                    </CardContent>
-                  </Card>
-                  {message.sender === "user" && (
-                    <Avatar className="h-10 w-10 border">
-                      <AvatarFallback>U</AvatarFallback>
-                    </Avatar>
-                  )}
-                </div>
-              ))}
-            {/* Empty div at the end of messages to target for scrolling */}
-            <div ref={messagesEndRef} />
-          </div>
-        </ScrollArea>
-      </div>
-      <footer className="p-4 border-t shrink-0">
-        <div className="flex gap-2 items-center">
-          <Textarea
-            value={input}
-            onChange={handleInputChange}
-            onKeyDown={handleKeyDown}
-            placeholder={
-              isLoading
-                ? "Generating response..."
-                : "Type your message... (Shift + Enter for new line)"
-            }
-            className="flex-1 resize-none"
-            maxLength={300}
-            disabled={isLoading}
-          />
-          <Button onClick={handleSend} disabled={isLoading}>
-            {isLoading ? "..." : "Send"}
-          </Button>
+                    {message.sender === "assistant" && (
+                      <Avatar className="h-10 w-10 border">
+                        <AvatarImage
+                          src={deiLogoAvatar}
+                          alt="Assistant"
+                          className="scale-80"
+                        />
+                        <AvatarFallback>DEI</AvatarFallback>
+                      </Avatar>
+                    )}
+                    <Card
+                      className={`max-w-xs md:max-w-md lg:max-w-lg ${
+                        message.sender === "user"
+                          ? "bg-primary text-primary-foreground"
+                          : "bg-muted"
+                      }`}
+                    >
+                      <CardContent className="px-5 break-words">
+                        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                          {message.text ||
+                            (message.sender === "assistant" && isLoading
+                              ? "..."
+                              : "")}
+                        </ReactMarkdown>
+                      </CardContent>
+                    </Card>
+                    {message.sender === "user" && (
+                      <Avatar className="h-10 w-10 border">
+                        <AvatarFallback>U</AvatarFallback>
+                      </Avatar>
+                    )}
+                  </div>
+                ))}
+              {/* Empty div at the end of messages to target for scrolling */}
+              <div ref={messagesEndRef} />
+            </div>
+          </ScrollArea>
         </div>
+        {/* Existing chat input footer, now inside the box */}
+        <footer className="p-4 border-t shrink-0">
+          {/* Removed max-w-3xl and mx-auto from this div */}
+          <div className="flex gap-2 items-center">
+            <Textarea
+              value={input}
+              onChange={handleInputChange}
+              onKeyDown={handleKeyDown}
+              placeholder={
+                isLoading
+                  ? "Generating response..."
+                  : "Type your message... (Shift + Enter for new line)"
+              }
+              className="flex-1 resize-none"
+              maxLength={300}
+              disabled={isLoading}
+            />
+            <Button onClick={handleSend} disabled={isLoading}>
+              {isLoading ? "..." : "Send"}
+            </Button>
+          </div>
+        </footer>
+      </div>{" "}
+      {/* End of new box wrapper */}
+      <footer className="text-center p-4 text-xs text-muted-foreground border-t shrink-0">
+        <p>
+          © 2025 DEI ChatBot. For demonstration purposes only. Verify critical
+          information.
+        </p>
+        <p>
+          Created by João Donato, Rodrigo Nogueira, João Braz Simões and João R
+          Campos.
+        </p>
       </footer>
     </div>
   );
