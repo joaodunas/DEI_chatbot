@@ -11,7 +11,7 @@ import { Trash2 } from "lucide-react";
 import { encode } from "gpt-tokenizer";
 
 // Import the logos from the assets folder
-import deiLogoFull from "./assets/dei_logo_full.svg";
+//import deiLogoFull from "./assets/dei_logo_full.svg";
 import deiLogoAvatar from "./assets/dei_logo.svg"; // Assuming this is the avatar version
 
 // Import the types from the new file
@@ -277,7 +277,6 @@ function App() {
       <header className="p-4 shrink-0 border-b flex items-center justify-between gap-3">
         {/*img src={deiLogoFull} alt="DEI Logo" className="h-10 w-auto" />*/}
         <div className="w-10" />{" "}
-        {/* Spacer to balance the button on the right */}
         <h1 className="text-xl font-semibold">DEI ChatBot</h1>
         <Button
           variant="ghost"
